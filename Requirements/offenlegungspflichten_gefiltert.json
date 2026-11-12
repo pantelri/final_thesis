@@ -1,0 +1,212 @@
+{
+  "requirements": [
+    {
+      "id": "R02",
+      "legal_basis": "DRS 20.119, 20.127",
+      "title_de": "Angabe des Prognosezeitraums",
+      "title_en": "Disclosure of the forecast period",
+      "category": "LB Forecast Report",
+      "applicability": {
+        "type": "always",
+        "trigger": "Prognosebericht vorhanden"
+      },
+      "verification_criterion": "Explizite Nennung des Prognosezeitraums (i.d.R. mindestens ein Jahr ab Bilanzstichtag)",
+      "size_classes": [
+        "mittelgroß",
+        "groß"
+      ]
+    },
+    {
+      "id": "R03",
+      "legal_basis": "DRS 20.120 ff.",
+      "title_de": "Angabe der wesentlichen Annahmen der Prognose",
+      "title_en": "Disclosure of the material assumptions underlying the forecast",
+      "category": "LB Forecast Report",
+      "applicability": {
+        "type": "always",
+        "trigger": "Prognosebericht vorhanden"
+      },
+      "verification_criterion": "Darstellung der wesentlichen Annahmen, auf denen die Prognosen beruhen",
+      "size_classes": [
+        "mittelgroß",
+        "groß"
+      ]
+    },
+    {
+      "id": "R04",
+      "legal_basis": "DRS 20.125 f., 20.128–132",
+      "title_de": "Prognosen zu den bedeutsamsten Leistungsindikatoren",
+      "title_en": "Forecasts of the most significant performance indicators",
+      "category": "LB Forecast Report",
+      "applicability": {
+        "type": "always",
+        "trigger": "Im Wirtschaftsbericht verwendete bedeutsamste finanzielle/nichtfinanzielle Leistungsindikatoren"
+      },
+      "verification_criterion": "Prognoseaussagen zu denselben bedeutsamsten finanziellen und nichtfinanziellen Leistungsindikatoren, die zur internen Steuerung verwendet werden",
+      "size_classes": [
+        "mittelgroß",
+        "groß"
+      ]
+    },
+    {
+      "id": "R10",
+      "legal_basis": "DRS 20.150, 20.162–164",
+      "title_de": "Darstellung der Bedeutung der Risiken/Chancen",
+      "title_en": "Disclosure of the significance of risks/opportunities",
+      "category": "LB Opportunities & Risks",
+      "applicability": {
+        "type": "always",
+        "trigger": "Risiko- und Chancenbericht vorhanden"
+      },
+      "verification_criterion": "Darstellung der Bedeutung (z.B. Rangordnung oder Kategorisierung gleichartiger Risiken und Chancen)",
+      "size_classes": [
+        "mittelgroß",
+        "groß"
+      ]
+    },
+    {
+      "id": "R11",
+      "legal_basis": "DRS 20.135, 20.160 f., 20.165",
+      "title_de": "Gesamtbild der Risiko- und Chancenlage",
+      "title_en": "Overall picture of the risk and opportunity position",
+      "category": "LB Opportunities & Risks",
+      "applicability": {
+        "type": "always",
+        "trigger": "Risiko- und Chancenbericht vorhanden"
+      },
+      "verification_criterion": "Zusammenfassende Gesamtaussage zur Risiko- und Chancenlage der Gesellschaft",
+      "size_classes": [
+        "mittelgroß",
+        "groß"
+      ]
+    },
+    {
+      "id": "R12",
+      "legal_basis": "§ 289 Abs. 2 S. 1 Nr. 1 HGB / DRS 20.179–187",
+      "title_de": "Finanzrisikobericht zur Verwendung von Finanzinstrumenten",
+      "title_en": "Financial risk report on the use of financial instruments",
+      "category": "LB Opportunities & Risks",
+      "applicability": {
+        "type": "conditional",
+        "trigger": "Verwendung von Finanzinstrumenten und Bedeutung für Beurteilung von Lage / voraussichtlicher Entwicklung"
+      },
+      "verification_criterion": "Angaben zu Risikomanagementzielen/-methoden sowie zu Preisänderungs-, Ausfall- und Liquiditätsrisiken in Bezug auf Finanzinstrumente, sofern einschlägig",
+      "size_classes": [
+        "mittelgroß",
+        "groß"
+      ]
+    },
+    {
+      "id": "R14",
+      "legal_basis": "§ 289 Abs. 1 S. 2 HGB / DRS 20.65–77",
+      "title_de": "Analyse der Ertragslage",
+      "title_en": "Analysis of results of operations",
+      "category": "LB Financial Position & Results",
+      "applicability": {
+        "type": "always",
+        "trigger": "Lagebericht aufzustellen"
+      },
+      "verification_criterion": "Ausgewogene und umfassende Analyse der Ertragslage (Ergebnisquellen-, Umsatz-, Aufwands- und Ertragsanalyse)",
+      "size_classes": [
+        "mittelgroß",
+        "groß"
+      ]
+    },
+    {
+      "id": "R15",
+      "legal_basis": "§ 289 Abs. 1 S. 2 HGB / DRS 20.78–98",
+      "title_de": "Analyse der Finanzlage",
+      "title_en": "Analysis of financial position",
+      "category": "LB Financial Position & Results",
+      "applicability": {
+        "type": "always",
+        "trigger": "Lagebericht aufzustellen"
+      },
+      "verification_criterion": "Analyse der Finanzlage einschl. Kapitalstruktur-, Investitions- und Liquiditätsanalyse",
+      "size_classes": [
+        "mittelgroß",
+        "groß"
+      ]
+    },
+    {
+      "id": "R17",
+      "legal_basis": "§ 289 Abs. 1 S. 3 HGB / DRS 20.101–104",
+      "title_de": "Finanzielle Leistungsindikatoren",
+      "title_en": "Financial performance indicators",
+      "category": "LB Financial Position & Results",
+      "applicability": {
+        "type": "always",
+        "trigger": "Lagebericht aufzustellen; bedeutsamste finanzielle Leistungsindikatoren der internen Steuerung"
+      },
+      "verification_criterion": "Einbeziehung der bedeutsamsten finanziellen Leistungsindikatoren in die Analyse einschl. Darstellung ihrer Berechnung",
+      "size_classes": [
+        "mittelgroß",
+        "groß"
+      ]
+    },
+    {
+      "id": "R19",
+      "legal_basis": "§ 284 Abs. 3 HGB",
+      "title_de": "Anlagenspiegel",
+      "title_en": "Fixed asset movement schedule",
+      "category": "HGB Annex §§284-285",
+      "applicability": {
+        "type": "balance_sheet_item",
+        "trigger": "Anlagevermögen > 0 in Bilanz"
+      },
+      "verification_criterion": "Spiegel mit gesamten Anschaffungs-/Herstellungskosten, Zugängen, Abgängen, Umbuchungen, Zuschreibungen und Abschreibungen je Posten des Anlagevermögens",
+      "size_classes": [
+        "mittelgroß",
+        "groß"
+      ]
+    },
+    {
+      "id": "R22",
+      "legal_basis": "§ 285 Nr. 9 Buchst. a HGB",
+      "title_de": "Gesamtbezüge der Organmitglieder",
+      "title_en": "Total remuneration of governing-body members",
+      "category": "HGB Annex §§284-285",
+      "applicability": {
+        "type": "conditional",
+        "trigger": "Vorhandensein von Mitgliedern des Geschäftsführungs-/Aufsichtsorgans; Schutzklausel § 286 Abs. 4 HGB beachten"
+      },
+      "verification_criterion": "Angabe der für das Geschäftsjahr gewährten Gesamtbezüge je Personengruppe (Geschäftsführung, Aufsichtsrat, Beirat), sofern nicht Schutzklausel greift",
+      "size_classes": [
+        "mittelgroß",
+        "groß"
+      ]
+    },
+    {
+      "id": "R23",
+      "legal_basis": "§ 285 Nr. 13 HGB",
+      "title_de": "Abschreibungsdauer entgeltlich erworbener Geschäfts- oder Firmenwert",
+      "title_en": "Amortisation period of acquired goodwill",
+      "category": "HGB Annex §§284-285",
+      "applicability": {
+        "type": "balance_sheet_item",
+        "trigger": "Entgeltlich erworbener Geschäfts- oder Firmenwert in Bilanz aktiviert"
+      },
+      "verification_criterion": "Erläuterung des Zeitraums, über den der Geschäfts- oder Firmenwert abgeschrieben wird, einschl. Begründung der Nutzungsdauer",
+      "size_classes": [
+        "mittelgroß",
+        "groß"
+      ]
+    },
+    {
+      "id": "R24",
+      "legal_basis": "§ 285 Nr. 29 HGB",
+      "title_de": "Grundlagen der latenten Steuern (Differenzen, Verlustvorträge, Steuersätze)",
+      "title_en": "Basis of deferred taxes (differences, loss carryforwards, tax rates)",
+      "category": "HGB Annex §§284-285",
+      "applicability": {
+        "type": "balance_sheet_item",
+        "trigger": "Bilanzierte latente Steuern (aktiv und/oder passiv) vorhanden"
+      },
+      "verification_criterion": "Angabe, auf welchen Differenzen oder steuerlichen Verlustvorträgen die latenten Steuern beruhen und mit welchen Steuersätzen bewertet wurde (qualitativ)",
+      "size_classes": [
+        "mittelgroß",
+        "groß"
+      ]
+    }
+  ]
+}

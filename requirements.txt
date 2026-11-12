@@ -1,0 +1,22 @@
+# Analysis & evaluation environment (Part II), Python 3.13 — see README "Environment Setup".
+# Versions as used for the thesis runs (conda env `thesis2`).
+# The annotation platform (Part I) has its own annotation_app/requirements.txt.
+
+openai==2.38.0
+chromadb==1.5.9
+pandas==3.0.3
+numpy==2.4.4
+scipy==1.18.0
+scikit-learn==1.9.0
+matplotlib==3.11.0
+sqlalchemy==2.0.50
+psycopg2-binary>=2.9
+syntok==1.4.4
+tiktoken==0.13.0
+python-dotenv==1.2.1
+pytest>=8
+spacy>=3.7
+# afterwards: python -m spacy download de_core_news_sm
+
+# Optional — only for the initial PDF extraction (batch_pdf_to_md.py):
+# pdfservices-sdk==4.2.0

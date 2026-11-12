@@ -1,0 +1,14 @@
+\begin{table}[htbp]
+  \centering
+  \caption{Oracle-ablation deltas vs.\ the full pipeline (Efron bootstrap, $N=1000$, seed 42). Largest positive $\Delta$ = bottleneck.}
+  \label{tab:e2e-deltas}
+  \begin{tabular}{lrrc}
+    \toprule
+    Oracle stage isolated & $\Delta$ vs.\ full & 95\% CI & Sig. \\
+    \midrule
+    relevance & 0 & [0.000, 0.000] & no \\
+    retrieval & 0.021 & [-0.057, 0.100] & no \\
+    relevance+retrieval & 0.021 & [-0.057, 0.100] & no \\
+    \bottomrule
+  \end{tabular}
+\end{table}

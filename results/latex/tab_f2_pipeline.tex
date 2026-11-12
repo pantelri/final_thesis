@@ -1,0 +1,15 @@
+\begin{table}[htbp]
+  \centering
+  \caption{Output-scheme comparison on the binary GT: F1/F2 on the \emph{needs-review} class (Qwen winner). Support (review) $=18$.}
+  \label{tab:f2-pipeline}
+  \begin{tabular}{lrrrrrrr}
+    \toprule
+    Pipeline & Acc. & Macro-F1 & Macro-F2 & Rec. (review) & F1 (review) & F2 (review) & F2 95\% CI \\
+    \midrule
+    P1: 2-option (binary) & 0.757 & 0.610 & 0.637 & 0.556 & 0.370 & 0.463 & [0.269, 0.636] \\
+    P2: 3-option, optimistic & 0.850 & 0.570 & 0.561 & 0.167 & 0.222 & 0.185 & [0.000, 0.379] \\
+    P3: 3-option, fine/needs-review & 0.721 & 0.609 & 0.652 & 0.722 & 0.400 & 0.546 & [0.353, 0.695] \\
+    majority\_always\_fine & 0.871 & 0.466 & 0.486 & 0 & 0 & 0 & [0.000, 0.000] \\
+    \bottomrule
+  \end{tabular}
+\end{table}

@@ -1,0 +1,225 @@
+{
+  "requirements": [
+    {
+      "id": "R02",
+      "legal_basis": "DRS 20.119, 20.127",
+      "title_de": "Angabe des Prognosezeitraums",
+      "title_en": "Disclosure of the forecast period",
+      "category": "LB Forecast Report",
+      "applicability": {
+        "type": "always",
+        "trigger": "Prognosebericht vorhanden"
+      },
+      "verification_criterion": "Explizite Nennung des Prognosezeitraums (i.d.R. mindestens ein Jahr ab Bilanzstichtag)",
+      "size_classes": [
+        "mittelgroß",
+        "groß"
+      ],
+      "retrieval_text": "Der nachfolgende Prognosebericht bezieht sich auf einen Zeitraum von einem Jahr ab dem Bilanzstichtag und umfasst damit das Geschäftsjahr 2025. Die getroffenen Aussagen zur voraussichtlichen Entwicklung der Gesellschaft beruhen auf den zum Zeitpunkt der Aufstellung des Lageberichts verfügbaren Informationen sowie auf den Erwartungen der gesetzlichen Vertreter hinsichtlich der künftigen wirtschaftlichen Rahmenbedingungen. Die Prognosen unterliegen naturgemäß Unsicherheiten, sodass die tatsächliche Entwicklung von den hier dargestellten Erwartungen abweichen kann. Eine darüber hinausgehende längerfristige Vorausschau ist aufgrund der bestehenden Marktunsicherheiten mit angemessener Verlässlichkeit nicht möglich."
+    },
+    {
+      "id": "R03",
+      "legal_basis": "DRS 20.120 ff.",
+      "title_de": "Angabe der wesentlichen Annahmen der Prognose",
+      "title_en": "Disclosure of the material assumptions underlying the forecast",
+      "category": "LB Forecast Report",
+      "applicability": {
+        "type": "always",
+        "trigger": "Prognosebericht vorhanden"
+      },
+      "verification_criterion": "Darstellung der wesentlichen Annahmen, auf denen die Prognosen beruhen",
+      "size_classes": [
+        "mittelgroß",
+        "groß"
+      ],
+      "retrieval_text": "Den vorstehenden Prognosen liegen wesentliche Annahmen zur gesamtwirtschaftlichen und branchenspezifischen Entwicklung zugrunde. Wir gehen davon aus, dass das Bruttoinlandsprodukt in unseren Kernmärkten im kommenden Geschäftsjahr moderat um etwa 1,2 % wächst und sich die Inflationsrate auf rund 2,5 % normalisiert. Ferner unterstellen wir stabile Wechselkurse, insbesondere ein konstantes Euro-Dollar-Verhältnis, sowie eine fortgesetzte Entspannung der Beschaffungs- und Lieferketten. Für die Energie- und Rohstoffpreise erwarten wir ein gegenüber dem Vorjahr weitgehend gleichbleibendes Niveau. Zudem rechnen wir mit unveränderten rechtlichen und steuerlichen Rahmenbedingungen sowie dem Ausbleiben außerg"
+    },
+    {
+      "id": "R04",
+      "legal_basis": "DRS 20.125 f., 20.128–132",
+      "title_de": "Prognosen zu den bedeutsamsten Leistungsindikatoren",
+      "title_en": "Forecasts of the most significant performance indicators",
+      "category": "LB Forecast Report",
+      "applicability": {
+        "type": "always",
+        "trigger": "Im Wirtschaftsbericht verwendete bedeutsamste finanzielle/nichtfinanzielle Leistungsindikatoren"
+      },
+      "verification_criterion": "Prognoseaussagen zu denselben bedeutsamsten finanziellen und nichtfinanziellen Leistungsindikatoren, die zur internen Steuerung verwendet werden",
+      "size_classes": [
+        "mittelgroß",
+        "groß"
+      ],
+      "retrieval_text": "Für das kommende Geschäftsjahr erwarten wir auf Basis der aktuellen Auftragslage und der gesamtwirtschaftlichen Rahmenbedingungen einen Anstieg der Umsatzerlöse im niedrigen einstelligen Prozentbereich. Die EBIT-Marge, die wir als bedeutsamsten finanziellen Leistungsindikator zur internen Steuerung heranziehen, dürfte sich vor diesem Hintergrund leicht verbessern und in einer Bandbreite von 7,5 % bis 8,0 % liegen (Vorjahr: 7,2 %). Bei der Mitarbeiterfluktuation als wesentlichem nichtfinanziellen Leistungsindikator rechnen wir mit einer Stabilisierung auf dem Niveau des Berichtsjahres von rund 6 %. Wesentliche Abweichungen können sich insbesondere aus einer Eintrübung der konjunkturellen Entwicklung sowie aus an"
+    },
+    {
+      "id": "R10",
+      "legal_basis": "DRS 20.150, 20.162–164",
+      "title_de": "Darstellung der Bedeutung der Risiken/Chancen",
+      "title_en": "Disclosure of the significance of risks/opportunities",
+      "category": "LB Opportunities & Risks",
+      "applicability": {
+        "type": "always",
+        "trigger": "Risiko- und Chancenbericht vorhanden"
+      },
+      "verification_criterion": "Darstellung der Bedeutung (z.B. Rangordnung oder Kategorisierung gleichartiger Risiken und Chancen)",
+      "size_classes": [
+        "mittelgroß",
+        "groß"
+      ],
+      "retrieval_text": "Zur besseren Einschätzung haben wir die identifizierten Risiken nach ihrer Bedeutung kategorisiert. Die Bewertung erfolgt anhand der möglichen Schadenshöhe in Verbindung mit der jeweiligen Eintrittswahrscheinlichkeit. Wir unterscheiden dabei zwischen Risiken von hoher, mittlerer und geringer Bedeutung. Als wesentlich stufen wir diejenigen Risiken ein, die einzeln oder in ihrer Gesamtheit die Vermögens-, Finanz- und Ertragslage der Gesellschaft nachhaltig beeinträchtigen könnten.\n\nDie größte Bedeutung messen wir derzeit den Marktpreis- und Absatzrisiken bei, gefolgt von den Beschaffungs- und Liquiditätsrisiken mit mittlerer Bedeutung. Operative sowie rechtliche Risiken ordnen wir aktuell als von nachrangiger B"
+    },
+    {
+      "id": "R11",
+      "legal_basis": "DRS 20.135, 20.160 f., 20.165",
+      "title_de": "Gesamtbild der Risiko- und Chancenlage",
+      "title_en": "Overall picture of the risk and opportunity position",
+      "category": "LB Opportunities & Risks",
+      "applicability": {
+        "type": "always",
+        "trigger": "Risiko- und Chancenbericht vorhanden"
+      },
+      "verification_criterion": "Zusammenfassende Gesamtaussage zur Risiko- und Chancenlage der Gesellschaft",
+      "size_classes": [
+        "mittelgroß",
+        "groß"
+      ],
+      "retrieval_text": "Zusammenfassend stellt sich die Risiko- und Chancenlage der Gesellschaft zum Bilanzstichtag als ausgewogen dar. Auf Basis der im Rahmen unseres Risikomanagementsystems durchgeführten Analyse sind derzeit keine Risiken erkennbar, die einzeln oder in ihrer Gesamtheit den Fortbestand der Gesellschaft gefährden oder die Vermögens-, Finanz- und Ertragslage nachhaltig und wesentlich beeinträchtigen könnten. Den identifizierten Risiken stehen Chancen gegenüber, die sich insbesondere aus der Erschließung neuer Märkte sowie der Weiterentwicklung unseres Produktportfolios ergeben. Die Gesellschaft verfügt über eine solide Eigenkapital- und Liquiditätsausstattung, sodass die Geschäftsleitung die Gesamtrisikolage als beherrschbar einschätzt und insgesamt von"
+    },
+    {
+      "id": "R12",
+      "legal_basis": "§ 289 Abs. 2 S. 1 Nr. 1 HGB / DRS 20.179–187",
+      "title_de": "Finanzrisikobericht zur Verwendung von Finanzinstrumenten",
+      "title_en": "Financial risk report on the use of financial instruments",
+      "category": "LB Opportunities & Risks",
+      "applicability": {
+        "type": "conditional",
+        "trigger": "Verwendung von Finanzinstrumenten und Bedeutung für Beurteilung von Lage / voraussichtlicher Entwicklung"
+      },
+      "verification_criterion": "Angaben zu Risikomanagementzielen/-methoden sowie zu Preisänderungs-, Ausfall- und Liquiditätsrisiken in Bezug auf Finanzinstrumente, sofern einschlägig",
+      "size_classes": [
+        "mittelgroß",
+        "groß"
+      ],
+      "retrieval_text": "Die Gesellschaft setzt derivative Finanzinstrumente ausschließlich zur Absicherung bestehender oder geplanter Grundgeschäfte und nicht zu Spekulationszwecken ein. Ziel des Risikomanagements ist die Begrenzung von Markt-, Ausfall- und Liquiditätsrisiken. Zur Steuerung von Zins- und Währungsrisiken werden im Rahmen klar definierter Richtlinien Zinsswaps und Devisentermingeschäfte genutzt; deren Wirksamkeit wird laufend überwacht. Ausfallrisiken aus Forderungen und Bankguthaben begegnen wir durch eine Streuung auf Geschäftspartner einwandfreier Bonität sowie ein kontinuierliches Forderungsmanagement. Das Liquiditätsrisiko wird durch eine rollierende Finanz- und Liquiditätsplanung sowie ausreichend bemessene Kreditlinien überwacht und ges"
+    },
+    {
+      "id": "R14",
+      "legal_basis": "§ 289 Abs. 1 S. 2 HGB / DRS 20.65–77",
+      "title_de": "Analyse der Ertragslage",
+      "title_en": "Analysis of results of operations",
+      "category": "LB Financial Position & Results",
+      "applicability": {
+        "type": "always",
+        "trigger": "Lagebericht aufzustellen"
+      },
+      "verification_criterion": "Ausgewogene und umfassende Analyse der Ertragslage (Ergebnisquellen-, Umsatz-, Aufwands- und Ertragsanalyse)",
+      "size_classes": [
+        "mittelgroß",
+        "groß"
+      ],
+      "retrieval_text": "Die Umsatzerlöse der Gesellschaft stiegen im Geschäftsjahr 2023 um 8,4 % auf 142,6 Mio. EUR (Vorjahr: 131,6 Mio. EUR). Der Anstieg resultierte im Wesentlichen aus höheren Absatzmengen im Segment Industrieprodukte sowie aus erzielten Preisanpassungen. Das Bruttoergebnis verbesserte sich überproportional, da Effizienzsteigerungen in der Produktion gestiegene Materialkosten teilweise kompensierten. Die sonstigen betrieblichen Erträge betrugen 4,1 Mio. EUR (Vorjahr: 3,7 Mio. EUR). Demgegenüber erhöhten sich der Personalaufwand um 6,2 % auf 38,9 Mio. EUR sowie die sonstigen betrieblichen Aufwendungen tarif- und inflationsbedingt. Das Betriebsergebnis (EBI"
+    },
+    {
+      "id": "R15",
+      "legal_basis": "§ 289 Abs. 1 S. 2 HGB / DRS 20.78–98",
+      "title_de": "Analyse der Finanzlage",
+      "title_en": "Analysis of financial position",
+      "category": "LB Financial Position & Results",
+      "applicability": {
+        "type": "always",
+        "trigger": "Lagebericht aufzustellen"
+      },
+      "verification_criterion": "Analyse der Finanzlage einschl. Kapitalstruktur-, Investitions- und Liquiditätsanalyse",
+      "size_classes": [
+        "mittelgroß",
+        "groß"
+      ],
+      "retrieval_text": "Die Finanzlage der Gesellschaft ist weiterhin solide. Die Eigenkapitalquote erhöhte sich zum Bilanzstichtag von 42,3 % auf 45,8 % und unterstreicht die stabile Kapitalstruktur. Die langfristigen Vermögensgegenstände sind vollständig durch Eigenkapital und langfristiges Fremdkapital gedeckt, sodass die Fristenkongruenz gewahrt ist. Im Berichtsjahr wurden Investitionen in das Sachanlagevermögen in Höhe von 3,2 Mio. EUR getätigt, die im Wesentlichen aus dem operativen Cashflow finanziert wurden. Die liquiden Mittel beliefen sich zum Jahresende auf 5,7 Mio. EUR. Zusammen mit den zugesagten, nicht ausgeschöpften Kreditlinien von 4,0 Mio. EUR war die Zahlungsfähigkeit der Gesellscha"
+    },
+    {
+      "id": "R17",
+      "legal_basis": "§ 289 Abs. 1 S. 3 HGB / DRS 20.101–104",
+      "title_de": "Finanzielle Leistungsindikatoren",
+      "title_en": "Financial performance indicators",
+      "category": "LB Financial Position & Results",
+      "applicability": {
+        "type": "always",
+        "trigger": "Lagebericht aufzustellen; bedeutsamste finanzielle Leistungsindikatoren der internen Steuerung"
+      },
+      "verification_criterion": "Einbeziehung der bedeutsamsten finanziellen Leistungsindikatoren in die Analyse einschl. Darstellung ihrer Berechnung",
+      "size_classes": [
+        "mittelgroß",
+        "groß"
+      ],
+      "retrieval_text": "Zur internen Steuerung des Unternehmens werden als bedeutsamste finanzielle Leistungsindikatoren das Umsatzwachstum, die EBIT-Marge sowie die Eigenkapitalquote herangezogen. Das Umsatzwachstum ergibt sich aus der prozentualen Veränderung der Umsatzerlöse gegenüber dem Vorjahr und betrug im Berichtsjahr 6,4 % (Vorjahr: 4,1 %). Die EBIT-Marge wird als Verhältnis des Betriebsergebnisses vor Zinsen und Steuern zu den Umsatzerlösen berechnet und lag bei 8,2 % (Vorjahr: 7,5 %). Die Eigenkapitalquote, definiert als Quotient aus bilanziellem Eigenkapital und Bilanzsumme, verbesserte sich auf 42,3 % (Vorjahr: 39,8 %). Die positive Entwicklung dieser Kennzahlen sp"
+    },
+    {
+      "id": "R19",
+      "legal_basis": "§ 284 Abs. 3 HGB",
+      "title_de": "Anlagenspiegel",
+      "title_en": "Fixed asset movement schedule",
+      "category": "HGB Annex §§284-285",
+      "applicability": {
+        "type": "balance_sheet_item",
+        "trigger": "Anlagevermögen > 0 in Bilanz"
+      },
+      "verification_criterion": "Spiegel mit gesamten Anschaffungs-/Herstellungskosten, Zugängen, Abgängen, Umbuchungen, Zuschreibungen und Abschreibungen je Posten des Anlagevermögens",
+      "size_classes": [
+        "mittelgroß",
+        "groß"
+      ],
+      "retrieval_text": "Die Entwicklung des Anlagevermögens ist im Anlagenspiegel dargestellt, der als Anlage zum Anhang beigefügt ist. Ausgehend von den historischen Anschaffungs- und Herstellungskosten werden für jeden Posten des Anlagevermögens die Zugänge, Abgänge und Umbuchungen des Geschäftsjahres gesondert ausgewiesen. Die kumulierten Abschreibungen werden um die im Geschäftsjahr vorgenommenen Abschreibungen sowie um die auf Abgänge entfallenden Beträge fortgeschrieben. Zuschreibungen des Geschäftsjahres sind ebenfalls je Posten gesondert angegeben. Aus der Gegenüberstellung der fortgeführten Anschaffungs- und Herstellungskosten und der kumulierten Abschreibungen ergeben sich die Restbuchwerte zum Bilanzstichtag sowie die Buchwerte des Vorjahres."
+    },
+    {
+      "id": "R22",
+      "legal_basis": "§ 285 Nr. 9 Buchst. a HGB",
+      "title_de": "Gesamtbezüge der Organmitglieder",
+      "title_en": "Total remuneration of governing-body members",
+      "category": "HGB Annex §§284-285",
+      "applicability": {
+        "type": "conditional",
+        "trigger": "Vorhandensein von Mitgliedern des Geschäftsführungs-/Aufsichtsorgans; Schutzklausel § 286 Abs. 4 HGB beachten"
+      },
+      "verification_criterion": "Angabe der für das Geschäftsjahr gewährten Gesamtbezüge je Personengruppe (Geschäftsführung, Aufsichtsrat, Beirat), sofern nicht Schutzklausel greift",
+      "size_classes": [
+        "mittelgroß",
+        "groß"
+      ],
+      "retrieval_text": "Die Gesamtbezüge der Mitglieder der Geschäftsführung beliefen sich im Geschäftsjahr auf 685 TEUR (Vorjahr: 642 TEUR). Hierin enthalten sind feste und variable Vergütungsbestandteile sowie Sachbezüge. Die Mitglieder des Aufsichtsrats erhielten für ihre Tätigkeit Gesamtbezüge in Höhe von 96 TEUR (Vorjahr: 90 TEUR). An die Mitglieder des Beirats wurden Gesamtbezüge von 24 TEUR (Vorjahr: 24 TEUR) gewährt. Pensionsrückstellungen für frühere Mitglieder der Geschäftsführung bestehen zum Bilanzstichtag in Höhe von 412 TEUR (Vorjahr: 398 TEUR). An frühere Mitglieder der Geschäftsführung und deren Hinterbliebene wurden im Geschäftsjahr Versor"
+    },
+    {
+      "id": "R23",
+      "legal_basis": "§ 285 Nr. 13 HGB",
+      "title_de": "Abschreibungsdauer entgeltlich erworbener Geschäfts- oder Firmenwert",
+      "title_en": "Amortisation period of acquired goodwill",
+      "category": "HGB Annex §§284-285",
+      "applicability": {
+        "type": "balance_sheet_item",
+        "trigger": "Entgeltlich erworbener Geschäfts- oder Firmenwert in Bilanz aktiviert"
+      },
+      "verification_criterion": "Erläuterung des Zeitraums, über den der Geschäfts- oder Firmenwert abgeschrieben wird, einschl. Begründung der Nutzungsdauer",
+      "size_classes": [
+        "mittelgroß",
+        "groß"
+      ],
+      "retrieval_text": "Der im Rahmen des Erwerbs der XY GmbH entstandene entgeltlich erworbene Geschäfts- oder Firmenwert wird linear über eine Nutzungsdauer von zehn Jahren abgeschrieben. Die Bestimmung der Nutzungsdauer orientiert sich an der voraussichtlichen Dauer, über die das Unternehmen aus den erworbenen Kundenbeziehungen, dem Marktzugang sowie den künftigen Ertragserwartungen wirtschaftlichen Nutzen ziehen wird. Aufgrund der nachhaltigen Marktstellung des erworbenen Geschäftsbetriebs und der langfristig angelegten Geschäftsbeziehungen erachtet die Gesellschaft eine Nutzungsdauer von zehn Jahren als sachgerecht. Die planmäßigen Abschreibungen des Geschäftsjahres in Höhe von TEUR 150 sind in den Abschreibungen der Gewinn-"
+    },
+    {
+      "id": "R24",
+      "legal_basis": "§ 285 Nr. 29 HGB",
+      "title_de": "Grundlagen der latenten Steuern (Differenzen, Verlustvorträge, Steuersätze)",
+      "title_en": "Basis of deferred taxes (differences, loss carryforwards, tax rates)",
+      "category": "HGB Annex §§284-285",
+      "applicability": {
+        "type": "balance_sheet_item",
+        "trigger": "Bilanzierte latente Steuern (aktiv und/oder passiv) vorhanden"
+      },
+      "verification_criterion": "Angabe, auf welchen Differenzen oder steuerlichen Verlustvorträgen die latenten Steuern beruhen und mit welchen Steuersätzen bewertet wurde (qualitativ)",
+      "size_classes": [
+        "mittelgroß",
+        "groß"
+      ],
+      "retrieval_text": "Die latenten Steuern resultieren im Wesentlichen aus temporären Differenzen zwischen den handelsrechtlichen und steuerlichen Wertansätzen bei den immateriellen Vermögensgegenständen, den Sachanlagen sowie den Pensionsrückstellungen und den sonstigen Rückstellungen. Darüber hinaus werden aktive latente Steuern auf bestehende steuerliche Verlustvorträge berücksichtigt, soweit deren Nutzung innerhalb der nächsten fünf Jahre hinreichend wahrscheinlich ist. Die Bewertung der latenten Steuern erfolgte auf Grundlage des unternehmensindividuellen Gesamtsteuersatzes von 31,2 %, der sich aus dem Körperschaftsteuersatz zuzüglich Solidaritätszuschlag sowie dem durchschnittlichen Gewerbesteuerhebesatz zusammensetzt. Von dem Aktivierungswahlrecht"
+    }
+  ]
+}

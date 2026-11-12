@@ -1,0 +1,90 @@
+{
+  "model": "anthropic/claude-opus-4.8",
+  "n_requirements": 13,
+  "total_input_tokens": 4953,
+  "total_output_tokens": 4541,
+  "total_tokens": 9494,
+  "estimated_cost_usd": 0.13829,
+  "price_input_per_mtok": 5.0,
+  "price_output_per_mtok": 25.0,
+  "per_requirement": [
+    {
+      "req_id": "R02",
+      "prompt_tokens": 354,
+      "completion_tokens": 341,
+      "total_tokens": 695
+    },
+    {
+      "req_id": "R03",
+      "prompt_tokens": 345,
+      "completion_tokens": 350,
+      "total_tokens": 695
+    },
+    {
+      "req_id": "R04",
+      "prompt_tokens": 387,
+      "completion_tokens": 350,
+      "total_tokens": 737
+    },
+    {
+      "req_id": "R10",
+      "prompt_tokens": 368,
+      "completion_tokens": 350,
+      "total_tokens": 718
+    },
+    {
+      "req_id": "R11",
+      "prompt_tokens": 361,
+      "completion_tokens": 350,
+      "total_tokens": 711
+    },
+    {
+      "req_id": "R12",
+      "prompt_tokens": 426,
+      "completion_tokens": 350,
+      "total_tokens": 776
+    },
+    {
+      "req_id": "R14",
+      "prompt_tokens": 382,
+      "completion_tokens": 350,
+      "total_tokens": 732
+    },
+    {
+      "req_id": "R15",
+      "prompt_tokens": 366,
+      "completion_tokens": 350,
+      "total_tokens": 716
+    },
+    {
+      "req_id": "R17",
+      "prompt_tokens": 383,
+      "completion_tokens": 350,
+      "total_tokens": 733
+    },
+    {
+      "req_id": "R19",
+      "prompt_tokens": 385,
+      "completion_tokens": 350,
+      "total_tokens": 735
+    },
+    {
+      "req_id": "R22",
+      "prompt_tokens": 397,
+      "completion_tokens": 350,
+      "total_tokens": 747
+    },
+    {
+      "req_id": "R23",
+      "prompt_tokens": 393,
+      "completion_tokens": 350,
+      "total_tokens": 743
+    },
+    {
+      "req_id": "R24",
+      "prompt_tokens": 406,
+      "completion_tokens": 350,
+      "total_tokens": 756
+    }
+  ]
+}

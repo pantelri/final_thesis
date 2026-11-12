@@ -1,0 +1,2 @@
+pytest>=8
+krippendorff>=0.8

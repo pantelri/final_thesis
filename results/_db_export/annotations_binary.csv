@@ -1,0 +1,183 @@
+annotation_id,item_id,annotator_id,is_relevant,length_judgment,is_applicable,is_fulfilled,comment,missing_info,submitted_at
+118,2,1,true,ok,yes,yes,,,2026-06-17T11:44:38.953313+00:00
+29,3,1,true,ok,yes,no,,,2026-06-16T07:39:56.475847+00:00
+95,4,1,true,too_long,yes,no,,,2026-06-29T15:06:55.662065+00:00
+111,5,1,true,ok,yes,yes,,,2026-06-17T11:41:18.417756+00:00
+58,6,1,true,ok,yes,yes,,,2026-06-16T09:54:52.758634+00:00
+74,7,1,false,too_short,unsure,,,Gibt es Hinweise auf die Verwendung von Finanzinstrumenten?,2026-06-17T10:02:38.712157+00:00
+135,8,1,true,ok,yes,yes,,,2026-06-17T14:34:21.140472+00:00
+182,9,1,true,too_short,yes,no,,,2026-06-29T15:06:59.213898+00:00
+152,10,1,true,ok,yes,yes,,Was sind die bedeutsamsten finanziellen Leistungsindikatoren?,2026-06-29T15:07:02.407386+00:00
+23,11,1,true,ok,yes,yes,,,2026-06-16T07:32:51.997325+00:00
+56,12,1,true,ok,unsure,,,,2026-06-16T09:53:57.133609+00:00
+60,13,1,true,too_short,yes,yes,,Gibt es einen entgeltlich erworbenen Geschäfts- oder Firmenwert?,2026-06-16T09:56:43.958015+00:00
+90,14,1,true,ok,no,,,,2026-06-17T10:17:37.182736+00:00
+114,15,1,true,ok,yes,yes,,,2026-06-17T11:42:28.585555+00:00
+65,16,1,true,ok,yes,yes,,,2026-06-17T09:53:33.359399+00:00
+107,17,1,true,ok,yes,yes,,,2026-06-17T11:37:50.329422+00:00
+173,18,1,true,too_short,yes,no,,,2026-06-29T15:07:05.159832+00:00
+6,19,1,true,too_long,yes,yes,,,2026-06-11T14:00:44.927755+00:00
+138,20,1,false,ok,no,,,,2026-06-17T14:35:56.636941+00:00
+172,21,1,true,too_short,yes,yes,Warum hat sich die Höhe,Warum sanken die Umsatzerlöse?,2026-06-17T15:21:20.509716+00:00
+81,22,1,true,too_short,yes,yes,,,2026-06-29T15:07:08.396241+00:00
+71,23,1,true,too_short,yes,no,"Es wird nicht genannt, was die wesentlichen finanziellen Leistungsindikatoren überhaupt sind",Was sind die bedeutsamsten finanziellen Leistungsindikatoren?,2026-06-17T10:00:06.544734+00:00
+131,24,1,true,ok,yes,yes,,,2026-06-17T14:32:13.315468+00:00
+55,25,1,true,ok,no,,,,2026-06-16T09:52:51.838671+00:00
+84,26,1,true,ok,no,,,,2026-06-17T10:14:04.256388+00:00
+62,27,1,true,ok,no,,,,2026-06-16T09:58:40.263645+00:00
+144,28,1,true,ok,yes,yes,,,2026-06-17T14:40:48.951354+00:00
+159,29,1,true,too_long,yes,yes,,,2026-06-17T15:00:02.712650+00:00
+83,30,1,true,too_long,yes,yes,,,2026-06-17T10:13:49.588462+00:00
+137,31,1,true,ok,yes,yes,,,2026-06-17T14:35:20.133534+00:00
+129,32,1,true,too_long,yes,yes,,,2026-06-17T14:30:22.095409+00:00
+157,33,1,true,ok,unsure,,,,2026-06-17T14:56:41.194909+00:00
+151,34,1,true,ok,yes,yes,,,2026-06-17T14:46:54.491383+00:00
+13,35,1,true,ok,yes,yes,,,2026-06-16T07:17:18.184043+00:00
+96,36,1,true,too_long,yes,yes,,,2026-06-17T11:28:56.198686+00:00
+3,37,1,true,ok,yes,yes,,,2026-06-11T13:59:03.095304+00:00
+38,38,1,true,ok,yes,yes,,,2026-06-16T08:46:18.156017+00:00
+115,39,1,true,ok,no,,,,2026-06-17T11:42:54.915827+00:00
+70,40,1,true,ok,no,,,,2026-06-17T09:57:20.560763+00:00
+136,41,1,true,ok,yes,yes,,,2026-06-17T14:34:50.636831+00:00
+126,42,1,true,ok,yes,yes,,,2026-06-17T14:28:29.262399+00:00
+89,43,1,true,ok,yes,yes,,,2026-06-17T10:17:16.874796+00:00
+123,44,1,true,ok,yes,yes,,,2026-06-17T11:47:13.368704+00:00
+149,45,1,true,ok,yes,yes,,,2026-06-17T14:46:06.596505+00:00
+119,46,1,true,ok,yes,yes,,,2026-06-17T11:45:08.698611+00:00
+5,47,1,true,ok,yes,yes,,,2026-06-11T13:59:54.646511+00:00
+112,48,1,true,ok,yes,yes,,,2026-06-17T11:41:31.273582+00:00
+170,49,1,true,too_long,yes,yes,,,2026-06-17T15:18:06.447150+00:00
+171,50,1,true,ok,yes,yes,,,2026-06-17T15:18:19.532038+00:00
+147,51,1,true,too_short,yes,yes,,Sind weitere Informationen zu den Bezügen anderer Organmitglieder im Text enthalten?,2026-06-29T15:07:10.861941+00:00
+10,52,1,true,ok,yes,yes,,,2026-06-16T07:15:46.080702+00:00
+163,53,1,true,ok,yes,yes,,,2026-06-17T15:03:40.369129+00:00
+44,54,1,true,ok,yes,yes,,,2026-06-16T08:54:47.993970+00:00
+8,55,1,true,ok,yes,no,,,2026-06-11T14:01:46.663611+00:00
+49,56,1,true,too_short,yes,yes,,Was sind die bedeutsamsten Leistungsindikatoren?,2026-06-16T09:29:10.123607+00:00
+77,57,1,true,ok,yes,yes,,,2026-06-17T10:05:28.662369+00:00
+51,58,1,true,ok,yes,yes,,,2026-06-16T09:45:24.735715+00:00
+153,59,1,true,ok,no,,,,2026-06-17T14:53:40.284680+00:00
+155,60,1,true,ok,yes,yes,,,2026-06-17T14:54:50.613003+00:00
+76,61,1,true,ok,yes,yes,,,2026-06-17T10:03:39.404547+00:00
+178,62,1,true,ok,yes,yes,,,2026-06-17T15:24:55.123967+00:00
+179,63,1,true,ok,yes,yes,,,2026-06-17T15:25:08.868655+00:00
+110,64,1,true,ok,no,,,,2026-06-17T11:40:35.097814+00:00
+91,65,1,true,ok,no,,,,2026-06-17T10:18:19.373289+00:00
+59,66,1,true,ok,no,,,,2026-06-29T15:07:14.075647+00:00
+141,67,1,true,ok,yes,yes,,,2026-06-17T14:38:16.273606+00:00
+162,68,1,true,ok,yes,yes,,,2026-06-17T15:02:33.384432+00:00
+180,69,1,true,ok,yes,yes,,,2026-06-17T15:26:00.611424+00:00
+68,70,1,true,ok,yes,yes,,,2026-06-17T09:55:31.252196+00:00
+41,71,1,false,too_short,yes,yes,,Wird eine Aussage zum Gesamtbild der Risiko- und Chancenlage getroffen?,2026-06-30T09:24:00.094332+00:00
+31,72,1,true,too_short,no,,,Gibt es Hinweise auf die Verwendung von Finanzinstrumenten?,2026-06-16T08:38:14.990372+00:00
+98,73,1,true,ok,yes,yes,,,2026-06-17T11:29:57.982173+00:00
+181,74,1,true,ok,yes,yes,,,2026-06-17T15:26:22.733566+00:00
+140,75,1,true,too_short,yes,yes,,"Wie wurden quantitativen und qualitativen Steuerungsgrößen, insbesondere Umsatz, Auftragseingang/-bestand und Jahresergebnis ermittelt und wie hoch waren sie im Geschäftsjahr?",2026-06-17T14:38:05.693527+00:00
+27,76,1,true,ok,yes,yes,,,2026-06-16T07:37:56.707935+00:00
+61,77,1,true,ok,no,,,,2026-06-16T09:57:57.269050+00:00
+67,78,1,true,ok,yes,yes,,,2026-06-29T15:08:08.897530+00:00
+35,79,1,true,ok,no,,,,2026-06-16T08:42:09.926936+00:00
+150,80,1,true,ok,yes,yes,,,2026-06-29T15:08:27.231216+00:00
+33,81,1,false,too_short,yes,yes,,Was sind die wesentlichen Annahmen der Prognose?,2026-06-30T09:24:09.211177+00:00
+50,82,1,true,too_short,yes,yes,,Was sind die bedeutsamsten Leistungsindikatoren?,2026-06-16T09:45:11.898315+00:00
+132,83,1,true,too_short,yes,no,,,2026-06-17T14:32:49.036955+00:00
+97,84,1,true,ok,yes,no,,,2026-06-29T15:09:26.495134+00:00
+145,85,1,true,ok,yes,yes,,,2026-06-17T14:41:11.505366+00:00
+18,86,1,true,ok,yes,yes,,,2026-06-16T07:24:03.384397+00:00
+53,87,1,true,too_short,yes,yes,,"Erfolgen weitere Ausführungen zur Kapitalstruktur-, Investitions- und Liquiditätsanalyse?",2026-06-16T09:50:07.295637+00:00
+87,88,1,true,too_long,yes,yes,,,2026-06-17T10:16:24.645516+00:00
+130,89,1,false,too_short,yes,no,,,2026-06-30T09:24:15.581987+00:00
+20,90,1,true,ok,no,,,,2026-06-16T07:30:10.334183+00:00
+24,91,1,false,too_short,no,,,"Gibt es Hinweise, ob ein entgeltlich erworbener Geschäfts- oder Firmenwert fehlt?",2026-06-16T07:34:33.332994+00:00
+124,92,1,true,ok,no,,,,2026-06-17T11:47:30.385233+00:00
+121,93,1,true,ok,yes,yes,,,2026-06-17T11:45:39.024911+00:00
+175,94,1,true,ok,yes,yes,,,2026-06-17T15:23:03.268698+00:00
+1,95,1,true,too_short,yes,yes,,,2026-06-29T15:10:11.499567+00:00
+166,96,1,true,ok,yes,yes,,,2026-06-17T15:05:37.665473+00:00
+117,97,1,false,too_short,yes,no,,Wird eine zusammenfassende Gesamtaussage zur Risiko- und Chancenlage der Gesellschaft getroffen?,2026-06-30T09:24:26.951551+00:00
+80,98,1,true,ok,yes,yes,,,2026-06-17T10:08:34.320753+00:00
+19,99,1,true,ok,yes,yes,,,2026-06-16T07:25:00.008589+00:00
+46,100,1,true,too_short,yes,yes,,"Wird tiefergehend die Kapitalstruktur-, Investitions- und Liquiditätsanalyse durchgeführt?",2026-06-29T15:11:26.981261+00:00
+143,101,1,true,too_long,yes,yes,,,2026-06-17T14:40:34.038093+00:00
+108,102,1,true,ok,yes,yes,,,2026-06-17T11:38:06.123986+00:00
+154,103,1,true,ok,yes,yes,,,2026-06-17T14:54:10.090775+00:00
+43,104,1,true,ok,no,,,,2026-06-16T08:54:32.899432+00:00
+146,105,1,true,ok,no,,,,2026-06-17T14:41:20.363499+00:00
+14,106,1,true,too_long,yes,yes,,,2026-06-16T07:18:05.745597+00:00
+21,107,1,true,ok,yes,yes,,"Zeige die wesentlichen Annahmen, auf denen die Prognosen beruhen",2026-06-30T09:28:50.068419+00:00
+54,108,1,true,too_long,yes,no,,,2026-06-16T09:52:33.982554+00:00
+66,109,1,true,ok,yes,yes,,,2026-06-29T15:12:25.872901+00:00
+100,110,1,true,ok,yes,yes,,,2026-06-17T11:32:48.619228+00:00
+88,111,1,true,ok,no,,,,2026-06-17T10:16:43.784994+00:00
+128,112,1,true,ok,yes,no,,,2026-06-29T15:12:35.324545+00:00
+79,113,1,true,too_short,yes,no,,,2026-06-17T10:07:56.428256+00:00
+109,114,1,false,too_short,yes,no,,Was sind die bedeutsamsten finanziellen Leistungsindikatoren und werden diese in die Analyse einbezogen und ihre Berechnung dargestellt?,2026-06-30T09:29:00.835137+00:00
+104,115,1,true,ok,yes,yes,,,2026-06-17T11:36:07.052072+00:00
+34,116,1,true,ok,no,,,,2026-06-16T08:41:35.511053+00:00
+64,117,1,true,ok,no,,,,2026-06-16T10:02:33.364245+00:00
+75,118,1,true,ok,no,,,,2026-06-17T10:02:52.080751+00:00
+142,119,1,true,too_long,yes,yes,,,2026-06-17T14:38:56.741018+00:00
+133,120,1,true,ok,yes,yes,,,2026-06-17T14:33:28.373433+00:00
+148,121,1,true,too_short,yes,yes,,Was sind die bedeutsamsten Leistungsindikatoren der Gesellschaft?,2026-06-29T15:13:22.980073+00:00
+106,122,1,true,ok,yes,yes,,,2026-06-17T11:37:32.276467+00:00
+103,123,1,true,ok,yes,yes,,,2026-06-17T11:35:58.682998+00:00
+12,124,1,true,ok,no,,,,2026-06-16T07:16:55.848768+00:00
+177,125,1,true,ok,yes,yes,,,2026-06-17T15:24:03.404875+00:00
+36,126,1,true,ok,yes,yes,,,2026-06-16T08:44:05.022497+00:00
+30,127,1,false,too_short,yes,no,,Was sind die bedeutsamsten finanziellen Leistungsindikatoren der Gesellschaft?,2026-06-30T09:29:45.382942+00:00
+47,128,1,true,ok,yes,yes,,,2026-06-16T09:08:35.304674+00:00
+7,129,1,true,ok,yes,yes,,,2026-06-11T14:01:05.678333+00:00
+15,130,1,false,too_short,no,,,Gibt es Informationen zu einem entgeltlich erworbenen Geschäfts- oder Firmenwert?,2026-06-16T07:20:12.480317+00:00
+82,131,1,true,ok,no,,,,2026-06-17T10:10:19.559723+00:00
+164,132,1,true,too_long,yes,yes,,,2026-06-17T15:04:20.567293+00:00
+127,133,1,true,ok,yes,yes,,,2026-06-17T14:28:54.645960+00:00
+69,134,1,true,ok,yes,yes,,,2026-06-17T09:56:22.970413+00:00
+161,135,1,true,ok,yes,yes,,,2026-06-17T15:01:14.479950+00:00
+169,136,1,true,ok,yes,yes,,,2026-06-17T15:08:25.318438+00:00
+25,137,1,true,ok,no,,,,2026-06-16T07:36:17.810928+00:00
+32,138,1,true,ok,yes,yes,,,2026-06-16T08:38:29.542455+00:00
+139,139,1,true,ok,yes,yes,,,2026-06-17T14:36:15.707791+00:00
+85,140,1,true,too_long,yes,yes,,,2026-06-17T10:15:08.630416+00:00
+37,141,1,true,too_long,yes,yes,,,2026-06-16T08:45:33.085447+00:00
+176,142,1,true,ok,no,,,,2026-06-17T15:23:16.979414+00:00
+101,143,1,true,too_long,no,,,,2026-06-17T11:35:22.034455+00:00
+16,144,1,true,ok,no,,,,2026-06-16T07:20:48.798551+00:00
+39,145,1,true,too_short,yes,no,,Wird der Prognosezeitraum angegeben?,2026-06-30T09:30:01.704609+00:00
+105,146,1,true,ok,yes,yes,,,2026-06-29T15:14:20.668351+00:00
+86,147,1,true,ok,yes,no,,,2026-06-17T10:15:41.585536+00:00
+52,148,1,true,ok,yes,yes,,,2026-06-16T09:46:12.288481+00:00
+134,149,1,true,ok,yes,yes,,,2026-06-17T14:33:45.684595+00:00
+73,150,1,true,ok,yes,yes,,,2026-06-17T10:01:25.251906+00:00
+168,151,1,true,ok,yes,yes,,,2026-06-29T15:14:42.095811+00:00
+122,152,1,true,too_short,yes,yes,,,2026-06-29T15:15:11.637097+00:00
+99,153,1,true,too_short,yes,yes,"Es wird nicht beschrieben, was die finanziellen Leistungsindikatoren sind.",Werden die  bedeutsamsten finanziellen Leistungsindikatoren in die Analyse einbezogen?,2026-06-29T15:16:02.569013+00:00
+11,154,1,true,ok,yes,yes,,,2026-06-16T07:16:23.632373+00:00
+160,155,1,true,ok,no,,,,2026-06-17T15:00:52.279797+00:00
+158,156,1,true,too_short,no,,,Wo gibt es im Text Hinweise auf einen entgeltlich erworbenen Geschäfts- oder Firmenwert?,2026-06-17T14:58:08.641326+00:00
+4,157,1,true,ok,no,,,,2026-06-11T13:59:22.951442+00:00
+22,158,1,true,ok,yes,yes,,,2026-06-16T07:32:19.659612+00:00
+156,159,1,true,ok,yes,no,,,2026-06-29T15:18:58.096074+00:00
+40,160,1,true,ok,yes,yes,,,2026-06-29T15:19:39.623050+00:00
+125,161,1,true,ok,yes,yes,,,2026-06-17T11:47:54.776108+00:00
+174,162,1,true,ok,yes,yes,,,2026-06-17T15:22:12.068767+00:00
+26,163,1,true,ok,yes,yes,,,2026-06-16T07:36:39.892910+00:00
+93,164,1,true,ok,yes,yes,,,2026-06-29T15:21:18.193589+00:00
+9,165,1,true,too_short,yes,yes,,Wurden Kredite aufgenommen?,2026-06-29T15:21:28.522212+00:00
+102,166,1,true,ok,yes,yes,,,2026-06-17T11:35:47.834453+00:00
+113,167,1,true,too_long,yes,yes,,,2026-06-17T11:42:10.570382+00:00
+116,168,1,true,ok,no,,,,2026-06-17T11:43:12.553917+00:00
+94,169,1,true,ok,no,,,,2026-06-17T11:25:07.073414+00:00
+48,170,1,true,ok,no,,erfüllt die Pflicht trotzdem vollumfänglich,,2026-06-16T09:10:00.024633+00:00
+17,171,1,true,too_long,yes,yes,,,2026-06-16T07:23:36.302939+00:00
+28,172,1,true,ok,yes,yes,,,2026-06-16T07:38:12.052383+00:00
+57,173,1,true,ok,yes,yes,,,2026-06-29T15:21:47.078122+00:00
+72,174,1,true,ok,yes,yes,,,2026-06-17T10:01:08.682194+00:00
+167,175,1,true,ok,yes,yes,,,2026-06-17T15:06:23.590806+00:00
+45,176,1,true,too_short,no,,,Welche Hinweise gibt es auf die Verwendung von Finanzinstrumenten?,2026-06-16T09:06:31.106425+00:00
+165,177,1,true,ok,yes,yes,,,2026-06-17T15:04:57.729133+00:00
+92,178,1,true,ok,yes,yes,,,2026-06-17T11:23:28.397927+00:00
+2,179,1,true,too_long,yes,yes,,,2026-06-11T13:58:43.040847+00:00
+120,180,1,true,ok,yes,yes,,,2026-06-17T11:45:19.935038+00:00
+78,181,1,true,ok,unsure,,,,2026-06-17T10:06:11.860802+00:00
+42,182,1,true,ok,no,,,,2026-06-16T08:54:03.292053+00:00
+63,183,1,true,ok,yes,yes,,,2026-06-16T10:02:04.750287+00:00

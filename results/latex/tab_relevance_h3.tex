@@ -1,0 +1,15 @@
+\begin{table}[htbp]
+  \centering
+  \caption{H3: model handling of \emph{unclear} relevance judgments.}
+  \label{tab:relevance-h3}
+  \begin{tabular}{lrrrrr}
+    \toprule
+    Model & \#pred unclear & Rate & \#GT unclear & GT-unclear recall & Avoidance \\
+    \midrule
+    Claude Opus 4.8 & 0 & 0 & 4 & 0 & 1 \\
+    Gemini 3.1 Pro & 0 & 0 & 4 & 0 & 1 \\
+    Qwen 3.7 Max & 2 & 0.011 & 4 & 0 & 1 \\
+    MiMo v2.5 Pro & 3 & 0.017 & 4 & 0.250 & 0.750 \\
+    \bottomrule
+  \end{tabular}
+\end{table}

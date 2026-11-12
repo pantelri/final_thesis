@@ -1,0 +1,22 @@
+\begin{table}[htbp]
+  \centering
+  \caption{Ground-truth integrity checks.}
+  \label{tab:gt-sanity}
+  \begin{tabular}{lll}
+    \toprule
+    Check & Status & Detail \\
+    \midrule
+    total\_items\_eq\_182 & PASS & found 182 (expected 182) \\
+    grid\_no\_duplicates & PASS &  \\
+    grid\_no\_missing\_pairs & PASS &  \\
+    obligation\_count\_eq\_13 & PASS & 13 distinct obligations \\
+    company\_count\_eq\_14 & PASS & 14 distinct companies \\
+    relevance\_vocab\_ok & PASS &  \\
+    fulfillment\_vocab\_ok & PASS &  \\
+    applicable\_yes\_has\_fulfillment & PASS & 0 applicable-yes rows without fulfillment \\
+    not\_applicable\_no\_fulfillment & PASS & 0 non-applicable rows with fulfillment \\
+    per\_obligation\_eq\_14 & PASS &  \\
+    per\_company\_eq\_13 & PASS &  \\
+    \bottomrule
+  \end{tabular}
+\end{table}

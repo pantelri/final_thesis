@@ -1,0 +1,16 @@
+\begin{table}[htbp]
+  \centering
+  \caption{End-to-end cumulative correctness under oracle ablations (best-of-breed: Gemini S1 + Qwen S3, $n=140$).}
+  \label{tab:e2e-ablation}
+  \begin{tabular}{lrrrr}
+    \toprule
+    Configuration & $n$ & Cumulative acc. & 95\% CI & \#correct \\
+    \midrule
+    Full pipeline & 140 & 0.729 & [0.650, 0.807] & 102 \\
+    Oracle relevance & 140 & 0.729 & [0.650, 0.807] & 102 \\
+    Oracle retrieval & 140 & 0.750 & [0.671, 0.821] & 105 \\
+    Oracle rel.\,+\,retr. & 140 & 0.750 & [0.671, 0.821] & 105 \\
+    Full oracle (ceiling) & 140 & 1 & [1.000, 1.000] & 140 \\
+    \bottomrule
+  \end{tabular}
+\end{table}

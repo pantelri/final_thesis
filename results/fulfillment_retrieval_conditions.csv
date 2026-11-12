@@ -1,0 +1,9 @@
+model,context,n,acc_predicted,acc_oracle,delta_predicted_minus_oracle,ci_lo,ci_hi,significant
+claude_opus_4_8,statute_only,141,0.5816,0.4681,0.1135,0.0284,0.1986,yes
+claude_opus_4_8,web_enriched,141,0.5319,0.461,0.0709,-0.0284,0.1631,no
+gemini_3_1_pro,statute_only,141,0.6454,0.5957,0.0496,-0.0213,0.1206,no
+gemini_3_1_pro,web_enriched,141,0.5248,0.4823,0.0426,-0.0426,0.1278,no
+qwen_3_7_max,statute_only,141,0.6667,0.6241,0.0426,-0.0496,0.1278,no
+qwen_3_7_max,web_enriched,141,0.6099,0.5319,0.078,-0.0071,0.1702,no
+mimo_v2_5_pro,statute_only,141,0.4255,0.3404,0.0851,0.0,0.1773,no
+mimo_v2_5_pro,web_enriched,141,0.383,0.3972,-0.0142,-0.0993,0.0709,no

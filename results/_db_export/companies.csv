@@ -1,0 +1,15 @@
+id,name,pdf_path
+Amazon_2024,Amazon,/data/Input/Amazon_2024.pdf
+BoschMS_2024,BoschMS,/data/Input/BoschMS_2024.pdf
+HTG_2024,HTG,/data/Input/HTG_2024.pdf
+Hoberg_2024,Hoberg,/data/Input/Hoberg_2024.pdf
+Johnson_2025,Johnson,/data/Input/Johnson_2025.pdf
+Krug_2024,Krug,/data/Input/Krug_2024.pdf
+Miethke_2024,Miethke,/data/Input/Miethke_2024.pdf
+Pfizer_2024,Pfizer,/data/Input/Pfizer_2024.pdf
+Schrott_2024,Schrott,/data/Input/Schrott_2024.pdf
+Tennet_TSO_2024,Tennet TSO,/data/Input/Tennet_TSO_2024.pdf
+WN24_2024,WN24,/data/Input/WN24_2024.pdf
+Wajos_2024,Wajos,/data/Input/Wajos_2024.pdf
+Yaveon_2024,Yaveon,/data/Input/Yaveon_2024.pdf
+Zollern_2024,Zollern,/data/Input/Zollern_2024.pdf

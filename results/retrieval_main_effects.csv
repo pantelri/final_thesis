@@ -1,0 +1,15 @@
+factor,level,recall_mean
+embedding,gemini,0.6243
+embedding,qwen3,0.5901
+segmentation,baseSeg,0.6226
+segmentation,sentSeg,0.5918
+table_rep,llmdesc,0.6115
+table_rep,raw_md,0.6029
+interaction,gemini|baseSeg|llmdesc,0.6473
+interaction,gemini|baseSeg|raw_md,0.6305
+interaction,gemini|sentSeg|llmdesc,0.6176
+interaction,gemini|sentSeg|raw_md,0.602
+interaction,qwen3|baseSeg|llmdesc,0.6063
+interaction,qwen3|baseSeg|raw_md,0.6065
+interaction,qwen3|sentSeg|llmdesc,0.5748
+interaction,qwen3|sentSeg|raw_md,0.5729

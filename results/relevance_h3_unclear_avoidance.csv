@@ -1,0 +1,5 @@
+model,n_scored,n_pred_unclear,pred_unclear_rate,n_gt_unclear,gt_unclear_recall,unclear_avoidance_rate
+claude_opus_4_8,182,0,0.0,4,0.0,1.0
+gemini_3_1_pro,182,0,0.0,4,0.0,1.0
+qwen_3_7_max,182,2,0.011,4,0.0,1.0
+mimo_v2_5_pro,182,3,0.0165,4,0.25,0.75

@@ -1,0 +1,40 @@
+# ── Python / tooling ─────────────────────────────────────────────────────────
+__pycache__/
+*.pyc
+*.pyo
+.pytest_cache/
+.venv/
+venv/
+.aider*
+.claude/
+.nicegui/
+.nicegui_storage/
+
+# ── Secrets — never commit ──────────────────────────────────────────────────
+.env
+*credentials*.json
+
+# ── Docker ──────────────────────────────────────────────────────────────────
+# Dev-only Docker Compose override (mounts host code + auto-reload) — must NEVER reach the server
+*override.yml
+pgdata/
+# Automated server dumps (the snapshots under annotation_app/backups/ are committed on purpose)
+*.sql.gz
+
+# ── Local working folders ───────────────────────────────────────────────────
+archive/
+Applicability/Output/
+
+# ── Large / regenerable artefacts ───────────────────────────────────────────
+# ChromaDB index (~480 MB) — rebuilt by `python -m scripts.eval.phase2_embed`
+Output/chromadb/
+# Run folders and plain-text exports of the 2025 prototype pipeline
+Output/output_*/
+Output/txt_files/
+# Embedding caches (~145 MB); the LLM response caches in results/_qcache/ are committed
+results/_qcache/qemb_*.jsonl
+results/_qcache/tabemb_*.jsonl
+# Run logs and per-case debug dumps
+*.log
+eval_output/raw_topk_*.json
+eval_output/offset_spot_check.json

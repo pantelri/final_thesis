@@ -1,0 +1,9 @@
+model,retrieval,n,acc_web_enriched,acc_statute_only,delta_web_minus_statute,ci_lo,ci_hi,significant
+claude_opus_4_8,predicted,141,0.5319,0.5816,-0.0496,-0.1206,0.0213,no
+claude_opus_4_8,oracle,141,0.461,0.4681,-0.0071,-0.078,0.0709,no
+gemini_3_1_pro,predicted,141,0.5248,0.6454,-0.1206,-0.2128,-0.0426,yes
+gemini_3_1_pro,oracle,141,0.4823,0.5957,-0.1135,-0.1986,-0.0284,yes
+qwen_3_7_max,predicted,141,0.6099,0.6667,-0.0567,-0.1418,0.0213,no
+qwen_3_7_max,oracle,141,0.5319,0.6241,-0.0922,-0.1702,0.0,no
+mimo_v2_5_pro,predicted,141,0.383,0.4255,-0.0426,-0.1277,0.0284,no
+mimo_v2_5_pro,oracle,141,0.3972,0.3404,0.0567,-0.0142,0.1278,no

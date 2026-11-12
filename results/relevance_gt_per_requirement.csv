@@ -1,0 +1,14 @@
+obligation_id,n,n_relevant,n_not_relevant,n_unclear,share_relevant,share_not_relevant,share_unclear,category,applicability_type
+R02,14,14,0,0,1.0,0.0,0.0,LB Forecast Report,always
+R03,14,14,0,0,1.0,0.0,0.0,LB Forecast Report,always
+R04,14,14,0,0,1.0,0.0,0.0,LB Forecast Report,always
+R10,14,14,0,0,1.0,0.0,0.0,LB Opportunities & Risks,always
+R11,14,14,0,0,1.0,0.0,0.0,LB Opportunities & Risks,always
+R12,14,5,7,2,0.3571,0.5,0.1429,LB Opportunities & Risks,conditional
+R14,14,14,0,0,1.0,0.0,0.0,LB Financial Position & Results,always
+R15,14,14,0,0,1.0,0.0,0.0,LB Financial Position & Results,always
+R17,14,14,0,0,1.0,0.0,0.0,LB Financial Position & Results,always
+R19,14,14,0,0,1.0,0.0,0.0,HGB Annex §§284-285,balance_sheet_item
+R22,14,4,8,2,0.2857,0.5714,0.1429,HGB Annex §§284-285,conditional
+R23,14,3,11,0,0.2143,0.7857,0.0,HGB Annex §§284-285,balance_sheet_item
+R24,14,3,11,0,0.2143,0.7857,0.0,HGB Annex §§284-285,balance_sheet_item

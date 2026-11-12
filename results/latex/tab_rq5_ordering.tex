@@ -1,0 +1,15 @@
+\begin{table}[htbp]
+  \centering
+  \caption{RQ5: effect of evidence-passage count and position on Stage-3 fulfillment (binary GT, Qwen winner).}
+  \label{tab:rq5-ordering}
+  \begin{tabular}{lrrrrr}
+    \toprule
+    Evidence arm & Acc. & 95\% CI & Macro-F1 & Rec. ful. & Rec. not\_ful. \\
+    \midrule
+    top-5, rank order & 0.757 & [0.686, 0.836] & 0.610 & 0.787 & 0.556 \\
+    top-1 & 0.600 & [0.514, 0.679] & 0.524 & 0.574 & 0.778 \\
+    top-5, document order & 0.779 & [0.707, 0.843] & 0.639 & 0.803 & 0.611 \\
+    top-5, relevance-last & 0.779 & [0.707, 0.850] & 0.639 & 0.803 & 0.611 \\
+    \bottomrule
+  \end{tabular}
+\end{table}

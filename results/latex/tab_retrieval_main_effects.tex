@@ -1,0 +1,25 @@
+\begin{table}[htbp]
+  \centering
+  \caption{Main effects of the retrieval design factors on mean Recall@5.}
+  \label{tab:retrieval-main-effects}
+  \begin{tabular}{llr}
+    \toprule
+    Factor & Level & Mean Recall@5 \\
+    \midrule
+    embedding & gemini & 0.624 \\
+    embedding & qwen3 & 0.590 \\
+    segmentation & baseSeg & 0.623 \\
+    segmentation & sentSeg & 0.592 \\
+    table\_rep & llmdesc & 0.612 \\
+    table\_rep & raw\_md & 0.603 \\
+    interaction & gemini|baseSeg|llmdesc & 0.647 \\
+    interaction & gemini|baseSeg|raw\_md & 0.630 \\
+    interaction & gemini|sentSeg|llmdesc & 0.618 \\
+    interaction & gemini|sentSeg|raw\_md & 0.602 \\
+    interaction & qwen3|baseSeg|llmdesc & 0.606 \\
+    interaction & qwen3|baseSeg|raw\_md & 0.607 \\
+    interaction & qwen3|sentSeg|llmdesc & 0.575 \\
+    interaction & qwen3|sentSeg|raw\_md & 0.573 \\
+    \bottomrule
+  \end{tabular}
+\end{table}

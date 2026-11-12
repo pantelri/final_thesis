@@ -1,0 +1,5 @@
+model,n,accuracy,macro_f1_2cls,macro_f1_2cls_ci_lo,macro_f1_2cls_ci_hi,f1_relevant,f1_not_relevant,n_pred_unclear_in_subset
+claude_opus_4_8,178,0.8933,0.8016,0.7097,0.871,0.9365,0.6667,0
+gemini_3_1_pro,178,0.9382,0.8989,0.8337,0.9508,0.9619,0.8358,0
+qwen_3_7_max,178,0.9157,0.8586,0.7783,0.9193,0.9553,0.7619,2
+mimo_v2_5_pro,178,0.8708,0.8032,0.7245,0.8728,0.9199,0.6866,2

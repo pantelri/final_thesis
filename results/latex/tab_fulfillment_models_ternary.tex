@@ -1,0 +1,15 @@
+\begin{table}[htbp]
+  \centering
+  \caption{Stage-3 fulfillment per model on the \textbf{3-class GT (pre-relabel)}, predicted@5 / statute-only. Majority baseline $=0.738$.}
+  \label{tab:fulfillment-models-ternary}
+  \begin{tabular}{lrrrrrr}
+    \toprule
+    Model & Acc. & 95\% CI & Macro-F1 & F1 ful. & F1 part. & F1 not\_ful. \\
+    \midrule
+    Qwen 3.7 Max & 0.667 & [0.589, 0.745] & 0.490 & 0.802 & 0.369 & 0.300 \\
+    Gemini 3.1 Pro & 0.645 & [0.567, 0.723] & 0.477 & 0.782 & 0.346 & 0.303 \\
+    Claude Opus 4.8 & 0.582 & [0.496, 0.660] & 0.494 & 0.716 & 0.345 & 0.421 \\
+    MiMo v2.5 Pro & 0.425 & [0.347, 0.503] & 0.395 & 0.507 & 0.345 & 0.333 \\
+    \bottomrule
+  \end{tabular}
+\end{table}

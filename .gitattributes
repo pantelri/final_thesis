@@ -1,0 +1,8 @@
+# Data files are stored byte-for-byte (no line-ending conversion), because
+# ground-truth spans and chunks reference character offsets into them.
+Input/**                   binary
+Output/**                  -text
+Requirements/*.json        -text
+results/_qcache/*.jsonl    -text
+label-studio-gts.json      -text
+import.json                -text

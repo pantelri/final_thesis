@@ -1,0 +1,19 @@
+\begin{table}[htbp]
+  \centering
+  \caption{H2: web-enriched vs.\ statute-only verification context (3-class GT, pre-relabel).}
+  \label{tab:fulfillment-h2}
+  \begin{tabular}{llrrrrc}
+    \toprule
+    Model & Retrieval & Acc. web & Acc. statute & $\Delta$ web$-$statute & 95\% CI & Sig. \\
+    \midrule
+    Claude Opus 4.8 & predicted & 0.532 & 0.582 & -0.050 & [-0.121, 0.021] & no \\
+    Claude Opus 4.8 & oracle & 0.461 & 0.468 & -0.007 & [-0.078, 0.071] & no \\
+    Gemini 3.1 Pro & predicted & 0.525 & 0.645 & -0.121 & [-0.213, -0.043] & yes \\
+    Gemini 3.1 Pro & oracle & 0.482 & 0.596 & -0.114 & [-0.199, -0.028] & yes \\
+    Qwen 3.7 Max & predicted & 0.610 & 0.667 & -0.057 & [-0.142, 0.021] & no \\
+    Qwen 3.7 Max & oracle & 0.532 & 0.624 & -0.092 & [-0.170, 0.000] & no \\
+    MiMo v2.5 Pro & predicted & 0.383 & 0.425 & -0.043 & [-0.128, 0.028] & no \\
+    MiMo v2.5 Pro & oracle & 0.397 & 0.340 & 0.057 & [-0.014, 0.128] & no \\
+    \bottomrule
+  \end{tabular}
+\end{table}

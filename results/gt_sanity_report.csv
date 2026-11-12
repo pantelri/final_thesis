@@ -1,0 +1,12 @@
+check,status,detail
+total_items_eq_182,PASS,found 182 (expected 182)
+grid_no_duplicates,PASS,
+grid_no_missing_pairs,PASS,
+obligation_count_eq_13,PASS,13 distinct obligations
+company_count_eq_14,PASS,14 distinct companies
+relevance_vocab_ok,PASS,
+fulfillment_vocab_ok,PASS,
+applicable_yes_has_fulfillment,PASS,0 applicable-yes rows without fulfillment
+not_applicable_no_fulfillment,PASS,0 non-applicable rows with fulfillment
+per_obligation_eq_14,PASS,
+per_company_eq_13,PASS,

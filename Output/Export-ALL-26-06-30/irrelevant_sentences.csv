@@ -1,0 +1,211 @@
+﻿annotation_id,item_id,company_id,fiscal_year,obligation_id,annotator_id,annotator_label,sentence_idx,sentence_text,submitted_at
+95,4,Amazon_2024,2024,R04,1,Prüfer A,0,Ausblick auf das Geschäftsjahr 2025,2026-06-29T15:06:55.662065+00:00
+95,4,Amazon_2024,2024,R04,1,Prüfer A,1,Die Gesellschaft erbringt Dienstleistungen für verbundene Unternehmen innerhalb der Amazon Gruppe und erhält dafür eine Vergütung .,2026-06-29T15:06:55.662065+00:00
+95,4,Amazon_2024,2024,R04,1,Prüfer A,2,Bei unverändertem Geschäftsmodell wird die Gesellschaft auch im Geschäftsjahr 2025 gleichbleibend gewinnbringend arbeiten .,2026-06-29T15:06:55.662065+00:00
+95,4,Amazon_2024,2024,R04,1,Prüfer A,3,"Das Unternehmen plant , die Anzahl der Mitarbeiter auf dem Niveau des Geschäftsjahres 2024 zu halten .",2026-06-29T15:06:55.662065+00:00
+95,4,Amazon_2024,2024,R04,1,Prüfer A,4,Einstellungen über das in den vorherigen Jahren erfolgte Maß hinaus werden aufgrund der Optimierung der Arbeitsabläufe nicht für notwendig erachtet .,2026-06-29T15:06:55.662065+00:00
+6,19,BoschMS_2024,2024,R11,1,Prüfer A,0,Der deutlich sinkende Bedarf an Senior Experten infolge der wirtschaftlich angespannten Situation der Bosch Gruppe stellt auch für BMS ein erhebliches Risiko dar .,2026-06-11T14:00:44.927755+00:00
+6,19,BoschMS_2024,2024,R11,1,Prüfer A,6,,2026-06-11T14:00:44.927755+00:00
+159,29,HTG_2024,2024,R03,1,Prüfer A,2,Das Jahr 2025 hat vielversprechend begonnen : Die Buchungen im Januar wurden durch eine starke Reiselust der Verbraucher über die zentralen Domains und geografischen Märkte von Home To Go hinweg angetrieben .,2026-06-17T15:00:02.712650+00:00
+159,29,HTG_2024,2024,R03,1,Prüfer A,3,[...],2026-06-17T15:00:02.712650+00:00
+159,29,HTG_2024,2024,R03,1,Prüfer A,14,[...],2026-06-17T15:00:02.712650+00:00
+159,29,HTG_2024,2024,R03,1,Prüfer A,15,"Durch die Ausweitung unseres Geschäfts , besonders Home To Go Payment und die App , werden wir den Nutzer*innen unserer Plattformen auch weiterhin unvergleichliche Erlebnisse bieten , um so das wiederkehrende Geschäft und die Markenbindung zu stärken .",2026-06-17T15:00:02.712650+00:00
+83,30,HTG_2024,2024,R04,1,Prüfer A,0,"Die bedeutsamsten finanziellen Leistungsindikatoren der Home To Go sind grundsätzlich die Buchungserlöse , Umsatzerlöse und das bereinigte EBITDA3 , welches nur nach IFRS auf Basis des IFRS Konzernergebnisses bestimmt wird .",2026-06-17T10:13:49.588462+00:00
+83,30,HTG_2024,2024,R04,1,Prüfer A,1,Für die Home To Go Gmb H allein wird das bereinigte EBITDA nach IFRS nicht separat berechnet .,2026-06-17T10:13:49.588462+00:00
+83,30,HTG_2024,2024,R04,1,Prüfer A,2,"Vielmehr ist das Jahresergebnis nach HGB relevant , um die Entwicklung der Profitabilität der Gesellschaft zu messen .",2026-06-17T10:13:49.588462+00:00
+83,30,HTG_2024,2024,R04,1,Prüfer A,3,"Buchungserlöse werden in Ergänzung zu den Umsatzerlösen genutzt , weil sie die Leistung bereits im Zeitpunkt der Buchungen und Klicks von Reisenden erfasst .",2026-06-17T10:13:49.588462+00:00
+83,30,HTG_2024,2024,R04,1,Prüfer A,11,,2026-06-17T10:13:49.588462+00:00
+83,30,HTG_2024,2024,R04,1,Prüfer A,12,,2026-06-17T10:13:49.588462+00:00
+83,30,HTG_2024,2024,R04,1,Prüfer A,13,,2026-06-17T10:13:49.588462+00:00
+83,30,HTG_2024,2024,R04,1,Prüfer A,14,,2026-06-17T10:13:49.588462+00:00
+83,30,HTG_2024,2024,R04,1,Prüfer A,15,,2026-06-17T10:13:49.588462+00:00
+83,30,HTG_2024,2024,R04,1,Prüfer A,16,,2026-06-17T10:13:49.588462+00:00
+83,30,HTG_2024,2024,R04,1,Prüfer A,17,,2026-06-17T10:13:49.588462+00:00
+83,30,HTG_2024,2024,R04,1,Prüfer A,18,,2026-06-17T10:13:49.588462+00:00
+83,30,HTG_2024,2024,R04,1,Prüfer A,19,,2026-06-17T10:13:49.588462+00:00
+83,30,HTG_2024,2024,R04,1,Prüfer A,20,,2026-06-17T10:13:49.588462+00:00
+83,30,HTG_2024,2024,R04,1,Prüfer A,21,,2026-06-17T10:13:49.588462+00:00
+129,32,HTG_2024,2024,R11,1,Prüfer A,3,"Unterm Strich gehen wir von einem anhaltend starken Wachstum des Marktes für Ferienunterkünfte aus , denn mehrere Trends zeigen , dass Ferienunterkünfte gegenüber Hotels oder Resorts an Beliebtheit gewinnen .",2026-06-17T14:30:22.095409+00:00
+96,36,HTG_2024,2024,R17,1,Prüfer A,0,"Die bedeutsamsten finanziellen Leistungsindikatoren der Home To Go sind grundsätzlich die Buchungserlöse , Umsatzerlöse und das bereinigte EBITDA3 , welches nur nach IFRS auf Basis des IFRS Konzernergebnisses bestimmt wird .",2026-06-17T11:28:56.198686+00:00
+96,36,HTG_2024,2024,R17,1,Prüfer A,1,Für die Home To Go Gmb H allein wird das bereinigte EBITDA nach IFRS nicht separat berechnet .,2026-06-17T11:28:56.198686+00:00
+96,36,HTG_2024,2024,R17,1,Prüfer A,2,"Vielmehr ist das Jahresergebnis nach HGB relevant , um die Entwicklung der Profitabilität der Gesellschaft zu messen .",2026-06-17T11:28:56.198686+00:00
+96,36,HTG_2024,2024,R17,1,Prüfer A,3,"Buchungserlöse werden in Ergänzung zu den Umsatzerlösen genutzt , weil sie die Leistung bereits im Zeitpunkt der Buchungen und Klicks von Reisenden erfasst .",2026-06-17T11:28:56.198686+00:00
+96,36,HTG_2024,2024,R17,1,Prüfer A,22,,2026-06-17T11:28:56.198686+00:00
+96,36,HTG_2024,2024,R17,1,Prüfer A,23,,2026-06-17T11:28:56.198686+00:00
+96,36,HTG_2024,2024,R17,1,Prüfer A,24,,2026-06-17T11:28:56.198686+00:00
+170,49,Hoberg_2024,2024,R17,1,Prüfer A,2,[...],2026-06-17T15:18:06.447150+00:00
+170,49,Hoberg_2024,2024,R17,1,Prüfer A,3,Der Planungs - und Steuerungsprozess wird vervollständigt durch die laufende Überprüfung der Geschäftsentwicklung mittels regelmäßiger unterjähriger Berichterstattung einschließlich aktualisierter Hochrechnungen wesentlicher Steuerungs - und Leistungskennzahlen .,2026-06-17T15:18:06.447150+00:00
+87,88,Miethke_2024,2024,R17,1,Prüfer A,5,,2026-06-17T10:16:24.645516+00:00
+87,88,Miethke_2024,2024,R17,1,Prüfer A,6,,2026-06-17T10:16:24.645516+00:00
+87,88,Miethke_2024,2024,R17,1,Prüfer A,7,,2026-06-17T10:16:24.645516+00:00
+143,101,Pfizer_2024,2024,R17,1,Prüfer A,10,"||  2023/24     Mio. Euro   |  2022/23     Mio. Euro   |  Veränderung   |
+| - | - | - | - |
+|  Mio. Euro   |  %   |
+|  Paxlovid   |  25,2   |  120,2   |  -95,0   |  -79,0 %   |
+|  Vaccines   |  354,2   |  231,0   |  123,2   |  53,3 %   |
+|  Oncology   |  318,8   |  293,2   |  25,6   |  8,7 %   |
+|  Rare Disease   |  469,1   |  372,6   |  96,5   |  25,9 %   |
+|  Inflammation and Immunology   |  99,7   |  100,8   |  -1,1   |  -1,1 %   |
+|  Internal Medicine   |  30,9   |  36,2   |  -5,3   |  -14,6 %   |
+|  Hospital   |  97,2   |  99,5   |  -2,3   |  -2,3 %   |
+|  Produktumsatz   |  1.395,1   |  1.253,5   |  141,6   |  11,3 %   |
+|  Sonstige Erlöse   |  199,1   |  170,6   |  28,5   |  16,7 %   |
+|  Gesamt   |  1.594,2   |  1.424,1   |  170,1   |  11,9 %   |",2026-06-17T14:40:34.038093+00:00
+143,101,Pfizer_2024,2024,R17,1,Prüfer A,11,[...],2026-06-17T14:40:34.038093+00:00
+143,101,Pfizer_2024,2024,R17,1,Prüfer A,13,"Dabei stiegen die Aufwendungen für Hilfs - und Betriebsstoffe und bezogene Waren um 96,3 Mio . Euro , was mit dem Anstieg der Produktumsätze korreliert .",2026-06-17T14:40:34.038093+00:00
+14,106,Schrott_2024,2024,R02,1,Prüfer A,1,[...],2026-06-16T07:18:05.745597+00:00
+54,108,Schrott_2024,2024,R04,1,Prüfer A,1,[...],2026-06-16T09:52:33.982554+00:00
+142,119,Tennet_TSO_2024,2024,R02,1,Prüfer A,1,[...],2026-06-17T14:38:56.741018+00:00
+142,119,Tennet_TSO_2024,2024,R02,1,Prüfer A,2,Zur Aufrechterhaltung des gewohnt hohen Niveaus an Versorgungssicherheit strebt die TTG im Geschäftsjahr 2025 einen Netzbetrieb ohne Ausfälle von Verbrauchskunden oder Erzeugern an ( ASIDI = null Minuten ) .,2026-06-17T14:38:56.741018+00:00
+142,119,Tennet_TSO_2024,2024,R02,1,Prüfer A,5,"Als konzernweiter TRIR Zielwert für 2025 wurde ein Wert von max . 3,1 angesetzt .",2026-06-17T14:38:56.741018+00:00
+142,119,Tennet_TSO_2024,2024,R02,1,Prüfer A,6,,2026-06-17T14:38:56.741018+00:00
+164,132,WN24_2024,2024,R02,1,Prüfer A,1,[...],2026-06-17T15:04:20.567293+00:00
+164,132,WN24_2024,2024,R02,1,Prüfer A,2,Für das Geschäftsjahr 2025 wird mit einem Rückgang der Gesamterlöse im unteren einstelligen Prozentbereich gegenüber dem Vorjahr erwartet .,2026-06-17T15:04:20.567293+00:00
+85,140,WN24_2024,2024,R17,1,Prüfer A,4,,2026-06-17T10:15:08.630416+00:00
+85,140,WN24_2024,2024,R17,1,Prüfer A,5,,2026-06-17T10:15:08.630416+00:00
+85,140,WN24_2024,2024,R17,1,Prüfer A,6,,2026-06-17T10:15:08.630416+00:00
+85,140,WN24_2024,2024,R17,1,Prüfer A,7,,2026-06-17T10:15:08.630416+00:00
+85,140,WN24_2024,2024,R17,1,Prüfer A,8,,2026-06-17T10:15:08.630416+00:00
+85,140,WN24_2024,2024,R17,1,Prüfer A,9,,2026-06-17T10:15:08.630416+00:00
+85,140,WN24_2024,2024,R17,1,Prüfer A,10,,2026-06-17T10:15:08.630416+00:00
+85,140,WN24_2024,2024,R17,1,Prüfer A,11,,2026-06-17T10:15:08.630416+00:00
+37,141,WN24_2024,2024,R19,1,Prüfer A,0,Entwicklung des Anlagevermögens zum 31.12.2024,2026-06-16T08:45:33.085447+00:00
+37,141,WN24_2024,2024,R19,1,Prüfer A,1,"| **Anschaffungs- und Herstellungskosten** | **1.1.2024 EUR** | **Zugänge EUR** | **Abgänge EUR** | **Umbuchungen EUR** | **31.12.2024 EUR** |
+| --- | --- | --- | --- | --- | --- |
+| Immaterielle Vermögensgegenstände | | | | | |
+| Rechte und Lizenzen | 16.941.838,20 | 360.912,11 | 0,00 | 18.539,21 | 17.321.289,52 |
+| Geleistete Anzahlungen | 12.639,21 | 0,00 | 0,00 | -12.639,21 | 0,00 |
+| | 16.954.477,41 | 360.912,11 | 0,00 | 5.900,00 | 17.321.289,52 |
+| Sachanlagen | | | | | |
+| Grundstücke und Gebäude | 1.899.305,73 | 0,00 | 0,00 | 0,00 | 1.899.305,73 |
+| Technische Anlagen und Maschinen | 30.546.261,63 | 2.834,00 | 0,00 | 0,00 | 30.549.095,63 |
+| Andere Anlagen, Betriebs- und Geschäftsausstattung | 8.000.409,52 | 1.198.350,12 | 397.994,53 | 27.567,63 | 8.828.332,74 |
+| Geleistete Anzahlungen und Anlagen im Bau | 5.900,00 | 27.567,63 | 0,00 | -33.467,63 | 0,00 |
+| | 40.451.876,88 | 1.228.751,75 | 397.994,53 | -5.900,00 | 41.276.734,10 |
+| Finanzanlagen | | | | | |
+| Anteile an verbundenen Unternehmen | 9.985.730,56 | 15.814.098,00 | 25.774.828,56 | 0,00 | 25.000,00 |
+| Beteiligungen | 1.624.856,44 | 0,00 | 0,00 | 0,00 | 1.624.856,44 |
+| | 11.610.587,00 | 15.814.098,00 | 25.774.828,56 | 0,00 | 1.649.856,44 |
+| | 69.016.941,29 | 17.403.761,86 | 26.172.823,09 | 0,00 | 60.247.880,06 |",2026-06-16T08:45:33.085447+00:00
+37,141,WN24_2024,2024,R19,1,Prüfer A,2,"| **Kumulierte Abschreibungen** | **1.1.2024 EUR** | **Zugänge EUR** | **Abgänge EUR** | **31.12.2024 EUR** |
+| --- | --- | --- | --- | --- |
+| Immaterielle Vermögensgegenstände | | | | |
+| Rechte und Lizenzen | 13.814.532,20 | 1.474.287,13 | 0,00 | 15.288.819,33 |
+| Geleistete Anzahlungen | 0,00 | 0,00 | 0,00 | 0,00 |
+| | 13.814.532,20 | 1.474.287,13 | 0,00 | 15.288.819,33 |
+| Sachanlagen | | | | |
+| Grundstücke und Gebäude | 1.899.305,73 | 0,00 | 0,00 | 1.899.305,73 |
+| Technische Anlagen und Maschinen | 15.303.635,63 | 5.061.154,00 | 0,00 | 20.364.789,63 |
+| Andere Anlagen, Betriebs- und Geschäftsausstattung | 4.861.330,31 | 838.852,96 | 377.123,06 | 5.323.060,21 |
+| Geleistete Anzahlungen und Anlagen im Bau | 0,00 | 0,00 | 0,00 | 0,00 |
+| | 22.064.271,67 | 5.900.006,96 | 377.123,06 | 27.587.155,57 |
+| Finanzanlagen | | | | |
+| Anteile an verbundenen Unternehmen | 8.862.174,46 | 0,00 | 8.862.174,46 | 0,00 |
+| Beteiligungen | 632.770,69 | 52.616,86 | 0,00 | 685.387,55 |
+| | 9.494.945,15 | 52.616,86 | 8.862.174,46 | 685.387,55 |
+| | 45.373.749,02 | 7.426.910,95 | 9.239.297,52 | 43.561.362,45 |",2026-06-16T08:45:33.085447+00:00
+37,141,WN24_2024,2024,R19,1,Prüfer A,3,"| **Buchwerte** | **31.12.2024 EUR** | **31.12.2023 EUR** |
+| --- | --- | --- |
+| Immaterielle Vermögensgegenstände | | |
+| Rechte und Lizenzen | 2.032.470,19 | 3.127.306,00 |
+| Geleistete Anzahlungen | 0,00 | 12.639,21 |
+| | 2.032.470,19 | 3.139.945,21 |
+| Sachanlagen | | |
+| Grundstücke und Gebäude | 0,00 | 0,00 |
+| Technische Anlagen und Maschinen | 10.184.306,00 | 15.242.626,00 |
+| Andere Anlagen, Betriebs- und Geschäftsausstattung | 3.505.272,53 | 3.139.079,21 |
+| Geleistete Anzahlungen und Anlagen im Bau | 0,00 | 5.900,00 |
+| | 13.689.578,53 | 18.387.605,21 |
+| Finanzanlagen | | |
+| Anteile an verbundenen Unternehmen | 25.000,00 | 1.123.556,10 |
+| Beteiligungen | 939.468,89 | 992.085,75 |
+| | 964.468,89 | 2.115.641,85 |
+| | 16.686.517,61 | 23.643.192,27 |",2026-06-16T08:45:33.085447+00:00
+37,141,WN24_2024,2024,R19,1,Prüfer A,4,,2026-06-16T08:45:33.085447+00:00
+37,141,WN24_2024,2024,R19,1,Prüfer A,5,,2026-06-16T08:45:33.085447+00:00
+37,141,WN24_2024,2024,R19,1,Prüfer A,6,,2026-06-16T08:45:33.085447+00:00
+37,141,WN24_2024,2024,R19,1,Prüfer A,7,,2026-06-16T08:45:33.085447+00:00
+37,141,WN24_2024,2024,R19,1,Prüfer A,8,,2026-06-16T08:45:33.085447+00:00
+37,141,WN24_2024,2024,R19,1,Prüfer A,9,,2026-06-16T08:45:33.085447+00:00
+37,141,WN24_2024,2024,R19,1,Prüfer A,10,,2026-06-16T08:45:33.085447+00:00
+37,141,WN24_2024,2024,R19,1,Prüfer A,11,,2026-06-16T08:45:33.085447+00:00
+37,141,WN24_2024,2024,R19,1,Prüfer A,12,,2026-06-16T08:45:33.085447+00:00
+113,167,Yaveon_2024,2024,R19,1,Prüfer A,0,"| **ANSCHAFFUNGS- UND HERSTELLUNGSKOSTEN** | **01.01.2024 EUR** | **Verschmelzung EUR** | **Zugänge EUR** | **Abgänge EUR** | **31.12.2024 EUR** |
+| --- | --- | --- | --- | --- | --- |
+| I. Immaterielle Vermögensgegenstände | | | | | |
+| Selbst geschaffene gewerbliche Schutzrechte und ähnliche Rechte und Werte | 1.298.821,00 | 0,00 | 166.886,00 | 0,00 | 1.465.707,00 |
+| entgeltlich erworbene Konzessionen, gewerbliche Schutzrechte und ähnliche Rechte und Werte sowie Lizenzen an solchen Rechten und Werten | 538.381,00 | 0,00 | 325.775,25 | -72.754,62 | 791.401,63 |
+| | 1.837.202,00 | 0,00 | 492.661,25 | -72.754,62 | 2.257.108,63 |
+| II. Sachanlagen | | | | | |
+| andere Anlagen, Betriebs- und Geschäftsausstattung | 612.860,79 | 86.063,94 | 241.987,83 | -76.555,42 | 864.357,14 |
+| | 612.860,79 | 86.063,94 | 241.987,83 | -76.555,42 | 864.357,14 |
+| III. Finanzanlagen | | | | | |
+| Anteile an verbundenen Unternehmen | 3.198.240,84 | -1.965.636,48 | 12.531,52 | -1.147.998,52 | 97.137,36 |
+| Ausleihungen an verbundene Unternehmen | 4.680.736,19 | 0,00 | 1.318.972,90 | -300.000,00 | 5.699.709,09 |
+| | 7.878.977,03 | -1.965.636,48 | 1.331.504,42 | -1.447.998,52 | 5.796.846,45 |
+| | 10.329.039,82 | -1.879.572,54 | 2.066.153,50 | -1.597.308,56 | 8.918.312,22 |",2026-06-17T11:42:10.570382+00:00
+113,167,Yaveon_2024,2024,R19,1,Prüfer A,1,"| **AUFGELAUFENE ABSCHREIBUNGEN** | **01.01.2024 EUR** | **Verschmelzung EUR** | **Zugänge EUR** | **Abgänge EUR** | **31.12.2024 EUR** |
+| --- | --- | --- | --- | --- | --- |
+| I. Immaterielle Vermögensgegenstände | | | | | |
+| Selbst geschaffene gewerbliche Schutzrechte und ähnliche Rechte und Werte | 991.716,90 | 0,00 | 295.314,10 | 0,00 | 1.287.031,00 |
+| entgeltlich erworbene Konzessionen, gewerbliche Schutzrechte und ähnliche Rechte und Werte sowie Lizenzen an solchen Rechten und Werten | 472.723,48 | 0,00 | 59.091,65 | -72.754,62 | 459.060,51 |
+| | 1.464.440,38 | 0,00 | 354.405,75 | -72.754,62 | 1.746.091,51 |
+| II. Sachanlagen | | | | | |
+| andere Anlagen, Betriebs- und Geschäftsausstattung | 588.212,09 | 29.035,05 | 98.685,69 | -75.567,75 | 640.365,08 |
+| | 588.212,09 | 29.035,05 | 98.685,69 | -75.567,75 | 640.365,08 |
+| III. Finanzanlagen | | | | | |
+| Anteile an verbundenen Unternehmen | 1.965.636,48 | -1.965.636,48 | 0,00 | 0,00 | 0,00 |
+| Ausleihungen an verbundene Unternehmen | 477.522,11 | 0,00 | 0,00 | -300.000,00 | 177.522,11 |
+| | 2.443.158,59 | -1.965.636,48 | 0,00 | -300.000,00 | 177.522,11 |
+| | 4.495.811,06 | -1.936.601,43 | 453.091,44 | -448.322,37 | 2.563.978,70 |",2026-06-17T11:42:10.570382+00:00
+113,167,Yaveon_2024,2024,R19,1,Prüfer A,2,"| **NETTOBUCHWERTE** | **31.12.2024 EUR** | **31.12.2023 EUR** |
+| --- | --- | --- |
+| I. Immaterielle Vermögensgegenstände | | |
+| Selbst geschaffene gewerbliche Schutzrechte und ähnliche Rechte und Werte | 178.676,00 | 307.104,10 |
+| entgeltlich erworbene Konzessionen, gewerbliche Schutzrechte und ähnliche Rechte und Werte sowie Lizenzen an solchen Rechten und Werten | 332.341,12 | 65.657,52 |
+| | 511.017,12 | 372.761,62 |
+| II. Sachanlagen | | |
+| andere Anlagen, Betriebs- und Geschäftsausstattung | 223.992,06 | 24.648,70 |
+| | 223.992,06 | 24.648,70 |
+| III. Finanzanlagen | | |
+| Anteile an verbundenen Unternehmen | 97.137,36 | 1.232.604,36 |
+| Ausleihungen an verbundene Unternehmen | 5.522.186,98 | 4.203.214,08 |
+| | 5.619.324,34 | 5.435.818,44 |
+| | 6.354.333,52 | 5.833.228,76 |",2026-06-17T11:42:10.570382+00:00
+113,167,Yaveon_2024,2024,R19,1,Prüfer A,3,,2026-06-17T11:42:10.570382+00:00
+113,167,Yaveon_2024,2024,R19,1,Prüfer A,4,,2026-06-17T11:42:10.570382+00:00
+113,167,Yaveon_2024,2024,R19,1,Prüfer A,5,,2026-06-17T11:42:10.570382+00:00
+113,167,Yaveon_2024,2024,R19,1,Prüfer A,6,,2026-06-17T11:42:10.570382+00:00
+113,167,Yaveon_2024,2024,R19,1,Prüfer A,7,,2026-06-17T11:42:10.570382+00:00
+113,167,Yaveon_2024,2024,R19,1,Prüfer A,8,,2026-06-17T11:42:10.570382+00:00
+17,171,Zollern_2024,2024,R02,1,Prüfer A,2,,2026-06-16T07:23:36.302939+00:00
+17,171,Zollern_2024,2024,R02,1,Prüfer A,3,,2026-06-16T07:23:36.302939+00:00
+17,171,Zollern_2024,2024,R02,1,Prüfer A,4,,2026-06-16T07:23:36.302939+00:00
+17,171,Zollern_2024,2024,R02,1,Prüfer A,5,,2026-06-16T07:23:36.302939+00:00
+17,171,Zollern_2024,2024,R02,1,Prüfer A,6,,2026-06-16T07:23:36.302939+00:00
+2,179,Zollern_2024,2024,R17,1,Prüfer A,6,"||  2024     EUR Mio.   |  02-12/2023     EUR Mio.   |
+| - | - | - |
+|  Antriebstechnik   |  212,8   |  181,2   |
+|  Feinguss   |  80,7   |  86,0   |
+|  Sandguss und Schmiede   |  42,4   |  39,5   |
+|  Stahlprofile   |  45,3   |  64,6   |  381,2   |  371,3   |
+|  Nebengeschäfte   |  4,1   |  5,7   |  385,3   |  376,9   |
+|  abzüglich/zuzüglich   |
+|  Bildung/Auflösung der Rückstellung für Rücksendungen und Erlösschmälerungen, netto   |  -0,1   |  0,1   |
+||  385,2   |  377,0   |",2026-06-11T13:58:43.040847+00:00
+2,179,Zollern_2024,2024,R17,1,Prüfer A,7,[...],2026-06-11T13:58:43.040847+00:00
+2,179,Zollern_2024,2024,R17,1,Prüfer A,8,"Vj . EUR 357,0 Mio . ) insbesondere auch unter Berücksichtigung des im Vorjahr verkürzten Geschäftsjahres , nicht erfüllt werden .",2026-06-11T13:58:43.040847+00:00
+2,179,Zollern_2024,2024,R17,1,Prüfer A,9,"Dies ist zum Großteil auf die globalen Rahmenbedingungen infolge des allgemeinen konjunkturellen Branchenrückgangs in allen Bereichen im letzten Geschäftsjahresquartal zurückzuführen , wobei insbesondere im Geschäftsbereich Stahlprofile die Erwartungen diesbezüglich nicht erfüllt werden konnten .",2026-06-11T13:58:43.040847+00:00
+2,179,Zollern_2024,2024,R17,1,Prüfer A,12,Ab Oktober kam es wieder zu einem Anstieg .,2026-06-11T13:58:43.040847+00:00
+2,179,Zollern_2024,2024,R17,1,Prüfer A,13,[...],2026-06-11T13:58:43.040847+00:00
+2,179,Zollern_2024,2024,R17,1,Prüfer A,14,Die Gesamtleistung setzt sich aus den Umsatzerlösen sowie der Bestandsveränderung,2026-06-11T13:58:43.040847+00:00
+2,179,Zollern_2024,2024,R17,1,Prüfer A,15,"( Bestandsminderung in Höhe von EUR 2,1 Mio .; i .",2026-06-11T13:58:43.040847+00:00
+2,179,Zollern_2024,2024,R17,1,Prüfer A,16,"Vj . Erhöhung um EUR 12,1 Mio . ) zusammen .",2026-06-11T13:58:43.040847+00:00
+2,179,Zollern_2024,2024,R17,1,Prüfer A,17,Die Erwartung eines moderat steigenden Umsatzes wurde unter anderem wegen der rückläufigen Nachfrage im Geschäftsbereich Stahlprofile sowie aufgrund der wegfallenden Automotive Umsätze bezüglich der Neuausrichtung im Geschäftsfels Feinguss nicht erfüllt .,2026-06-11T13:58:43.040847+00:00
+2,179,Zollern_2024,2024,R17,1,Prüfer A,18,"Die sonstigen betrieblichen Erträge stiegen auf ein Volumen von EUR 15,3 Mio . ( i .",2026-06-11T13:58:43.040847+00:00
+2,179,Zollern_2024,2024,R17,1,Prüfer A,19,"Vj . EUR 9,4 Mio . ) .",2026-06-11T13:58:43.040847+00:00
+2,179,Zollern_2024,2024,R17,1,Prüfer A,22,"Vj . EUR 206,5 Mio . ) auf Vorjahresniveau .",2026-06-11T13:58:43.040847+00:00
+2,179,Zollern_2024,2024,R17,1,Prüfer A,23,"Die Materialaufwandsquote als Verhältnis von Materialaufwand zur Gesamtleistung steigerte sich aufgrund allgemein gestiegener Preise in bestimmten Bereichen von 53,1 % i .",2026-06-11T13:58:43.040847+00:00
+2,179,Zollern_2024,2024,R17,1,Prüfer A,24,"Vj . auf 53,6 % im Geschäftsjahr .",2026-06-11T13:58:43.040847+00:00
+2,179,Zollern_2024,2024,R17,1,Prüfer A,25,"Die Personalaufwendungen glichen sich um EUR 14,0 Mio . auf EUR 128,2 Mio . ( i .",2026-06-11T13:58:43.040847+00:00
+2,179,Zollern_2024,2024,R17,1,Prüfer A,26,"Vj . EUR 114,1 Mio . ) wieder dem Niveau von vor Umstellung des Geschäftsjahres an .",2026-06-11T13:58:43.040847+00:00

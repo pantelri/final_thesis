@@ -1,0 +1,18 @@
+==========================================================================
+  Retrieval-Ansatz-Vergleich  (n=20, seed=42)
+==========================================================================
+
+  Metrik                               A0         A1        A2a        A2b
+  --------------------------------------------------------------------------
+  Hit@1                               35%        20%        50%        45%
+  Hit@3                               45%        55%        60%        55%
+  Hit@5                               55%        70%        60%        60%
+  avg max_recall_top5               0.542      0.674      0.632      0.620
+  avg union_cov_top5                0.618      0.775      0.708      0.747
+  --------------------------------------------------------------------------
+
+  Approach 0  - verification_criterion (abstrakte Pruefbeschreibung)
+  Approach 1  - LLM-generierter retrieval_text (exemplarischer Berichtstext)
+  Approach 2a - GT-Text einer anderen Firma (Lauf 1)
+  Approach 2b - GT-Text einer anderen Firma (Lauf 2)
+==========================================================================

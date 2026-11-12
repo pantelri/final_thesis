@@ -1,0 +1,10 @@
+stage,baseline,accuracy,macro_f1,macro_f1_ci_lo,macro_f1_ci_hi,n,detail
+stage1_relevance,always_majority,0.7747,0.291,,,182,"constant 'relevant'; deterministic, no interval"
+stage1_relevance,random_prior,0.6417,0.3318,0.2803,0.4217,182,mean over 10000 draws; p=0.775/0.203/0.022
+stage1_relevance,random_uniform,0.3332,0.2525,0.2001,0.3074,182,mean over 10000 draws; p=0.333/0.333/0.333
+stage3_fulfillment_ternary,always_majority,0.7376,0.283,,,141,"constant 'fulfilled'; deterministic, no interval"
+stage3_fulfillment_ternary,random_prior,0.586,0.333,0.2633,0.4202,141,mean over 10000 draws; p=0.738/0.071/0.191
+stage3_fulfillment_ternary,random_uniform,0.3332,0.2722,0.2064,0.3425,141,mean over 10000 draws; p=0.333/0.333/0.333
+stage3_fulfillment_binary,always_majority,0.8714,0.4656,,,140,"constant 'fulfilled'; deterministic, no interval"
+stage3_fulfillment_binary,random_prior,0.7759,0.4988,0.4262,0.5917,140,mean over 10000 draws; p=0.871/0.129
+stage3_fulfillment_binary,random_uniform,0.5004,0.4196,0.3525,0.4925,140,mean over 10000 draws; p=0.500/0.500

@@ -1,0 +1,9 @@
+﻿company,from_label,to_label,direction
+HTG_2024,R04_Prognose_Leistungsind,R17_Fin_Leistungsind,right
+HTG_2024,R17_Fin_Leistungsind,R04_Prognose_Leistungsind,right
+Pfizer_2024,R14_Ertragslage,R17_Fin_Leistungsind,right
+Pfizer_2024,R23_Goodwill_Abschr,R19_Anlagenspiegel,right
+WN24_2024,R23_Goodwill_Abschr,R19_Anlagenspiegel,right
+WN24_2024,R04_Prognose_Leistungsind,R17_Fin_Leistungsind,right
+Yaveon_2024,R23_Goodwill_Abschr,R19_Anlagenspiegel,right
+Zollern_2024,R17_Fin_Leistungsind,R14_Ertragslage,right

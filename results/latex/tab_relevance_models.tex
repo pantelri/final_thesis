@@ -1,0 +1,16 @@
+\begin{table}[htbp]
+  \centering
+  \caption{Stage-1 relevance classification per model ($n=182$).}
+  \label{tab:relevance-models}
+  \begin{tabular}{lrrrrrr}
+    \toprule
+    Model & $n$ & Acc. & 95\% CI & Macro-F1 & Rec. rel. & Rec. not\_rel. \\
+    \midrule
+    Gemini 3.1 Pro & 182 & 0.918 & [0.874, 0.951] & 0.592 & 0.986 & 0.757 \\
+    Qwen 3.7 Max & 182 & 0.896 & [0.852, 0.940] & 0.568 & 0.986 & 0.649 \\
+    Claude Opus 4.8 & 182 & 0.874 & [0.824, 0.918] & 0.530 & 0.993 & 0.513 \\
+    MiMo v2.5 Pro & 182 & 0.857 & [0.802, 0.912] & 0.627 & 0.936 & 0.622 \\
+    \bottomrule
+  \end{tabular}
+  \par\smallskip\footnotesize Recall on the \emph{unclear} class is omitted (support $=4$; see Tab.~\ref{tab:relevance-h3}).
+\end{table}

@@ -1,0 +1,183 @@
+annotation_id,item_id,annotator_id,is_relevant,length_judgment,is_applicable,is_fulfilled,comment,missing_info,submitted_at
+118,2,1,t,ok,yes,yes,,,2026-06-17 11:44:38.953313+00
+29,3,1,t,ok,yes,no,,,2026-06-16 07:39:56.475847+00
+95,4,1,t,too_long,yes,partially,,,2026-06-17 11:26:33.398464+00
+111,5,1,t,ok,yes,yes,,,2026-06-17 11:41:18.417756+00
+58,6,1,t,ok,yes,yes,,,2026-06-16 09:54:52.758634+00
+74,7,1,f,too_short,unsure,,,Gibt es Hinweise auf die Verwendung von Finanzinstrumenten?,2026-06-17 10:02:38.712157+00
+135,8,1,t,ok,yes,yes,,,2026-06-17 14:34:21.140472+00
+182,9,1,t,too_short,yes,partially,,,2026-06-17 15:27:15.746621+00
+152,10,1,t,too_short,yes,partially,,Was sind die bedeutsamsten finanziellen Leistungsindikatoren?,2026-06-17 14:53:26.569537+00
+23,11,1,t,ok,yes,yes,,,2026-06-16 07:32:51.997325+00
+56,12,1,t,ok,unsure,,,,2026-06-16 09:53:57.133609+00
+60,13,1,t,too_short,yes,yes,,Gibt es einen entgeltlich erworbenen Geschäfts- oder Firmenwert?,2026-06-16 09:56:43.958015+00
+90,14,1,t,ok,no,,,,2026-06-17 10:17:37.182736+00
+114,15,1,t,ok,yes,yes,,,2026-06-17 11:42:28.585555+00
+65,16,1,t,ok,yes,yes,,,2026-06-17 09:53:33.359399+00
+107,17,1,t,ok,yes,yes,,,2026-06-17 11:37:50.329422+00
+173,18,1,t,too_short,yes,partially,,,2026-06-17 15:21:56.22806+00
+6,19,1,t,too_long,yes,yes,,,2026-06-11 14:00:44.927755+00
+138,20,1,f,ok,no,,,,2026-06-17 14:35:56.636941+00
+172,21,1,t,too_short,yes,yes,Warum hat sich die Höhe,Warum sanken die Umsatzerlöse?,2026-06-17 15:21:20.509716+00
+81,22,1,t,ok,yes,partially,,,2026-06-17 10:10:10.038927+00
+71,23,1,t,too_short,yes,no,"Es wird nicht genannt, was die wesentlichen finanziellen Leistungsindikatoren überhaupt sind",Was sind die bedeutsamsten finanziellen Leistungsindikatoren?,2026-06-17 10:00:06.544734+00
+131,24,1,t,ok,yes,yes,,,2026-06-17 14:32:13.315468+00
+55,25,1,t,ok,no,,,,2026-06-16 09:52:51.838671+00
+84,26,1,t,ok,no,,,,2026-06-17 10:14:04.256388+00
+62,27,1,t,ok,no,,,,2026-06-16 09:58:40.263645+00
+144,28,1,t,ok,yes,yes,,,2026-06-17 14:40:48.951354+00
+159,29,1,t,too_long,yes,yes,,,2026-06-17 15:00:02.71265+00
+83,30,1,t,too_long,yes,yes,,,2026-06-17 10:13:49.588462+00
+137,31,1,t,ok,yes,yes,,,2026-06-17 14:35:20.133534+00
+129,32,1,t,too_long,yes,yes,,,2026-06-17 14:30:22.095409+00
+157,33,1,t,ok,unsure,,,,2026-06-17 14:56:41.194909+00
+151,34,1,t,ok,yes,yes,,,2026-06-17 14:46:54.491383+00
+13,35,1,t,ok,yes,yes,,,2026-06-16 07:17:18.184043+00
+96,36,1,t,too_long,yes,yes,,,2026-06-17 11:28:56.198686+00
+3,37,1,t,ok,yes,yes,,,2026-06-11 13:59:03.095304+00
+38,38,1,t,ok,yes,yes,,,2026-06-16 08:46:18.156017+00
+115,39,1,t,ok,no,,,,2026-06-17 11:42:54.915827+00
+70,40,1,t,ok,no,,,,2026-06-17 09:57:20.560763+00
+136,41,1,t,ok,yes,yes,,,2026-06-17 14:34:50.636831+00
+126,42,1,t,ok,yes,yes,,,2026-06-17 14:28:29.262399+00
+89,43,1,t,ok,yes,yes,,,2026-06-17 10:17:16.874796+00
+123,44,1,t,ok,yes,yes,,,2026-06-17 11:47:13.368704+00
+149,45,1,t,ok,yes,yes,,,2026-06-17 14:46:06.596505+00
+119,46,1,t,ok,yes,yes,,,2026-06-17 11:45:08.698611+00
+5,47,1,t,ok,yes,yes,,,2026-06-11 13:59:54.646511+00
+112,48,1,t,ok,yes,yes,,,2026-06-17 11:41:31.273582+00
+170,49,1,t,too_long,yes,yes,,,2026-06-17 15:18:06.44715+00
+171,50,1,t,ok,yes,yes,,,2026-06-17 15:18:19.532038+00
+147,51,1,t,too_short,yes,partially,,Sind weitere Informationen zu den Bezügen anderer Organmitglieder im Text enthalten?,2026-06-17 14:43:43.51525+00
+10,52,1,t,ok,yes,yes,,,2026-06-16 07:15:46.080702+00
+163,53,1,t,ok,yes,yes,,,2026-06-17 15:03:40.369129+00
+44,54,1,t,ok,yes,yes,,,2026-06-16 08:54:47.99397+00
+8,55,1,t,ok,yes,no,,,2026-06-11 14:01:46.663611+00
+49,56,1,t,too_short,yes,yes,,Was sind die bedeutsamsten Leistungsindikatoren?,2026-06-16 09:29:10.123607+00
+77,57,1,t,ok,yes,yes,,,2026-06-17 10:05:28.662369+00
+51,58,1,t,ok,yes,yes,,,2026-06-16 09:45:24.735715+00
+153,59,1,t,ok,no,,,,2026-06-17 14:53:40.28468+00
+155,60,1,t,ok,yes,yes,,,2026-06-17 14:54:50.613003+00
+76,61,1,t,ok,yes,yes,,,2026-06-17 10:03:39.404547+00
+178,62,1,t,ok,yes,yes,,,2026-06-17 15:24:55.123967+00
+179,63,1,t,ok,yes,yes,,,2026-06-17 15:25:08.868655+00
+110,64,1,t,ok,no,,,,2026-06-17 11:40:35.097814+00
+91,65,1,t,ok,no,,,,2026-06-17 10:18:19.373289+00
+59,66,1,t,ok,yes,partially,,,2026-06-16 09:55:49.510173+00
+141,67,1,t,ok,yes,yes,,,2026-06-17 14:38:16.273606+00
+162,68,1,t,ok,yes,yes,,,2026-06-17 15:02:33.384432+00
+180,69,1,t,ok,yes,yes,,,2026-06-17 15:26:00.611424+00
+68,70,1,t,ok,yes,yes,,,2026-06-17 09:55:31.252196+00
+41,71,1,f,too_short,yes,partially,,Wird eine Aussage zum Gesamtbild der Risiko- und Chancenlage getroffen?,2026-06-16 08:53:39.77948+00
+31,72,1,t,too_short,no,,,Gibt es Hinweise auf die Verwendung von Finanzinstrumenten?,2026-06-16 08:38:14.990372+00
+98,73,1,t,ok,yes,yes,,,2026-06-17 11:29:57.982173+00
+181,74,1,t,ok,yes,yes,,,2026-06-17 15:26:22.733566+00
+140,75,1,t,too_short,yes,yes,,"Wie wurden quantitativen und qualitativen Steuerungsgrößen, insbesondere Umsatz, Auftragseingang/-bestand und Jahresergebnis ermittelt und wie hoch waren sie im Geschäftsjahr?",2026-06-17 14:38:05.693527+00
+27,76,1,t,ok,yes,yes,,,2026-06-16 07:37:56.707935+00
+61,77,1,t,ok,no,,,,2026-06-16 09:57:57.26905+00
+67,78,1,t,ok,yes,partially,,,2026-06-17 09:54:54.873785+00
+35,79,1,t,ok,no,,,,2026-06-16 08:42:09.926936+00
+150,80,1,t,ok,yes,partially,,,2026-06-17 14:46:40.380677+00
+33,81,1,f,too_short,yes,yes,,Was sind die wesentlichen Annahmen der Prognose?,2026-06-16 08:41:12.614115+00
+50,82,1,t,too_short,yes,yes,,Was sind die bedeutsamsten Leistungsindikatoren?,2026-06-16 09:45:11.898315+00
+132,83,1,t,too_short,yes,no,,,2026-06-17 14:32:49.036955+00
+97,84,1,t,ok,yes,partially,,,2026-06-17 11:29:41.653546+00
+145,85,1,t,ok,yes,yes,,,2026-06-17 14:41:11.505366+00
+18,86,1,t,ok,yes,yes,,,2026-06-16 07:24:03.384397+00
+53,87,1,t,too_short,yes,yes,,"Erfolgen weitere Ausführungen zur Kapitalstruktur-, Investitions- und Liquiditätsanalyse?",2026-06-16 09:50:07.295637+00
+87,88,1,t,too_long,yes,yes,,,2026-06-17 10:16:24.645516+00
+130,89,1,f,too_short,yes,no,,,2026-06-17 14:31:59.124483+00
+20,90,1,t,ok,no,,,,2026-06-16 07:30:10.334183+00
+24,91,1,f,too_short,no,,,"Gibt es Hinweise, ob ein entgeltlich erworbener Geschäfts- oder Firmenwert fehlt?",2026-06-16 07:34:33.332994+00
+124,92,1,t,ok,no,,,,2026-06-17 11:47:30.385233+00
+121,93,1,t,ok,yes,yes,,,2026-06-17 11:45:39.024911+00
+175,94,1,t,ok,yes,yes,,,2026-06-17 15:23:03.268698+00
+1,95,1,t,too_short,yes,partially,,,2026-06-11 11:12:36.647642+00
+166,96,1,t,ok,yes,yes,,,2026-06-17 15:05:37.665473+00
+117,97,1,t,too_short,yes,partially,,Wird eine zusammenfassende Gesamtaussage zur Risiko- und Chancenlage der Gesellschaft getroffen?,2026-06-17 11:44:27.977011+00
+80,98,1,t,ok,yes,yes,,,2026-06-17 10:08:34.320753+00
+19,99,1,t,ok,yes,yes,,,2026-06-16 07:25:00.008589+00
+46,100,1,t,too_short,yes,partially,,"Wird tiefergehend die Kapitalstruktur-, Investitions- und Liquiditätsanalyse durchgeführt?",2026-06-16 09:08:12.858329+00
+143,101,1,t,too_long,yes,yes,,,2026-06-17 14:40:34.038093+00
+108,102,1,t,ok,yes,yes,,,2026-06-17 11:38:06.123986+00
+154,103,1,t,ok,yes,yes,,,2026-06-17 14:54:10.090775+00
+43,104,1,t,ok,no,,,,2026-06-16 08:54:32.899432+00
+146,105,1,t,ok,no,,,,2026-06-17 14:41:20.363499+00
+14,106,1,t,too_long,yes,yes,,,2026-06-16 07:18:05.745597+00
+21,107,1,f,too_short,yes,yes,,"Zeige die wesentlichen Annahmen, auf denen die Prognosen beruhen",2026-06-16 07:32:07.645461+00
+54,108,1,t,too_long,yes,no,,,2026-06-16 09:52:33.982554+00
+66,109,1,t,ok,yes,partially,,,2026-06-17 09:54:19.610978+00
+100,110,1,t,ok,yes,yes,,,2026-06-17 11:32:48.619228+00
+88,111,1,t,ok,no,,,,2026-06-17 10:16:43.784994+00
+128,112,1,t,ok,yes,partially,,,2026-06-17 14:29:40.571559+00
+79,113,1,t,too_short,yes,no,,,2026-06-17 10:07:56.428256+00
+109,114,1,f,too_short,yes,no,,Was sind die bedeutsamsten finanziellen Leistungsindikatoren und werden diese in die Analyse einbezogen und ihre Berechnung dargestellt?,2026-06-17 11:40:18.201232+00
+104,115,1,t,ok,yes,yes,,,2026-06-17 11:36:07.052072+00
+34,116,1,t,ok,no,,,,2026-06-16 08:41:35.511053+00
+64,117,1,t,ok,no,,,,2026-06-16 10:02:33.364245+00
+75,118,1,t,ok,no,,,,2026-06-17 10:02:52.080751+00
+142,119,1,t,too_long,yes,yes,,,2026-06-17 14:38:56.741018+00
+133,120,1,t,ok,yes,yes,,,2026-06-17 14:33:28.373433+00
+148,121,1,t,too_short,yes,partially,,Was sind die bedeutsamsten Leistungsindikatoren der Gesellschaft?,2026-06-17 14:45:32.020412+00
+106,122,1,t,ok,yes,yes,,,2026-06-17 11:37:32.276467+00
+103,123,1,t,ok,yes,yes,,,2026-06-17 11:35:58.682998+00
+12,124,1,t,ok,no,,,,2026-06-16 07:16:55.848768+00
+177,125,1,t,ok,yes,yes,,,2026-06-17 15:24:03.404875+00
+36,126,1,t,ok,yes,yes,,,2026-06-16 08:44:05.022497+00
+30,127,1,f,too_short,yes,partially,,Was sind die bedeutsamsten finanziellen Leistungsindikatoren der Gesellschaft?,2026-06-16 07:42:21.282544+00
+47,128,1,t,ok,yes,yes,,,2026-06-16 09:08:35.304674+00
+7,129,1,t,ok,yes,yes,,,2026-06-11 14:01:05.678333+00
+15,130,1,f,too_short,no,,,Gibt es Informationen zu einem entgeltlich erworbenen Geschäfts- oder Firmenwert?,2026-06-16 07:20:12.480317+00
+82,131,1,t,ok,no,,,,2026-06-17 10:10:19.559723+00
+164,132,1,t,too_long,yes,yes,,,2026-06-17 15:04:20.567293+00
+127,133,1,t,ok,yes,yes,,,2026-06-17 14:28:54.64596+00
+69,134,1,t,ok,yes,yes,,,2026-06-17 09:56:22.970413+00
+161,135,1,t,ok,yes,yes,,,2026-06-17 15:01:14.47995+00
+169,136,1,t,ok,yes,yes,,,2026-06-17 15:08:25.318438+00
+25,137,1,t,ok,no,,,,2026-06-16 07:36:17.810928+00
+32,138,1,t,ok,yes,yes,,,2026-06-16 08:38:29.542455+00
+139,139,1,t,ok,yes,yes,,,2026-06-17 14:36:15.707791+00
+85,140,1,t,too_long,yes,yes,,,2026-06-17 10:15:08.630416+00
+37,141,1,t,too_long,yes,yes,,,2026-06-16 08:45:33.085447+00
+176,142,1,t,ok,no,,,,2026-06-17 15:23:16.979414+00
+101,143,1,t,too_long,no,,,,2026-06-17 11:35:22.034455+00
+16,144,1,t,ok,no,,,,2026-06-16 07:20:48.798551+00
+39,145,1,f,too_short,yes,no,,Wird der Prognosezeitraum angegeben?,2026-06-16 08:47:14.923916+00
+105,146,1,t,ok,yes,partially,,,2026-06-17 11:36:44.675688+00
+86,147,1,t,ok,yes,no,,,2026-06-17 10:15:41.585536+00
+52,148,1,t,ok,yes,yes,,,2026-06-16 09:46:12.288481+00
+134,149,1,t,ok,yes,yes,,,2026-06-17 14:33:45.684595+00
+73,150,1,t,ok,yes,yes,,,2026-06-17 10:01:25.251906+00
+168,151,1,t,ok,yes,partially,,,2026-06-17 15:07:45.853743+00
+122,152,1,t,too_short,yes,partially,,,2026-06-17 11:46:42.33758+00
+99,153,1,f,too_short,yes,partially,"Es wird nicht beschrieben, was die finanziellen Leistungsindikatoren sind.",Werden die  bedeutsamsten finanziellen Leistungsindikatoren in die Analyse einbezogen?,2026-06-17 11:32:29.739459+00
+11,154,1,t,ok,yes,yes,,,2026-06-16 07:16:23.632373+00
+160,155,1,t,ok,no,,,,2026-06-17 15:00:52.279797+00
+158,156,1,t,too_short,no,,,Wo gibt es im Text Hinweise auf einen entgeltlich erworbenen Geschäfts- oder Firmenwert?,2026-06-17 14:58:08.641326+00
+4,157,1,t,ok,no,,,,2026-06-11 13:59:22.951442+00
+22,158,1,t,ok,yes,yes,,,2026-06-16 07:32:19.659612+00
+156,159,1,t,ok,yes,partially,,,2026-06-17 14:55:41.132882+00
+40,160,1,t,ok,yes,partially,,,2026-06-16 08:48:12.636433+00
+125,161,1,t,ok,yes,yes,,,2026-06-17 11:47:54.776108+00
+174,162,1,t,ok,yes,yes,,,2026-06-17 15:22:12.068767+00
+26,163,1,t,ok,yes,yes,,,2026-06-16 07:36:39.89291+00
+93,164,1,t,ok,yes,partially,,,2026-06-17 11:24:41.247096+00
+9,165,1,t,too_short,yes,partially,,Wurden Kredite aufgenommen?,2026-06-11 14:03:03.255355+00
+102,166,1,t,ok,yes,yes,,,2026-06-17 11:35:47.834453+00
+113,167,1,t,too_long,yes,yes,,,2026-06-17 11:42:10.570382+00
+116,168,1,t,ok,no,,,,2026-06-17 11:43:12.553917+00
+94,169,1,t,ok,no,,,,2026-06-17 11:25:07.073414+00
+48,170,1,t,ok,no,,erfüllt die Pflicht trotzdem vollumfänglich,,2026-06-16 09:10:00.024633+00
+17,171,1,t,too_long,yes,yes,,,2026-06-16 07:23:36.302939+00
+28,172,1,t,ok,yes,yes,,,2026-06-16 07:38:12.052383+00
+57,173,1,t,ok,yes,partially,,,2026-06-16 09:54:42.55052+00
+72,174,1,t,ok,yes,yes,,,2026-06-17 10:01:08.682194+00
+167,175,1,t,ok,yes,yes,,,2026-06-17 15:06:23.590806+00
+45,176,1,t,too_short,no,,,Welche Hinweise gibt es auf die Verwendung von Finanzinstrumenten?,2026-06-16 09:06:31.106425+00
+165,177,1,t,ok,yes,yes,,,2026-06-17 15:04:57.729133+00
+92,178,1,t,ok,yes,yes,,,2026-06-17 11:23:28.397927+00
+2,179,1,t,too_long,yes,yes,,,2026-06-11 13:58:43.040847+00
+120,180,1,t,ok,yes,yes,,,2026-06-17 11:45:19.935038+00
+78,181,1,t,ok,unsure,,,,2026-06-17 10:06:11.860802+00
+42,182,1,t,ok,no,,,,2026-06-16 08:54:03.292053+00
+63,183,1,t,ok,yes,yes,,,2026-06-16 10:02:04.750287+00

@@ -1,0 +1,79 @@
+﻿label_a,label_b,rcode_a,rcode_b,n_companies,companies
+R02_Prognosezeitraum,R03_Prognose_Annahmen,R02,R03,11,Amazon_2024; BoschMS_2024; HTG_2024; Johnson_2025; Krug_2024; Pfizer_2024; Schrott_2024; Tennet_TSO_2024; Wajos_2024; Yaveon_2024; Zollern_2024
+R02_Prognosezeitraum,R04_Prognose_Leistungsind,R02,R04,13,Amazon_2024; BoschMS_2024; HTG_2024; Johnson_2025; Krug_2024; Miethke_2024; Pfizer_2024; Schrott_2024; Tennet_TSO_2024; WN24_2024; Wajos_2024; Yaveon_2024; Zollern_2024
+R02_Prognosezeitraum,R10_Risiken_Bedeutung,R02,R10,0,
+R02_Prognosezeitraum,R11_Risiken_Gesamtbild,R02,R11,0,
+R02_Prognosezeitraum,R12_Finanzrisikobericht,R02,R12,0,
+R02_Prognosezeitraum,R14_Ertragslage,R02,R14,0,
+R02_Prognosezeitraum,R15_Finanzlage,R02,R15,0,
+R02_Prognosezeitraum,R17_Fin_Leistungsind,R02,R17,0,
+R02_Prognosezeitraum,R19_Anlagenspiegel,R02,R19,0,
+R02_Prognosezeitraum,R22_Organbezuege,R02,R22,0,
+R02_Prognosezeitraum,R23_Goodwill_Abschr,R02,R23,0,
+R02_Prognosezeitraum,R24_Latente_Steuern,R02,R24,0,
+R03_Prognose_Annahmen,R04_Prognose_Leistungsind,R03,R04,10,Amazon_2024; HTG_2024; Johnson_2025; Krug_2024; Miethke_2024; Pfizer_2024; Schrott_2024; Tennet_TSO_2024; Wajos_2024; Yaveon_2024
+R03_Prognose_Annahmen,R10_Risiken_Bedeutung,R03,R10,0,
+R03_Prognose_Annahmen,R11_Risiken_Gesamtbild,R03,R11,0,
+R03_Prognose_Annahmen,R12_Finanzrisikobericht,R03,R12,0,
+R03_Prognose_Annahmen,R14_Ertragslage,R03,R14,0,
+R03_Prognose_Annahmen,R15_Finanzlage,R03,R15,0,
+R03_Prognose_Annahmen,R17_Fin_Leistungsind,R03,R17,0,
+R03_Prognose_Annahmen,R19_Anlagenspiegel,R03,R19,0,
+R03_Prognose_Annahmen,R22_Organbezuege,R03,R22,0,
+R03_Prognose_Annahmen,R23_Goodwill_Abschr,R03,R23,0,
+R03_Prognose_Annahmen,R24_Latente_Steuern,R03,R24,0,
+R04_Prognose_Leistungsind,R10_Risiken_Bedeutung,R04,R10,0,
+R04_Prognose_Leistungsind,R11_Risiken_Gesamtbild,R04,R11,0,
+R04_Prognose_Leistungsind,R12_Finanzrisikobericht,R04,R12,0,
+R04_Prognose_Leistungsind,R14_Ertragslage,R04,R14,0,
+R04_Prognose_Leistungsind,R15_Finanzlage,R04,R15,0,
+R04_Prognose_Leistungsind,R17_Fin_Leistungsind,R04,R17,3,Amazon_2024; HTG_2024; WN24_2024
+R04_Prognose_Leistungsind,R19_Anlagenspiegel,R04,R19,0,
+R04_Prognose_Leistungsind,R22_Organbezuege,R04,R22,0,
+R04_Prognose_Leistungsind,R23_Goodwill_Abschr,R04,R23,0,
+R04_Prognose_Leistungsind,R24_Latente_Steuern,R04,R24,0,
+R10_Risiken_Bedeutung,R11_Risiken_Gesamtbild,R10,R11,2,BoschMS_2024; Miethke_2024
+R10_Risiken_Bedeutung,R12_Finanzrisikobericht,R10,R12,0,
+R10_Risiken_Bedeutung,R14_Ertragslage,R10,R14,0,
+R10_Risiken_Bedeutung,R15_Finanzlage,R10,R15,0,
+R10_Risiken_Bedeutung,R17_Fin_Leistungsind,R10,R17,0,
+R10_Risiken_Bedeutung,R19_Anlagenspiegel,R10,R19,0,
+R10_Risiken_Bedeutung,R22_Organbezuege,R10,R22,0,
+R10_Risiken_Bedeutung,R23_Goodwill_Abschr,R10,R23,0,
+R10_Risiken_Bedeutung,R24_Latente_Steuern,R10,R24,0,
+R11_Risiken_Gesamtbild,R12_Finanzrisikobericht,R11,R12,0,
+R11_Risiken_Gesamtbild,R14_Ertragslage,R11,R14,0,
+R11_Risiken_Gesamtbild,R15_Finanzlage,R11,R15,0,
+R11_Risiken_Gesamtbild,R17_Fin_Leistungsind,R11,R17,0,
+R11_Risiken_Gesamtbild,R19_Anlagenspiegel,R11,R19,0,
+R11_Risiken_Gesamtbild,R22_Organbezuege,R11,R22,0,
+R11_Risiken_Gesamtbild,R23_Goodwill_Abschr,R11,R23,0,
+R11_Risiken_Gesamtbild,R24_Latente_Steuern,R11,R24,0,
+R12_Finanzrisikobericht,R14_Ertragslage,R12,R14,0,
+R12_Finanzrisikobericht,R15_Finanzlage,R12,R15,0,
+R12_Finanzrisikobericht,R17_Fin_Leistungsind,R12,R17,0,
+R12_Finanzrisikobericht,R19_Anlagenspiegel,R12,R19,0,
+R12_Finanzrisikobericht,R22_Organbezuege,R12,R22,0,
+R12_Finanzrisikobericht,R23_Goodwill_Abschr,R12,R23,3,BoschMS_2024; Johnson_2025; Zollern_2024
+R12_Finanzrisikobericht,R24_Latente_Steuern,R12,R24,3,BoschMS_2024; Johnson_2025; Schrott_2024
+R14_Ertragslage,R15_Finanzlage,R14,R15,1,BoschMS_2024
+R14_Ertragslage,R17_Fin_Leistungsind,R14,R17,6,BoschMS_2024; HTG_2024; Hoberg_2024; Krug_2024; Pfizer_2024; Zollern_2024
+R14_Ertragslage,R19_Anlagenspiegel,R14,R19,0,
+R14_Ertragslage,R22_Organbezuege,R14,R22,0,
+R14_Ertragslage,R23_Goodwill_Abschr,R14,R23,0,
+R14_Ertragslage,R24_Latente_Steuern,R14,R24,1,Johnson_2025
+R15_Finanzlage,R17_Fin_Leistungsind,R15,R17,1,BoschMS_2024
+R15_Finanzlage,R19_Anlagenspiegel,R15,R19,0,
+R15_Finanzlage,R22_Organbezuege,R15,R22,0,
+R15_Finanzlage,R23_Goodwill_Abschr,R15,R23,0,
+R15_Finanzlage,R24_Latente_Steuern,R15,R24,0,
+R17_Fin_Leistungsind,R19_Anlagenspiegel,R17,R19,0,
+R17_Fin_Leistungsind,R22_Organbezuege,R17,R22,0,
+R17_Fin_Leistungsind,R23_Goodwill_Abschr,R17,R23,0,
+R17_Fin_Leistungsind,R24_Latente_Steuern,R17,R24,0,
+R19_Anlagenspiegel,R22_Organbezuege,R19,R22,0,
+R19_Anlagenspiegel,R23_Goodwill_Abschr,R19,R23,4,Pfizer_2024; Schrott_2024; WN24_2024; Yaveon_2024
+R19_Anlagenspiegel,R24_Latente_Steuern,R19,R24,1,Miethke_2024
+R22_Organbezuege,R23_Goodwill_Abschr,R22,R23,0,
+R22_Organbezuege,R24_Latente_Steuern,R22,R24,0,
+R23_Goodwill_Abschr,R24_Latente_Steuern,R23,R24,2,Amazon_2024; BoschMS_2024

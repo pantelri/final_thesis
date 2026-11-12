@@ -1,0 +1,9 @@
+metric,value
+suggested_passages_total,38
+suggested_passages_overlapping_current_GT,37
+irrelevant_elements_total,102
+items_with_irrelevant_edits,18
+items_with_suggested_edits,20
+stale_vs_current_pairs_compared,182
+pairs_text_changed_vs_stale,154
+pairs_text_identical_to_stale,28

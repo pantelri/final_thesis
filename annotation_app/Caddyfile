@@ -1,0 +1,9 @@
+# Replace your-domain.example.com with the actual domain or server IP.
+# Caddy obtains a Let's Encrypt certificate automatically for a real domain.
+# For local testing without a domain, replace the block header with ":80".
+
+
+:80 {
+    reverse_proxy app:8080
+    encode zstd gzip
+}

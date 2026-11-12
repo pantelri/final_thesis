@@ -1,0 +1,6 @@
+config,n,cumulative_acc,acc_ci_lo,acc_ci_hi,n_correct
+full,140,0.7286,0.65,0.8071,102
+oracle_rel,140,0.7286,0.65,0.8071,102
+oracle_retr,140,0.75,0.6714,0.8214,105
+oracle_rel_retr,140,0.75,0.6714,0.8214,105
+full_oracle,140,1.0,1.0,1.0,140

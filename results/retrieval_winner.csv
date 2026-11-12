@@ -1,0 +1,2 @@
+embedding,segmentation,table_rep,query_variant,k,recall,hit,mrr
+gemini,baseSeg,llmdesc,enriched,5,0.6891,0.8882,0.6951

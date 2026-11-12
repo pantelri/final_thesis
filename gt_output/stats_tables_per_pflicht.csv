@@ -1,0 +1,14 @@
+﻿label,rcode,category,title_de,n_firmen_gesamt,n_firmen_mit_tabelle,n_tabellen_gesamt,n_tabellen_max,n_tabellen_mean
+R02_Prognosezeitraum,R02,LB Forecast Report,Angabe des Prognosezeitraums,14,0,0,0,0.0
+R03_Prognose_Annahmen,R03,LB Forecast Report,Angabe der wesentlichen Annahmen der Prognose,14,0,0,0,0.0
+R04_Prognose_Leistungsind,R04,LB Forecast Report,Prognosen zu den bedeutsamsten Leistungsindikatoren,14,1,1,1,0.07
+R10_Risiken_Bedeutung,R10,LB Opportunities & Risks,Darstellung der Bedeutung der Risiken/Chancen,14,0,0,0,0.0
+R11_Risiken_Gesamtbild,R11,LB Opportunities & Risks,Gesamtbild der Risiko- und Chancenlage,14,0,0,0,0.0
+R12_Finanzrisikobericht,R12,LB Opportunities & Risks,Finanzrisikobericht zur Verwendung von Finanzinstrumenten,14,7,10,2,0.71
+R14_Ertragslage,R14,LB Financial Position & Results,Analyse der Ertragslage,14,4,4,1,0.29
+R15_Finanzlage,R15,LB Financial Position & Results,Analyse der Finanzlage,14,5,6,2,0.43
+R17_Fin_Leistungsind,R17,LB Financial Position & Results,Finanzielle Leistungsindikatoren,14,3,3,1,0.21
+R19_Anlagenspiegel,R19,HGB Annex §§284-285,Anlagenspiegel,14,14,16,2,1.14
+R22_Organbezuege,R22,HGB Annex §§284-285,Gesamtbezüge der Organmitglieder,14,1,1,1,0.07
+R23_Goodwill_Abschr,R23,HGB Annex §§284-285,Abschreibungsdauer entgeltlich erworbener Geschäfts- oder Firmenwert,14,9,11,2,0.79
+R24_Latente_Steuern,R24,HGB Annex §§284-285,"Grundlagen der latenten Steuern (Differenzen, Verlustvorträge, Steuersätze)",14,7,7,1,0.5

@@ -1,0 +1,1275 @@
+model_key,model_name,company_id,obligation_id,relevance,fulfillment
+claude_opus_4_8,Claude Opus 4.8,Amazon_2024,R02,relevant,fulfilled
+claude_opus_4_8,Claude Opus 4.8,Amazon_2024,R03,relevant,not_fulfilled
+claude_opus_4_8,Claude Opus 4.8,Amazon_2024,R04,relevant,not_fulfilled
+claude_opus_4_8,Claude Opus 4.8,Amazon_2024,R10,relevant,not_fulfilled
+claude_opus_4_8,Claude Opus 4.8,Amazon_2024,R11,relevant,fulfilled
+claude_opus_4_8,Claude Opus 4.8,Amazon_2024,R12,relevant,
+claude_opus_4_8,Claude Opus 4.8,Amazon_2024,R14,relevant,fulfilled
+claude_opus_4_8,Claude Opus 4.8,Amazon_2024,R15,relevant,not_fulfilled
+claude_opus_4_8,Claude Opus 4.8,Amazon_2024,R17,relevant,not_fulfilled
+claude_opus_4_8,Claude Opus 4.8,Amazon_2024,R19,relevant,fulfilled
+claude_opus_4_8,Claude Opus 4.8,Amazon_2024,R22,relevant,
+claude_opus_4_8,Claude Opus 4.8,Amazon_2024,R23,not_relevant,not_fulfilled
+claude_opus_4_8,Claude Opus 4.8,Amazon_2024,R24,not_relevant,
+claude_opus_4_8,Claude Opus 4.8,BoschMS_2024,R02,relevant,fulfilled
+claude_opus_4_8,Claude Opus 4.8,BoschMS_2024,R03,relevant,fulfilled
+claude_opus_4_8,Claude Opus 4.8,BoschMS_2024,R04,relevant,fulfilled
+claude_opus_4_8,Claude Opus 4.8,BoschMS_2024,R10,relevant,not_fulfilled
+claude_opus_4_8,Claude Opus 4.8,BoschMS_2024,R11,relevant,not_fulfilled
+claude_opus_4_8,Claude Opus 4.8,BoschMS_2024,R12,relevant,
+claude_opus_4_8,Claude Opus 4.8,BoschMS_2024,R14,relevant,fulfilled
+claude_opus_4_8,Claude Opus 4.8,BoschMS_2024,R15,relevant,not_fulfilled
+claude_opus_4_8,Claude Opus 4.8,BoschMS_2024,R17,relevant,not_fulfilled
+claude_opus_4_8,Claude Opus 4.8,BoschMS_2024,R19,relevant,fulfilled
+claude_opus_4_8,Claude Opus 4.8,BoschMS_2024,R22,relevant,
+claude_opus_4_8,Claude Opus 4.8,BoschMS_2024,R23,not_relevant,
+claude_opus_4_8,Claude Opus 4.8,BoschMS_2024,R24,not_relevant,
+claude_opus_4_8,Claude Opus 4.8,HTG_2024,R02,relevant,fulfilled
+claude_opus_4_8,Claude Opus 4.8,HTG_2024,R03,relevant,not_fulfilled
+claude_opus_4_8,Claude Opus 4.8,HTG_2024,R04,relevant,not_fulfilled
+claude_opus_4_8,Claude Opus 4.8,HTG_2024,R10,relevant,not_fulfilled
+claude_opus_4_8,Claude Opus 4.8,HTG_2024,R11,relevant,not_fulfilled
+claude_opus_4_8,Claude Opus 4.8,HTG_2024,R12,relevant,
+claude_opus_4_8,Claude Opus 4.8,HTG_2024,R14,relevant,fulfilled
+claude_opus_4_8,Claude Opus 4.8,HTG_2024,R15,relevant,fulfilled
+claude_opus_4_8,Claude Opus 4.8,HTG_2024,R17,relevant,fulfilled
+claude_opus_4_8,Claude Opus 4.8,HTG_2024,R19,relevant,not_fulfilled
+claude_opus_4_8,Claude Opus 4.8,HTG_2024,R22,relevant,fulfilled
+claude_opus_4_8,Claude Opus 4.8,HTG_2024,R23,not_relevant,
+claude_opus_4_8,Claude Opus 4.8,HTG_2024,R24,relevant,
+claude_opus_4_8,Claude Opus 4.8,Hoberg_2024,R02,relevant,fulfilled
+claude_opus_4_8,Claude Opus 4.8,Hoberg_2024,R03,relevant,fulfilled
+claude_opus_4_8,Claude Opus 4.8,Hoberg_2024,R04,relevant,fulfilled
+claude_opus_4_8,Claude Opus 4.8,Hoberg_2024,R10,relevant,not_fulfilled
+claude_opus_4_8,Claude Opus 4.8,Hoberg_2024,R11,relevant,fulfilled
+claude_opus_4_8,Claude Opus 4.8,Hoberg_2024,R12,relevant,fulfilled
+claude_opus_4_8,Claude Opus 4.8,Hoberg_2024,R14,relevant,fulfilled
+claude_opus_4_8,Claude Opus 4.8,Hoberg_2024,R15,relevant,fulfilled
+claude_opus_4_8,Claude Opus 4.8,Hoberg_2024,R17,relevant,not_fulfilled
+claude_opus_4_8,Claude Opus 4.8,Hoberg_2024,R19,relevant,fulfilled
+claude_opus_4_8,Claude Opus 4.8,Hoberg_2024,R22,relevant,not_fulfilled
+claude_opus_4_8,Claude Opus 4.8,Hoberg_2024,R23,relevant,fulfilled
+claude_opus_4_8,Claude Opus 4.8,Hoberg_2024,R24,relevant,fulfilled
+claude_opus_4_8,Claude Opus 4.8,Johnson_2025,R02,relevant,fulfilled
+claude_opus_4_8,Claude Opus 4.8,Johnson_2025,R03,relevant,not_fulfilled
+claude_opus_4_8,Claude Opus 4.8,Johnson_2025,R04,relevant,not_fulfilled
+claude_opus_4_8,Claude Opus 4.8,Johnson_2025,R10,relevant,not_fulfilled
+claude_opus_4_8,Claude Opus 4.8,Johnson_2025,R11,relevant,not_fulfilled
+claude_opus_4_8,Claude Opus 4.8,Johnson_2025,R12,relevant,
+claude_opus_4_8,Claude Opus 4.8,Johnson_2025,R14,relevant,fulfilled
+claude_opus_4_8,Claude Opus 4.8,Johnson_2025,R15,relevant,fulfilled
+claude_opus_4_8,Claude Opus 4.8,Johnson_2025,R17,relevant,not_fulfilled
+claude_opus_4_8,Claude Opus 4.8,Johnson_2025,R19,relevant,fulfilled
+claude_opus_4_8,Claude Opus 4.8,Johnson_2025,R22,relevant,
+claude_opus_4_8,Claude Opus 4.8,Johnson_2025,R23,not_relevant,
+claude_opus_4_8,Claude Opus 4.8,Johnson_2025,R24,relevant,not_fulfilled
+claude_opus_4_8,Claude Opus 4.8,Krug_2024,R02,relevant,fulfilled
+claude_opus_4_8,Claude Opus 4.8,Krug_2024,R03,relevant,not_fulfilled
+claude_opus_4_8,Claude Opus 4.8,Krug_2024,R04,relevant,not_fulfilled
+claude_opus_4_8,Claude Opus 4.8,Krug_2024,R10,relevant,not_fulfilled
+claude_opus_4_8,Claude Opus 4.8,Krug_2024,R11,relevant,not_fulfilled
+claude_opus_4_8,Claude Opus 4.8,Krug_2024,R12,relevant,
+claude_opus_4_8,Claude Opus 4.8,Krug_2024,R14,relevant,fulfilled
+claude_opus_4_8,Claude Opus 4.8,Krug_2024,R15,relevant,fulfilled
+claude_opus_4_8,Claude Opus 4.8,Krug_2024,R17,relevant,not_fulfilled
+claude_opus_4_8,Claude Opus 4.8,Krug_2024,R19,relevant,fulfilled
+claude_opus_4_8,Claude Opus 4.8,Krug_2024,R22,relevant,
+claude_opus_4_8,Claude Opus 4.8,Krug_2024,R23,relevant,fulfilled
+claude_opus_4_8,Claude Opus 4.8,Krug_2024,R24,relevant,
+claude_opus_4_8,Claude Opus 4.8,Miethke_2024,R02,relevant,fulfilled
+claude_opus_4_8,Claude Opus 4.8,Miethke_2024,R03,relevant,not_fulfilled
+claude_opus_4_8,Claude Opus 4.8,Miethke_2024,R04,relevant,not_fulfilled
+claude_opus_4_8,Claude Opus 4.8,Miethke_2024,R10,relevant,not_fulfilled
+claude_opus_4_8,Claude Opus 4.8,Miethke_2024,R11,relevant,fulfilled
+claude_opus_4_8,Claude Opus 4.8,Miethke_2024,R12,relevant,fulfilled
+claude_opus_4_8,Claude Opus 4.8,Miethke_2024,R14,relevant,not_fulfilled
+claude_opus_4_8,Claude Opus 4.8,Miethke_2024,R15,relevant,fulfilled
+claude_opus_4_8,Claude Opus 4.8,Miethke_2024,R17,relevant,fulfilled
+claude_opus_4_8,Claude Opus 4.8,Miethke_2024,R19,relevant,not_fulfilled
+claude_opus_4_8,Claude Opus 4.8,Miethke_2024,R22,relevant,
+claude_opus_4_8,Claude Opus 4.8,Miethke_2024,R23,not_relevant,
+claude_opus_4_8,Claude Opus 4.8,Miethke_2024,R24,not_relevant,
+claude_opus_4_8,Claude Opus 4.8,Pfizer_2024,R02,relevant,fulfilled
+claude_opus_4_8,Claude Opus 4.8,Pfizer_2024,R03,relevant,not_fulfilled
+claude_opus_4_8,Claude Opus 4.8,Pfizer_2024,R04,relevant,not_fulfilled
+claude_opus_4_8,Claude Opus 4.8,Pfizer_2024,R10,relevant,not_fulfilled
+claude_opus_4_8,Claude Opus 4.8,Pfizer_2024,R11,relevant,not_fulfilled
+claude_opus_4_8,Claude Opus 4.8,Pfizer_2024,R12,relevant,fulfilled
+claude_opus_4_8,Claude Opus 4.8,Pfizer_2024,R14,relevant,fulfilled
+claude_opus_4_8,Claude Opus 4.8,Pfizer_2024,R15,relevant,fulfilled
+claude_opus_4_8,Claude Opus 4.8,Pfizer_2024,R17,relevant,not_fulfilled
+claude_opus_4_8,Claude Opus 4.8,Pfizer_2024,R19,relevant,not_fulfilled
+claude_opus_4_8,Claude Opus 4.8,Pfizer_2024,R22,relevant,fulfilled
+claude_opus_4_8,Claude Opus 4.8,Pfizer_2024,R23,not_relevant,
+claude_opus_4_8,Claude Opus 4.8,Pfizer_2024,R24,not_relevant,
+claude_opus_4_8,Claude Opus 4.8,Schrott_2024,R02,relevant,fulfilled
+claude_opus_4_8,Claude Opus 4.8,Schrott_2024,R03,relevant,fulfilled
+claude_opus_4_8,Claude Opus 4.8,Schrott_2024,R04,relevant,not_fulfilled
+claude_opus_4_8,Claude Opus 4.8,Schrott_2024,R10,relevant,not_fulfilled
+claude_opus_4_8,Claude Opus 4.8,Schrott_2024,R11,relevant,not_fulfilled
+claude_opus_4_8,Claude Opus 4.8,Schrott_2024,R12,relevant,
+claude_opus_4_8,Claude Opus 4.8,Schrott_2024,R14,relevant,not_fulfilled
+claude_opus_4_8,Claude Opus 4.8,Schrott_2024,R15,relevant,not_fulfilled
+claude_opus_4_8,Claude Opus 4.8,Schrott_2024,R17,relevant,not_fulfilled
+claude_opus_4_8,Claude Opus 4.8,Schrott_2024,R19,relevant,fulfilled
+claude_opus_4_8,Claude Opus 4.8,Schrott_2024,R22,relevant,
+claude_opus_4_8,Claude Opus 4.8,Schrott_2024,R23,not_relevant,
+claude_opus_4_8,Claude Opus 4.8,Schrott_2024,R24,not_relevant,
+claude_opus_4_8,Claude Opus 4.8,Tennet_TSO_2024,R02,relevant,fulfilled
+claude_opus_4_8,Claude Opus 4.8,Tennet_TSO_2024,R03,relevant,not_fulfilled
+claude_opus_4_8,Claude Opus 4.8,Tennet_TSO_2024,R04,relevant,fulfilled
+claude_opus_4_8,Claude Opus 4.8,Tennet_TSO_2024,R10,relevant,not_fulfilled
+claude_opus_4_8,Claude Opus 4.8,Tennet_TSO_2024,R11,relevant,not_fulfilled
+claude_opus_4_8,Claude Opus 4.8,Tennet_TSO_2024,R12,relevant,
+claude_opus_4_8,Claude Opus 4.8,Tennet_TSO_2024,R14,relevant,fulfilled
+claude_opus_4_8,Claude Opus 4.8,Tennet_TSO_2024,R15,relevant,fulfilled
+claude_opus_4_8,Claude Opus 4.8,Tennet_TSO_2024,R17,relevant,not_fulfilled
+claude_opus_4_8,Claude Opus 4.8,Tennet_TSO_2024,R19,relevant,not_fulfilled
+claude_opus_4_8,Claude Opus 4.8,Tennet_TSO_2024,R22,relevant,fulfilled
+claude_opus_4_8,Claude Opus 4.8,Tennet_TSO_2024,R23,not_relevant,
+claude_opus_4_8,Claude Opus 4.8,Tennet_TSO_2024,R24,not_relevant,
+claude_opus_4_8,Claude Opus 4.8,WN24_2024,R02,relevant,fulfilled
+claude_opus_4_8,Claude Opus 4.8,WN24_2024,R03,relevant,fulfilled
+claude_opus_4_8,Claude Opus 4.8,WN24_2024,R04,relevant,fulfilled
+claude_opus_4_8,Claude Opus 4.8,WN24_2024,R10,relevant,fulfilled
+claude_opus_4_8,Claude Opus 4.8,WN24_2024,R11,relevant,not_fulfilled
+claude_opus_4_8,Claude Opus 4.8,WN24_2024,R12,relevant,
+claude_opus_4_8,Claude Opus 4.8,WN24_2024,R14,relevant,fulfilled
+claude_opus_4_8,Claude Opus 4.8,WN24_2024,R15,relevant,not_fulfilled
+claude_opus_4_8,Claude Opus 4.8,WN24_2024,R17,relevant,not_fulfilled
+claude_opus_4_8,Claude Opus 4.8,WN24_2024,R19,relevant,not_fulfilled
+claude_opus_4_8,Claude Opus 4.8,WN24_2024,R22,relevant,
+claude_opus_4_8,Claude Opus 4.8,WN24_2024,R23,relevant,
+claude_opus_4_8,Claude Opus 4.8,WN24_2024,R24,not_relevant,
+claude_opus_4_8,Claude Opus 4.8,Wajos_2024,R02,relevant,not_fulfilled
+claude_opus_4_8,Claude Opus 4.8,Wajos_2024,R03,relevant,not_fulfilled
+claude_opus_4_8,Claude Opus 4.8,Wajos_2024,R04,relevant,not_fulfilled
+claude_opus_4_8,Claude Opus 4.8,Wajos_2024,R10,relevant,not_fulfilled
+claude_opus_4_8,Claude Opus 4.8,Wajos_2024,R11,relevant,not_fulfilled
+claude_opus_4_8,Claude Opus 4.8,Wajos_2024,R12,relevant,fulfilled
+claude_opus_4_8,Claude Opus 4.8,Wajos_2024,R14,relevant,not_fulfilled
+claude_opus_4_8,Claude Opus 4.8,Wajos_2024,R15,relevant,fulfilled
+claude_opus_4_8,Claude Opus 4.8,Wajos_2024,R17,relevant,not_fulfilled
+claude_opus_4_8,Claude Opus 4.8,Wajos_2024,R19,relevant,fulfilled
+claude_opus_4_8,Claude Opus 4.8,Wajos_2024,R22,relevant,
+claude_opus_4_8,Claude Opus 4.8,Wajos_2024,R23,not_relevant,
+claude_opus_4_8,Claude Opus 4.8,Wajos_2024,R24,not_relevant,
+claude_opus_4_8,Claude Opus 4.8,Yaveon_2024,R02,relevant,fulfilled
+claude_opus_4_8,Claude Opus 4.8,Yaveon_2024,R03,relevant,not_fulfilled
+claude_opus_4_8,Claude Opus 4.8,Yaveon_2024,R04,relevant,fulfilled
+claude_opus_4_8,Claude Opus 4.8,Yaveon_2024,R10,relevant,not_fulfilled
+claude_opus_4_8,Claude Opus 4.8,Yaveon_2024,R11,relevant,not_fulfilled
+claude_opus_4_8,Claude Opus 4.8,Yaveon_2024,R12,relevant,fulfilled
+claude_opus_4_8,Claude Opus 4.8,Yaveon_2024,R14,relevant,fulfilled
+claude_opus_4_8,Claude Opus 4.8,Yaveon_2024,R15,relevant,not_fulfilled
+claude_opus_4_8,Claude Opus 4.8,Yaveon_2024,R17,relevant,fulfilled
+claude_opus_4_8,Claude Opus 4.8,Yaveon_2024,R19,relevant,fulfilled
+claude_opus_4_8,Claude Opus 4.8,Yaveon_2024,R22,relevant,
+claude_opus_4_8,Claude Opus 4.8,Yaveon_2024,R23,not_relevant,
+claude_opus_4_8,Claude Opus 4.8,Yaveon_2024,R24,not_relevant,
+claude_opus_4_8,Claude Opus 4.8,Zollern_2024,R02,relevant,not_fulfilled
+claude_opus_4_8,Claude Opus 4.8,Zollern_2024,R03,relevant,fulfilled
+claude_opus_4_8,Claude Opus 4.8,Zollern_2024,R04,relevant,fulfilled
+claude_opus_4_8,Claude Opus 4.8,Zollern_2024,R10,relevant,not_fulfilled
+claude_opus_4_8,Claude Opus 4.8,Zollern_2024,R11,relevant,not_fulfilled
+claude_opus_4_8,Claude Opus 4.8,Zollern_2024,R12,relevant,
+claude_opus_4_8,Claude Opus 4.8,Zollern_2024,R14,relevant,fulfilled
+claude_opus_4_8,Claude Opus 4.8,Zollern_2024,R15,relevant,fulfilled
+claude_opus_4_8,Claude Opus 4.8,Zollern_2024,R17,relevant,fulfilled
+claude_opus_4_8,Claude Opus 4.8,Zollern_2024,R19,relevant,fulfilled
+claude_opus_4_8,Claude Opus 4.8,Zollern_2024,R22,relevant,
+claude_opus_4_8,Claude Opus 4.8,Zollern_2024,R23,not_relevant,
+claude_opus_4_8,Claude Opus 4.8,Zollern_2024,R24,relevant,fulfilled
+gemini_3_1_pro,Gemini 3.1 Pro,Amazon_2024,R02,relevant,fulfilled
+gemini_3_1_pro,Gemini 3.1 Pro,Amazon_2024,R03,relevant,fulfilled
+gemini_3_1_pro,Gemini 3.1 Pro,Amazon_2024,R04,relevant,not_fulfilled
+gemini_3_1_pro,Gemini 3.1 Pro,Amazon_2024,R10,relevant,not_fulfilled
+gemini_3_1_pro,Gemini 3.1 Pro,Amazon_2024,R11,relevant,fulfilled
+gemini_3_1_pro,Gemini 3.1 Pro,Amazon_2024,R12,relevant,
+gemini_3_1_pro,Gemini 3.1 Pro,Amazon_2024,R14,relevant,fulfilled
+gemini_3_1_pro,Gemini 3.1 Pro,Amazon_2024,R15,relevant,fulfilled
+gemini_3_1_pro,Gemini 3.1 Pro,Amazon_2024,R17,relevant,not_fulfilled
+gemini_3_1_pro,Gemini 3.1 Pro,Amazon_2024,R19,relevant,fulfilled
+gemini_3_1_pro,Gemini 3.1 Pro,Amazon_2024,R22,not_relevant,
+gemini_3_1_pro,Gemini 3.1 Pro,Amazon_2024,R23,not_relevant,not_fulfilled
+gemini_3_1_pro,Gemini 3.1 Pro,Amazon_2024,R24,not_relevant,
+gemini_3_1_pro,Gemini 3.1 Pro,BoschMS_2024,R02,relevant,fulfilled
+gemini_3_1_pro,Gemini 3.1 Pro,BoschMS_2024,R03,relevant,fulfilled
+gemini_3_1_pro,Gemini 3.1 Pro,BoschMS_2024,R04,relevant,fulfilled
+gemini_3_1_pro,Gemini 3.1 Pro,BoschMS_2024,R10,relevant,not_fulfilled
+gemini_3_1_pro,Gemini 3.1 Pro,BoschMS_2024,R11,relevant,not_fulfilled
+gemini_3_1_pro,Gemini 3.1 Pro,BoschMS_2024,R12,relevant,
+gemini_3_1_pro,Gemini 3.1 Pro,BoschMS_2024,R14,relevant,fulfilled
+gemini_3_1_pro,Gemini 3.1 Pro,BoschMS_2024,R15,relevant,not_fulfilled
+gemini_3_1_pro,Gemini 3.1 Pro,BoschMS_2024,R17,relevant,fulfilled
+gemini_3_1_pro,Gemini 3.1 Pro,BoschMS_2024,R19,relevant,fulfilled
+gemini_3_1_pro,Gemini 3.1 Pro,BoschMS_2024,R22,not_relevant,
+gemini_3_1_pro,Gemini 3.1 Pro,BoschMS_2024,R23,not_relevant,
+gemini_3_1_pro,Gemini 3.1 Pro,BoschMS_2024,R24,not_relevant,
+gemini_3_1_pro,Gemini 3.1 Pro,HTG_2024,R02,relevant,fulfilled
+gemini_3_1_pro,Gemini 3.1 Pro,HTG_2024,R03,relevant,fulfilled
+gemini_3_1_pro,Gemini 3.1 Pro,HTG_2024,R04,relevant,fulfilled
+gemini_3_1_pro,Gemini 3.1 Pro,HTG_2024,R10,relevant,not_fulfilled
+gemini_3_1_pro,Gemini 3.1 Pro,HTG_2024,R11,relevant,not_fulfilled
+gemini_3_1_pro,Gemini 3.1 Pro,HTG_2024,R12,relevant,
+gemini_3_1_pro,Gemini 3.1 Pro,HTG_2024,R14,relevant,fulfilled
+gemini_3_1_pro,Gemini 3.1 Pro,HTG_2024,R15,relevant,fulfilled
+gemini_3_1_pro,Gemini 3.1 Pro,HTG_2024,R17,relevant,not_fulfilled
+gemini_3_1_pro,Gemini 3.1 Pro,HTG_2024,R19,relevant,fulfilled
+gemini_3_1_pro,Gemini 3.1 Pro,HTG_2024,R22,relevant,fulfilled
+gemini_3_1_pro,Gemini 3.1 Pro,HTG_2024,R23,not_relevant,
+gemini_3_1_pro,Gemini 3.1 Pro,HTG_2024,R24,relevant,
+gemini_3_1_pro,Gemini 3.1 Pro,Hoberg_2024,R02,relevant,fulfilled
+gemini_3_1_pro,Gemini 3.1 Pro,Hoberg_2024,R03,relevant,fulfilled
+gemini_3_1_pro,Gemini 3.1 Pro,Hoberg_2024,R04,relevant,fulfilled
+gemini_3_1_pro,Gemini 3.1 Pro,Hoberg_2024,R10,relevant,not_fulfilled
+gemini_3_1_pro,Gemini 3.1 Pro,Hoberg_2024,R11,relevant,fulfilled
+gemini_3_1_pro,Gemini 3.1 Pro,Hoberg_2024,R12,relevant,fulfilled
+gemini_3_1_pro,Gemini 3.1 Pro,Hoberg_2024,R14,relevant,fulfilled
+gemini_3_1_pro,Gemini 3.1 Pro,Hoberg_2024,R15,relevant,fulfilled
+gemini_3_1_pro,Gemini 3.1 Pro,Hoberg_2024,R17,relevant,not_fulfilled
+gemini_3_1_pro,Gemini 3.1 Pro,Hoberg_2024,R19,relevant,fulfilled
+gemini_3_1_pro,Gemini 3.1 Pro,Hoberg_2024,R22,relevant,not_fulfilled
+gemini_3_1_pro,Gemini 3.1 Pro,Hoberg_2024,R23,relevant,fulfilled
+gemini_3_1_pro,Gemini 3.1 Pro,Hoberg_2024,R24,relevant,fulfilled
+gemini_3_1_pro,Gemini 3.1 Pro,Johnson_2025,R02,relevant,fulfilled
+gemini_3_1_pro,Gemini 3.1 Pro,Johnson_2025,R03,relevant,fulfilled
+gemini_3_1_pro,Gemini 3.1 Pro,Johnson_2025,R04,relevant,fulfilled
+gemini_3_1_pro,Gemini 3.1 Pro,Johnson_2025,R10,relevant,not_fulfilled
+gemini_3_1_pro,Gemini 3.1 Pro,Johnson_2025,R11,relevant,not_fulfilled
+gemini_3_1_pro,Gemini 3.1 Pro,Johnson_2025,R12,relevant,
+gemini_3_1_pro,Gemini 3.1 Pro,Johnson_2025,R14,relevant,fulfilled
+gemini_3_1_pro,Gemini 3.1 Pro,Johnson_2025,R15,relevant,fulfilled
+gemini_3_1_pro,Gemini 3.1 Pro,Johnson_2025,R17,relevant,fulfilled
+gemini_3_1_pro,Gemini 3.1 Pro,Johnson_2025,R19,relevant,fulfilled
+gemini_3_1_pro,Gemini 3.1 Pro,Johnson_2025,R22,not_relevant,
+gemini_3_1_pro,Gemini 3.1 Pro,Johnson_2025,R23,not_relevant,
+gemini_3_1_pro,Gemini 3.1 Pro,Johnson_2025,R24,not_relevant,not_fulfilled
+gemini_3_1_pro,Gemini 3.1 Pro,Krug_2024,R02,relevant,fulfilled
+gemini_3_1_pro,Gemini 3.1 Pro,Krug_2024,R03,relevant,fulfilled
+gemini_3_1_pro,Gemini 3.1 Pro,Krug_2024,R04,relevant,not_fulfilled
+gemini_3_1_pro,Gemini 3.1 Pro,Krug_2024,R10,relevant,not_fulfilled
+gemini_3_1_pro,Gemini 3.1 Pro,Krug_2024,R11,relevant,not_fulfilled
+gemini_3_1_pro,Gemini 3.1 Pro,Krug_2024,R12,relevant,
+gemini_3_1_pro,Gemini 3.1 Pro,Krug_2024,R14,relevant,fulfilled
+gemini_3_1_pro,Gemini 3.1 Pro,Krug_2024,R15,relevant,fulfilled
+gemini_3_1_pro,Gemini 3.1 Pro,Krug_2024,R17,relevant,fulfilled
+gemini_3_1_pro,Gemini 3.1 Pro,Krug_2024,R19,relevant,fulfilled
+gemini_3_1_pro,Gemini 3.1 Pro,Krug_2024,R22,not_relevant,
+gemini_3_1_pro,Gemini 3.1 Pro,Krug_2024,R23,relevant,not_fulfilled
+gemini_3_1_pro,Gemini 3.1 Pro,Krug_2024,R24,not_relevant,
+gemini_3_1_pro,Gemini 3.1 Pro,Miethke_2024,R02,relevant,fulfilled
+gemini_3_1_pro,Gemini 3.1 Pro,Miethke_2024,R03,relevant,fulfilled
+gemini_3_1_pro,Gemini 3.1 Pro,Miethke_2024,R04,relevant,not_fulfilled
+gemini_3_1_pro,Gemini 3.1 Pro,Miethke_2024,R10,relevant,not_fulfilled
+gemini_3_1_pro,Gemini 3.1 Pro,Miethke_2024,R11,relevant,fulfilled
+gemini_3_1_pro,Gemini 3.1 Pro,Miethke_2024,R12,relevant,fulfilled
+gemini_3_1_pro,Gemini 3.1 Pro,Miethke_2024,R14,relevant,fulfilled
+gemini_3_1_pro,Gemini 3.1 Pro,Miethke_2024,R15,relevant,fulfilled
+gemini_3_1_pro,Gemini 3.1 Pro,Miethke_2024,R17,relevant,fulfilled
+gemini_3_1_pro,Gemini 3.1 Pro,Miethke_2024,R19,relevant,not_fulfilled
+gemini_3_1_pro,Gemini 3.1 Pro,Miethke_2024,R22,not_relevant,
+gemini_3_1_pro,Gemini 3.1 Pro,Miethke_2024,R23,not_relevant,
+gemini_3_1_pro,Gemini 3.1 Pro,Miethke_2024,R24,not_relevant,
+gemini_3_1_pro,Gemini 3.1 Pro,Pfizer_2024,R02,relevant,fulfilled
+gemini_3_1_pro,Gemini 3.1 Pro,Pfizer_2024,R03,relevant,fulfilled
+gemini_3_1_pro,Gemini 3.1 Pro,Pfizer_2024,R04,relevant,not_fulfilled
+gemini_3_1_pro,Gemini 3.1 Pro,Pfizer_2024,R10,relevant,fulfilled
+gemini_3_1_pro,Gemini 3.1 Pro,Pfizer_2024,R11,relevant,not_fulfilled
+gemini_3_1_pro,Gemini 3.1 Pro,Pfizer_2024,R12,relevant,fulfilled
+gemini_3_1_pro,Gemini 3.1 Pro,Pfizer_2024,R14,relevant,fulfilled
+gemini_3_1_pro,Gemini 3.1 Pro,Pfizer_2024,R15,relevant,fulfilled
+gemini_3_1_pro,Gemini 3.1 Pro,Pfizer_2024,R17,relevant,not_fulfilled
+gemini_3_1_pro,Gemini 3.1 Pro,Pfizer_2024,R19,relevant,fulfilled
+gemini_3_1_pro,Gemini 3.1 Pro,Pfizer_2024,R22,relevant,fulfilled
+gemini_3_1_pro,Gemini 3.1 Pro,Pfizer_2024,R23,not_relevant,
+gemini_3_1_pro,Gemini 3.1 Pro,Pfizer_2024,R24,not_relevant,
+gemini_3_1_pro,Gemini 3.1 Pro,Schrott_2024,R02,relevant,fulfilled
+gemini_3_1_pro,Gemini 3.1 Pro,Schrott_2024,R03,relevant,fulfilled
+gemini_3_1_pro,Gemini 3.1 Pro,Schrott_2024,R04,relevant,fulfilled
+gemini_3_1_pro,Gemini 3.1 Pro,Schrott_2024,R10,relevant,not_fulfilled
+gemini_3_1_pro,Gemini 3.1 Pro,Schrott_2024,R11,relevant,fulfilled
+gemini_3_1_pro,Gemini 3.1 Pro,Schrott_2024,R12,relevant,
+gemini_3_1_pro,Gemini 3.1 Pro,Schrott_2024,R14,relevant,not_fulfilled
+gemini_3_1_pro,Gemini 3.1 Pro,Schrott_2024,R15,relevant,not_fulfilled
+gemini_3_1_pro,Gemini 3.1 Pro,Schrott_2024,R17,relevant,not_fulfilled
+gemini_3_1_pro,Gemini 3.1 Pro,Schrott_2024,R19,relevant,fulfilled
+gemini_3_1_pro,Gemini 3.1 Pro,Schrott_2024,R22,not_relevant,
+gemini_3_1_pro,Gemini 3.1 Pro,Schrott_2024,R23,not_relevant,
+gemini_3_1_pro,Gemini 3.1 Pro,Schrott_2024,R24,not_relevant,
+gemini_3_1_pro,Gemini 3.1 Pro,Tennet_TSO_2024,R02,relevant,fulfilled
+gemini_3_1_pro,Gemini 3.1 Pro,Tennet_TSO_2024,R03,relevant,not_fulfilled
+gemini_3_1_pro,Gemini 3.1 Pro,Tennet_TSO_2024,R04,relevant,fulfilled
+gemini_3_1_pro,Gemini 3.1 Pro,Tennet_TSO_2024,R10,relevant,not_fulfilled
+gemini_3_1_pro,Gemini 3.1 Pro,Tennet_TSO_2024,R11,relevant,not_fulfilled
+gemini_3_1_pro,Gemini 3.1 Pro,Tennet_TSO_2024,R12,relevant,
+gemini_3_1_pro,Gemini 3.1 Pro,Tennet_TSO_2024,R14,relevant,fulfilled
+gemini_3_1_pro,Gemini 3.1 Pro,Tennet_TSO_2024,R15,relevant,fulfilled
+gemini_3_1_pro,Gemini 3.1 Pro,Tennet_TSO_2024,R17,relevant,not_fulfilled
+gemini_3_1_pro,Gemini 3.1 Pro,Tennet_TSO_2024,R19,relevant,fulfilled
+gemini_3_1_pro,Gemini 3.1 Pro,Tennet_TSO_2024,R22,relevant,fulfilled
+gemini_3_1_pro,Gemini 3.1 Pro,Tennet_TSO_2024,R23,not_relevant,
+gemini_3_1_pro,Gemini 3.1 Pro,Tennet_TSO_2024,R24,not_relevant,
+gemini_3_1_pro,Gemini 3.1 Pro,WN24_2024,R02,relevant,fulfilled
+gemini_3_1_pro,Gemini 3.1 Pro,WN24_2024,R03,relevant,fulfilled
+gemini_3_1_pro,Gemini 3.1 Pro,WN24_2024,R04,relevant,fulfilled
+gemini_3_1_pro,Gemini 3.1 Pro,WN24_2024,R10,relevant,fulfilled
+gemini_3_1_pro,Gemini 3.1 Pro,WN24_2024,R11,relevant,fulfilled
+gemini_3_1_pro,Gemini 3.1 Pro,WN24_2024,R12,relevant,
+gemini_3_1_pro,Gemini 3.1 Pro,WN24_2024,R14,relevant,fulfilled
+gemini_3_1_pro,Gemini 3.1 Pro,WN24_2024,R15,relevant,fulfilled
+gemini_3_1_pro,Gemini 3.1 Pro,WN24_2024,R17,relevant,not_fulfilled
+gemini_3_1_pro,Gemini 3.1 Pro,WN24_2024,R19,relevant,not_fulfilled
+gemini_3_1_pro,Gemini 3.1 Pro,WN24_2024,R22,not_relevant,
+gemini_3_1_pro,Gemini 3.1 Pro,WN24_2024,R23,relevant,
+gemini_3_1_pro,Gemini 3.1 Pro,WN24_2024,R24,not_relevant,
+gemini_3_1_pro,Gemini 3.1 Pro,Wajos_2024,R02,relevant,not_fulfilled
+gemini_3_1_pro,Gemini 3.1 Pro,Wajos_2024,R03,relevant,not_fulfilled
+gemini_3_1_pro,Gemini 3.1 Pro,Wajos_2024,R04,relevant,not_fulfilled
+gemini_3_1_pro,Gemini 3.1 Pro,Wajos_2024,R10,relevant,not_fulfilled
+gemini_3_1_pro,Gemini 3.1 Pro,Wajos_2024,R11,relevant,not_fulfilled
+gemini_3_1_pro,Gemini 3.1 Pro,Wajos_2024,R12,relevant,fulfilled
+gemini_3_1_pro,Gemini 3.1 Pro,Wajos_2024,R14,relevant,fulfilled
+gemini_3_1_pro,Gemini 3.1 Pro,Wajos_2024,R15,relevant,fulfilled
+gemini_3_1_pro,Gemini 3.1 Pro,Wajos_2024,R17,relevant,not_fulfilled
+gemini_3_1_pro,Gemini 3.1 Pro,Wajos_2024,R19,relevant,not_fulfilled
+gemini_3_1_pro,Gemini 3.1 Pro,Wajos_2024,R22,not_relevant,
+gemini_3_1_pro,Gemini 3.1 Pro,Wajos_2024,R23,not_relevant,
+gemini_3_1_pro,Gemini 3.1 Pro,Wajos_2024,R24,not_relevant,
+gemini_3_1_pro,Gemini 3.1 Pro,Yaveon_2024,R02,relevant,fulfilled
+gemini_3_1_pro,Gemini 3.1 Pro,Yaveon_2024,R03,relevant,fulfilled
+gemini_3_1_pro,Gemini 3.1 Pro,Yaveon_2024,R04,relevant,fulfilled
+gemini_3_1_pro,Gemini 3.1 Pro,Yaveon_2024,R10,relevant,not_fulfilled
+gemini_3_1_pro,Gemini 3.1 Pro,Yaveon_2024,R11,relevant,not_fulfilled
+gemini_3_1_pro,Gemini 3.1 Pro,Yaveon_2024,R12,relevant,fulfilled
+gemini_3_1_pro,Gemini 3.1 Pro,Yaveon_2024,R14,relevant,fulfilled
+gemini_3_1_pro,Gemini 3.1 Pro,Yaveon_2024,R15,relevant,fulfilled
+gemini_3_1_pro,Gemini 3.1 Pro,Yaveon_2024,R17,relevant,fulfilled
+gemini_3_1_pro,Gemini 3.1 Pro,Yaveon_2024,R19,relevant,fulfilled
+gemini_3_1_pro,Gemini 3.1 Pro,Yaveon_2024,R22,not_relevant,
+gemini_3_1_pro,Gemini 3.1 Pro,Yaveon_2024,R23,not_relevant,
+gemini_3_1_pro,Gemini 3.1 Pro,Yaveon_2024,R24,not_relevant,
+gemini_3_1_pro,Gemini 3.1 Pro,Zollern_2024,R02,relevant,fulfilled
+gemini_3_1_pro,Gemini 3.1 Pro,Zollern_2024,R03,relevant,fulfilled
+gemini_3_1_pro,Gemini 3.1 Pro,Zollern_2024,R04,relevant,fulfilled
+gemini_3_1_pro,Gemini 3.1 Pro,Zollern_2024,R10,relevant,not_fulfilled
+gemini_3_1_pro,Gemini 3.1 Pro,Zollern_2024,R11,relevant,not_fulfilled
+gemini_3_1_pro,Gemini 3.1 Pro,Zollern_2024,R12,relevant,
+gemini_3_1_pro,Gemini 3.1 Pro,Zollern_2024,R14,relevant,fulfilled
+gemini_3_1_pro,Gemini 3.1 Pro,Zollern_2024,R15,relevant,fulfilled
+gemini_3_1_pro,Gemini 3.1 Pro,Zollern_2024,R17,relevant,not_fulfilled
+gemini_3_1_pro,Gemini 3.1 Pro,Zollern_2024,R19,relevant,fulfilled
+gemini_3_1_pro,Gemini 3.1 Pro,Zollern_2024,R22,relevant,
+gemini_3_1_pro,Gemini 3.1 Pro,Zollern_2024,R23,not_relevant,
+gemini_3_1_pro,Gemini 3.1 Pro,Zollern_2024,R24,relevant,fulfilled
+qwen_3_7_max,Qwen 3.7 Max,Amazon_2024,R02,relevant,fulfilled
+qwen_3_7_max,Qwen 3.7 Max,Amazon_2024,R03,relevant,fulfilled
+qwen_3_7_max,Qwen 3.7 Max,Amazon_2024,R04,relevant,fulfilled
+qwen_3_7_max,Qwen 3.7 Max,Amazon_2024,R10,relevant,not_fulfilled
+qwen_3_7_max,Qwen 3.7 Max,Amazon_2024,R11,relevant,not_fulfilled
+qwen_3_7_max,Qwen 3.7 Max,Amazon_2024,R12,relevant,
+qwen_3_7_max,Qwen 3.7 Max,Amazon_2024,R14,relevant,fulfilled
+qwen_3_7_max,Qwen 3.7 Max,Amazon_2024,R15,relevant,fulfilled
+qwen_3_7_max,Qwen 3.7 Max,Amazon_2024,R17,relevant,not_fulfilled
+qwen_3_7_max,Qwen 3.7 Max,Amazon_2024,R19,relevant,fulfilled
+qwen_3_7_max,Qwen 3.7 Max,Amazon_2024,R22,relevant,
+qwen_3_7_max,Qwen 3.7 Max,Amazon_2024,R23,not_relevant,not_fulfilled
+qwen_3_7_max,Qwen 3.7 Max,Amazon_2024,R24,not_relevant,
+qwen_3_7_max,Qwen 3.7 Max,BoschMS_2024,R02,relevant,fulfilled
+qwen_3_7_max,Qwen 3.7 Max,BoschMS_2024,R03,relevant,fulfilled
+qwen_3_7_max,Qwen 3.7 Max,BoschMS_2024,R04,relevant,fulfilled
+qwen_3_7_max,Qwen 3.7 Max,BoschMS_2024,R10,relevant,fulfilled
+qwen_3_7_max,Qwen 3.7 Max,BoschMS_2024,R11,relevant,not_fulfilled
+qwen_3_7_max,Qwen 3.7 Max,BoschMS_2024,R12,not_relevant,
+qwen_3_7_max,Qwen 3.7 Max,BoschMS_2024,R14,relevant,fulfilled
+qwen_3_7_max,Qwen 3.7 Max,BoschMS_2024,R15,relevant,not_fulfilled
+qwen_3_7_max,Qwen 3.7 Max,BoschMS_2024,R17,relevant,not_fulfilled
+qwen_3_7_max,Qwen 3.7 Max,BoschMS_2024,R19,relevant,fulfilled
+qwen_3_7_max,Qwen 3.7 Max,BoschMS_2024,R22,not_relevant,
+qwen_3_7_max,Qwen 3.7 Max,BoschMS_2024,R23,not_relevant,
+qwen_3_7_max,Qwen 3.7 Max,BoschMS_2024,R24,not_relevant,
+qwen_3_7_max,Qwen 3.7 Max,HTG_2024,R02,relevant,fulfilled
+qwen_3_7_max,Qwen 3.7 Max,HTG_2024,R03,relevant,not_fulfilled
+qwen_3_7_max,Qwen 3.7 Max,HTG_2024,R04,relevant,fulfilled
+qwen_3_7_max,Qwen 3.7 Max,HTG_2024,R10,relevant,fulfilled
+qwen_3_7_max,Qwen 3.7 Max,HTG_2024,R11,relevant,fulfilled
+qwen_3_7_max,Qwen 3.7 Max,HTG_2024,R12,relevant,
+qwen_3_7_max,Qwen 3.7 Max,HTG_2024,R14,relevant,fulfilled
+qwen_3_7_max,Qwen 3.7 Max,HTG_2024,R15,relevant,fulfilled
+qwen_3_7_max,Qwen 3.7 Max,HTG_2024,R17,relevant,fulfilled
+qwen_3_7_max,Qwen 3.7 Max,HTG_2024,R19,relevant,fulfilled
+qwen_3_7_max,Qwen 3.7 Max,HTG_2024,R22,relevant,fulfilled
+qwen_3_7_max,Qwen 3.7 Max,HTG_2024,R23,not_relevant,
+qwen_3_7_max,Qwen 3.7 Max,HTG_2024,R24,relevant,
+qwen_3_7_max,Qwen 3.7 Max,Hoberg_2024,R02,relevant,fulfilled
+qwen_3_7_max,Qwen 3.7 Max,Hoberg_2024,R03,relevant,fulfilled
+qwen_3_7_max,Qwen 3.7 Max,Hoberg_2024,R04,relevant,fulfilled
+qwen_3_7_max,Qwen 3.7 Max,Hoberg_2024,R10,relevant,fulfilled
+qwen_3_7_max,Qwen 3.7 Max,Hoberg_2024,R11,relevant,fulfilled
+qwen_3_7_max,Qwen 3.7 Max,Hoberg_2024,R12,relevant,fulfilled
+qwen_3_7_max,Qwen 3.7 Max,Hoberg_2024,R14,relevant,fulfilled
+qwen_3_7_max,Qwen 3.7 Max,Hoberg_2024,R15,relevant,fulfilled
+qwen_3_7_max,Qwen 3.7 Max,Hoberg_2024,R17,relevant,not_fulfilled
+qwen_3_7_max,Qwen 3.7 Max,Hoberg_2024,R19,relevant,fulfilled
+qwen_3_7_max,Qwen 3.7 Max,Hoberg_2024,R22,relevant,not_fulfilled
+qwen_3_7_max,Qwen 3.7 Max,Hoberg_2024,R23,relevant,fulfilled
+qwen_3_7_max,Qwen 3.7 Max,Hoberg_2024,R24,relevant,fulfilled
+qwen_3_7_max,Qwen 3.7 Max,Johnson_2025,R02,relevant,fulfilled
+qwen_3_7_max,Qwen 3.7 Max,Johnson_2025,R03,relevant,not_fulfilled
+qwen_3_7_max,Qwen 3.7 Max,Johnson_2025,R04,relevant,fulfilled
+qwen_3_7_max,Qwen 3.7 Max,Johnson_2025,R10,relevant,not_fulfilled
+qwen_3_7_max,Qwen 3.7 Max,Johnson_2025,R11,relevant,not_fulfilled
+qwen_3_7_max,Qwen 3.7 Max,Johnson_2025,R12,relevant,
+qwen_3_7_max,Qwen 3.7 Max,Johnson_2025,R14,relevant,fulfilled
+qwen_3_7_max,Qwen 3.7 Max,Johnson_2025,R15,relevant,fulfilled
+qwen_3_7_max,Qwen 3.7 Max,Johnson_2025,R17,relevant,not_fulfilled
+qwen_3_7_max,Qwen 3.7 Max,Johnson_2025,R19,relevant,fulfilled
+qwen_3_7_max,Qwen 3.7 Max,Johnson_2025,R22,not_relevant,
+qwen_3_7_max,Qwen 3.7 Max,Johnson_2025,R23,not_relevant,
+qwen_3_7_max,Qwen 3.7 Max,Johnson_2025,R24,not_relevant,
+qwen_3_7_max,Qwen 3.7 Max,Krug_2024,R02,relevant,fulfilled
+qwen_3_7_max,Qwen 3.7 Max,Krug_2024,R03,relevant,not_fulfilled
+qwen_3_7_max,Qwen 3.7 Max,Krug_2024,R04,relevant,not_fulfilled
+qwen_3_7_max,Qwen 3.7 Max,Krug_2024,R10,relevant,fulfilled
+qwen_3_7_max,Qwen 3.7 Max,Krug_2024,R11,relevant,not_fulfilled
+qwen_3_7_max,Qwen 3.7 Max,Krug_2024,R12,relevant,
+qwen_3_7_max,Qwen 3.7 Max,Krug_2024,R14,relevant,fulfilled
+qwen_3_7_max,Qwen 3.7 Max,Krug_2024,R15,relevant,fulfilled
+qwen_3_7_max,Qwen 3.7 Max,Krug_2024,R17,relevant,fulfilled
+qwen_3_7_max,Qwen 3.7 Max,Krug_2024,R19,relevant,fulfilled
+qwen_3_7_max,Qwen 3.7 Max,Krug_2024,R22,not_relevant,
+qwen_3_7_max,Qwen 3.7 Max,Krug_2024,R23,relevant,fulfilled
+qwen_3_7_max,Qwen 3.7 Max,Krug_2024,R24,not_relevant,
+qwen_3_7_max,Qwen 3.7 Max,Miethke_2024,R02,relevant,fulfilled
+qwen_3_7_max,Qwen 3.7 Max,Miethke_2024,R03,relevant,fulfilled
+qwen_3_7_max,Qwen 3.7 Max,Miethke_2024,R04,relevant,fulfilled
+qwen_3_7_max,Qwen 3.7 Max,Miethke_2024,R10,relevant,not_fulfilled
+qwen_3_7_max,Qwen 3.7 Max,Miethke_2024,R11,relevant,fulfilled
+qwen_3_7_max,Qwen 3.7 Max,Miethke_2024,R12,relevant,fulfilled
+qwen_3_7_max,Qwen 3.7 Max,Miethke_2024,R14,relevant,fulfilled
+qwen_3_7_max,Qwen 3.7 Max,Miethke_2024,R15,relevant,fulfilled
+qwen_3_7_max,Qwen 3.7 Max,Miethke_2024,R17,relevant,fulfilled
+qwen_3_7_max,Qwen 3.7 Max,Miethke_2024,R19,relevant,not_fulfilled
+qwen_3_7_max,Qwen 3.7 Max,Miethke_2024,R22,not_relevant,
+qwen_3_7_max,Qwen 3.7 Max,Miethke_2024,R23,unclear,
+qwen_3_7_max,Qwen 3.7 Max,Miethke_2024,R24,not_relevant,
+qwen_3_7_max,Qwen 3.7 Max,Pfizer_2024,R02,relevant,fulfilled
+qwen_3_7_max,Qwen 3.7 Max,Pfizer_2024,R03,relevant,fulfilled
+qwen_3_7_max,Qwen 3.7 Max,Pfizer_2024,R04,relevant,not_fulfilled
+qwen_3_7_max,Qwen 3.7 Max,Pfizer_2024,R10,relevant,fulfilled
+qwen_3_7_max,Qwen 3.7 Max,Pfizer_2024,R11,relevant,not_fulfilled
+qwen_3_7_max,Qwen 3.7 Max,Pfizer_2024,R12,relevant,fulfilled
+qwen_3_7_max,Qwen 3.7 Max,Pfizer_2024,R14,relevant,fulfilled
+qwen_3_7_max,Qwen 3.7 Max,Pfizer_2024,R15,relevant,fulfilled
+qwen_3_7_max,Qwen 3.7 Max,Pfizer_2024,R17,relevant,not_fulfilled
+qwen_3_7_max,Qwen 3.7 Max,Pfizer_2024,R19,relevant,fulfilled
+qwen_3_7_max,Qwen 3.7 Max,Pfizer_2024,R22,relevant,fulfilled
+qwen_3_7_max,Qwen 3.7 Max,Pfizer_2024,R23,not_relevant,
+qwen_3_7_max,Qwen 3.7 Max,Pfizer_2024,R24,not_relevant,
+qwen_3_7_max,Qwen 3.7 Max,Schrott_2024,R02,relevant,fulfilled
+qwen_3_7_max,Qwen 3.7 Max,Schrott_2024,R03,relevant,fulfilled
+qwen_3_7_max,Qwen 3.7 Max,Schrott_2024,R04,relevant,fulfilled
+qwen_3_7_max,Qwen 3.7 Max,Schrott_2024,R10,relevant,fulfilled
+qwen_3_7_max,Qwen 3.7 Max,Schrott_2024,R11,relevant,fulfilled
+qwen_3_7_max,Qwen 3.7 Max,Schrott_2024,R12,unclear,
+qwen_3_7_max,Qwen 3.7 Max,Schrott_2024,R14,relevant,not_fulfilled
+qwen_3_7_max,Qwen 3.7 Max,Schrott_2024,R15,relevant,fulfilled
+qwen_3_7_max,Qwen 3.7 Max,Schrott_2024,R17,relevant,not_fulfilled
+qwen_3_7_max,Qwen 3.7 Max,Schrott_2024,R19,relevant,fulfilled
+qwen_3_7_max,Qwen 3.7 Max,Schrott_2024,R22,relevant,
+qwen_3_7_max,Qwen 3.7 Max,Schrott_2024,R23,not_relevant,
+qwen_3_7_max,Qwen 3.7 Max,Schrott_2024,R24,not_relevant,
+qwen_3_7_max,Qwen 3.7 Max,Tennet_TSO_2024,R02,relevant,not_fulfilled
+qwen_3_7_max,Qwen 3.7 Max,Tennet_TSO_2024,R03,relevant,not_fulfilled
+qwen_3_7_max,Qwen 3.7 Max,Tennet_TSO_2024,R04,relevant,fulfilled
+qwen_3_7_max,Qwen 3.7 Max,Tennet_TSO_2024,R10,relevant,fulfilled
+qwen_3_7_max,Qwen 3.7 Max,Tennet_TSO_2024,R11,relevant,fulfilled
+qwen_3_7_max,Qwen 3.7 Max,Tennet_TSO_2024,R12,relevant,
+qwen_3_7_max,Qwen 3.7 Max,Tennet_TSO_2024,R14,relevant,fulfilled
+qwen_3_7_max,Qwen 3.7 Max,Tennet_TSO_2024,R15,relevant,fulfilled
+qwen_3_7_max,Qwen 3.7 Max,Tennet_TSO_2024,R17,relevant,fulfilled
+qwen_3_7_max,Qwen 3.7 Max,Tennet_TSO_2024,R19,relevant,fulfilled
+qwen_3_7_max,Qwen 3.7 Max,Tennet_TSO_2024,R22,relevant,fulfilled
+qwen_3_7_max,Qwen 3.7 Max,Tennet_TSO_2024,R23,not_relevant,
+qwen_3_7_max,Qwen 3.7 Max,Tennet_TSO_2024,R24,not_relevant,
+qwen_3_7_max,Qwen 3.7 Max,WN24_2024,R02,relevant,not_fulfilled
+qwen_3_7_max,Qwen 3.7 Max,WN24_2024,R03,relevant,fulfilled
+qwen_3_7_max,Qwen 3.7 Max,WN24_2024,R04,relevant,fulfilled
+qwen_3_7_max,Qwen 3.7 Max,WN24_2024,R10,relevant,fulfilled
+qwen_3_7_max,Qwen 3.7 Max,WN24_2024,R11,relevant,fulfilled
+qwen_3_7_max,Qwen 3.7 Max,WN24_2024,R12,relevant,
+qwen_3_7_max,Qwen 3.7 Max,WN24_2024,R14,relevant,fulfilled
+qwen_3_7_max,Qwen 3.7 Max,WN24_2024,R15,relevant,fulfilled
+qwen_3_7_max,Qwen 3.7 Max,WN24_2024,R17,relevant,not_fulfilled
+qwen_3_7_max,Qwen 3.7 Max,WN24_2024,R19,relevant,fulfilled
+qwen_3_7_max,Qwen 3.7 Max,WN24_2024,R22,not_relevant,
+qwen_3_7_max,Qwen 3.7 Max,WN24_2024,R23,relevant,
+qwen_3_7_max,Qwen 3.7 Max,WN24_2024,R24,not_relevant,
+qwen_3_7_max,Qwen 3.7 Max,Wajos_2024,R02,relevant,not_fulfilled
+qwen_3_7_max,Qwen 3.7 Max,Wajos_2024,R03,relevant,not_fulfilled
+qwen_3_7_max,Qwen 3.7 Max,Wajos_2024,R04,relevant,not_fulfilled
+qwen_3_7_max,Qwen 3.7 Max,Wajos_2024,R10,relevant,fulfilled
+qwen_3_7_max,Qwen 3.7 Max,Wajos_2024,R11,relevant,fulfilled
+qwen_3_7_max,Qwen 3.7 Max,Wajos_2024,R12,relevant,fulfilled
+qwen_3_7_max,Qwen 3.7 Max,Wajos_2024,R14,relevant,fulfilled
+qwen_3_7_max,Qwen 3.7 Max,Wajos_2024,R15,relevant,fulfilled
+qwen_3_7_max,Qwen 3.7 Max,Wajos_2024,R17,relevant,not_fulfilled
+qwen_3_7_max,Qwen 3.7 Max,Wajos_2024,R19,relevant,fulfilled
+qwen_3_7_max,Qwen 3.7 Max,Wajos_2024,R22,relevant,
+qwen_3_7_max,Qwen 3.7 Max,Wajos_2024,R23,not_relevant,
+qwen_3_7_max,Qwen 3.7 Max,Wajos_2024,R24,not_relevant,
+qwen_3_7_max,Qwen 3.7 Max,Yaveon_2024,R02,relevant,not_fulfilled
+qwen_3_7_max,Qwen 3.7 Max,Yaveon_2024,R03,relevant,not_fulfilled
+qwen_3_7_max,Qwen 3.7 Max,Yaveon_2024,R04,relevant,fulfilled
+qwen_3_7_max,Qwen 3.7 Max,Yaveon_2024,R10,relevant,not_fulfilled
+qwen_3_7_max,Qwen 3.7 Max,Yaveon_2024,R11,relevant,not_fulfilled
+qwen_3_7_max,Qwen 3.7 Max,Yaveon_2024,R12,relevant,fulfilled
+qwen_3_7_max,Qwen 3.7 Max,Yaveon_2024,R14,relevant,fulfilled
+qwen_3_7_max,Qwen 3.7 Max,Yaveon_2024,R15,relevant,fulfilled
+qwen_3_7_max,Qwen 3.7 Max,Yaveon_2024,R17,relevant,fulfilled
+qwen_3_7_max,Qwen 3.7 Max,Yaveon_2024,R19,relevant,fulfilled
+qwen_3_7_max,Qwen 3.7 Max,Yaveon_2024,R22,relevant,
+qwen_3_7_max,Qwen 3.7 Max,Yaveon_2024,R23,not_relevant,
+qwen_3_7_max,Qwen 3.7 Max,Yaveon_2024,R24,not_relevant,
+qwen_3_7_max,Qwen 3.7 Max,Zollern_2024,R02,relevant,fulfilled
+qwen_3_7_max,Qwen 3.7 Max,Zollern_2024,R03,relevant,fulfilled
+qwen_3_7_max,Qwen 3.7 Max,Zollern_2024,R04,relevant,fulfilled
+qwen_3_7_max,Qwen 3.7 Max,Zollern_2024,R10,relevant,fulfilled
+qwen_3_7_max,Qwen 3.7 Max,Zollern_2024,R11,relevant,fulfilled
+qwen_3_7_max,Qwen 3.7 Max,Zollern_2024,R12,relevant,
+qwen_3_7_max,Qwen 3.7 Max,Zollern_2024,R14,relevant,fulfilled
+qwen_3_7_max,Qwen 3.7 Max,Zollern_2024,R15,relevant,fulfilled
+qwen_3_7_max,Qwen 3.7 Max,Zollern_2024,R17,relevant,fulfilled
+qwen_3_7_max,Qwen 3.7 Max,Zollern_2024,R19,relevant,fulfilled
+qwen_3_7_max,Qwen 3.7 Max,Zollern_2024,R22,relevant,
+qwen_3_7_max,Qwen 3.7 Max,Zollern_2024,R23,relevant,
+qwen_3_7_max,Qwen 3.7 Max,Zollern_2024,R24,relevant,fulfilled
+mimo_v2_5_pro,MiMo v2.5 Pro,Amazon_2024,R02,relevant,fulfilled
+mimo_v2_5_pro,MiMo v2.5 Pro,Amazon_2024,R03,relevant,not_fulfilled
+mimo_v2_5_pro,MiMo v2.5 Pro,Amazon_2024,R04,relevant,not_fulfilled
+mimo_v2_5_pro,MiMo v2.5 Pro,Amazon_2024,R10,relevant,not_fulfilled
+mimo_v2_5_pro,MiMo v2.5 Pro,Amazon_2024,R11,relevant,not_fulfilled
+mimo_v2_5_pro,MiMo v2.5 Pro,Amazon_2024,R12,relevant,
+mimo_v2_5_pro,MiMo v2.5 Pro,Amazon_2024,R14,relevant,fulfilled
+mimo_v2_5_pro,MiMo v2.5 Pro,Amazon_2024,R15,relevant,not_fulfilled
+mimo_v2_5_pro,MiMo v2.5 Pro,Amazon_2024,R17,relevant,not_fulfilled
+mimo_v2_5_pro,MiMo v2.5 Pro,Amazon_2024,R19,relevant,fulfilled
+mimo_v2_5_pro,MiMo v2.5 Pro,Amazon_2024,R22,unclear,
+mimo_v2_5_pro,MiMo v2.5 Pro,Amazon_2024,R23,not_relevant,not_fulfilled
+mimo_v2_5_pro,MiMo v2.5 Pro,Amazon_2024,R24,not_relevant,
+mimo_v2_5_pro,MiMo v2.5 Pro,BoschMS_2024,R02,relevant,fulfilled
+mimo_v2_5_pro,MiMo v2.5 Pro,BoschMS_2024,R03,relevant,not_fulfilled
+mimo_v2_5_pro,MiMo v2.5 Pro,BoschMS_2024,R04,relevant,not_fulfilled
+mimo_v2_5_pro,MiMo v2.5 Pro,BoschMS_2024,R10,relevant,not_fulfilled
+mimo_v2_5_pro,MiMo v2.5 Pro,BoschMS_2024,R11,relevant,not_fulfilled
+mimo_v2_5_pro,MiMo v2.5 Pro,BoschMS_2024,R12,relevant,
+mimo_v2_5_pro,MiMo v2.5 Pro,BoschMS_2024,R14,relevant,not_fulfilled
+mimo_v2_5_pro,MiMo v2.5 Pro,BoschMS_2024,R15,relevant,not_fulfilled
+mimo_v2_5_pro,MiMo v2.5 Pro,BoschMS_2024,R17,relevant,not_fulfilled
+mimo_v2_5_pro,MiMo v2.5 Pro,BoschMS_2024,R19,relevant,not_fulfilled
+mimo_v2_5_pro,MiMo v2.5 Pro,BoschMS_2024,R22,relevant,
+mimo_v2_5_pro,MiMo v2.5 Pro,BoschMS_2024,R23,not_relevant,
+mimo_v2_5_pro,MiMo v2.5 Pro,BoschMS_2024,R24,not_relevant,
+mimo_v2_5_pro,MiMo v2.5 Pro,HTG_2024,R02,relevant,fulfilled
+mimo_v2_5_pro,MiMo v2.5 Pro,HTG_2024,R03,relevant,not_fulfilled
+mimo_v2_5_pro,MiMo v2.5 Pro,HTG_2024,R04,relevant,not_fulfilled
+mimo_v2_5_pro,MiMo v2.5 Pro,HTG_2024,R10,relevant,not_fulfilled
+mimo_v2_5_pro,MiMo v2.5 Pro,HTG_2024,R11,relevant,not_fulfilled
+mimo_v2_5_pro,MiMo v2.5 Pro,HTG_2024,R12,relevant,
+mimo_v2_5_pro,MiMo v2.5 Pro,HTG_2024,R14,relevant,fulfilled
+mimo_v2_5_pro,MiMo v2.5 Pro,HTG_2024,R15,relevant,not_fulfilled
+mimo_v2_5_pro,MiMo v2.5 Pro,HTG_2024,R17,relevant,not_fulfilled
+mimo_v2_5_pro,MiMo v2.5 Pro,HTG_2024,R19,relevant,fulfilled
+mimo_v2_5_pro,MiMo v2.5 Pro,HTG_2024,R22,relevant,not_fulfilled
+mimo_v2_5_pro,MiMo v2.5 Pro,HTG_2024,R23,not_relevant,
+mimo_v2_5_pro,MiMo v2.5 Pro,HTG_2024,R24,relevant,
+mimo_v2_5_pro,MiMo v2.5 Pro,Hoberg_2024,R02,relevant,fulfilled
+mimo_v2_5_pro,MiMo v2.5 Pro,Hoberg_2024,R03,relevant,not_fulfilled
+mimo_v2_5_pro,MiMo v2.5 Pro,Hoberg_2024,R04,relevant,not_fulfilled
+mimo_v2_5_pro,MiMo v2.5 Pro,Hoberg_2024,R10,relevant,not_fulfilled
+mimo_v2_5_pro,MiMo v2.5 Pro,Hoberg_2024,R11,relevant,not_fulfilled
+mimo_v2_5_pro,MiMo v2.5 Pro,Hoberg_2024,R12,relevant,fulfilled
+mimo_v2_5_pro,MiMo v2.5 Pro,Hoberg_2024,R14,relevant,fulfilled
+mimo_v2_5_pro,MiMo v2.5 Pro,Hoberg_2024,R15,relevant,not_fulfilled
+mimo_v2_5_pro,MiMo v2.5 Pro,Hoberg_2024,R17,relevant,not_fulfilled
+mimo_v2_5_pro,MiMo v2.5 Pro,Hoberg_2024,R19,relevant,fulfilled
+mimo_v2_5_pro,MiMo v2.5 Pro,Hoberg_2024,R22,relevant,not_fulfilled
+mimo_v2_5_pro,MiMo v2.5 Pro,Hoberg_2024,R23,relevant,fulfilled
+mimo_v2_5_pro,MiMo v2.5 Pro,Hoberg_2024,R24,relevant,fulfilled
+mimo_v2_5_pro,MiMo v2.5 Pro,Johnson_2025,R02,relevant,fulfilled
+mimo_v2_5_pro,MiMo v2.5 Pro,Johnson_2025,R03,relevant,not_fulfilled
+mimo_v2_5_pro,MiMo v2.5 Pro,Johnson_2025,R04,relevant,not_fulfilled
+mimo_v2_5_pro,MiMo v2.5 Pro,Johnson_2025,R10,relevant,not_fulfilled
+mimo_v2_5_pro,MiMo v2.5 Pro,Johnson_2025,R11,relevant,not_fulfilled
+mimo_v2_5_pro,MiMo v2.5 Pro,Johnson_2025,R12,relevant,
+mimo_v2_5_pro,MiMo v2.5 Pro,Johnson_2025,R14,relevant,not_fulfilled
+mimo_v2_5_pro,MiMo v2.5 Pro,Johnson_2025,R15,relevant,fulfilled
+mimo_v2_5_pro,MiMo v2.5 Pro,Johnson_2025,R17,relevant,not_fulfilled
+mimo_v2_5_pro,MiMo v2.5 Pro,Johnson_2025,R19,relevant,fulfilled
+mimo_v2_5_pro,MiMo v2.5 Pro,Johnson_2025,R22,relevant,
+mimo_v2_5_pro,MiMo v2.5 Pro,Johnson_2025,R23,not_relevant,
+mimo_v2_5_pro,MiMo v2.5 Pro,Johnson_2025,R24,not_relevant,not_fulfilled
+mimo_v2_5_pro,MiMo v2.5 Pro,Krug_2024,R02,not_relevant,fulfilled
+mimo_v2_5_pro,MiMo v2.5 Pro,Krug_2024,R03,not_relevant,not_fulfilled
+mimo_v2_5_pro,MiMo v2.5 Pro,Krug_2024,R04,relevant,not_fulfilled
+mimo_v2_5_pro,MiMo v2.5 Pro,Krug_2024,R10,not_relevant,not_fulfilled
+mimo_v2_5_pro,MiMo v2.5 Pro,Krug_2024,R11,not_relevant,not_fulfilled
+mimo_v2_5_pro,MiMo v2.5 Pro,Krug_2024,R12,relevant,
+mimo_v2_5_pro,MiMo v2.5 Pro,Krug_2024,R14,relevant,not_fulfilled
+mimo_v2_5_pro,MiMo v2.5 Pro,Krug_2024,R15,relevant,not_fulfilled
+mimo_v2_5_pro,MiMo v2.5 Pro,Krug_2024,R17,relevant,fulfilled
+mimo_v2_5_pro,MiMo v2.5 Pro,Krug_2024,R19,relevant,fulfilled
+mimo_v2_5_pro,MiMo v2.5 Pro,Krug_2024,R22,relevant,
+mimo_v2_5_pro,MiMo v2.5 Pro,Krug_2024,R23,relevant,fulfilled
+mimo_v2_5_pro,MiMo v2.5 Pro,Krug_2024,R24,not_relevant,
+mimo_v2_5_pro,MiMo v2.5 Pro,Miethke_2024,R02,relevant,not_fulfilled
+mimo_v2_5_pro,MiMo v2.5 Pro,Miethke_2024,R03,relevant,not_fulfilled
+mimo_v2_5_pro,MiMo v2.5 Pro,Miethke_2024,R04,relevant,not_fulfilled
+mimo_v2_5_pro,MiMo v2.5 Pro,Miethke_2024,R10,relevant,not_fulfilled
+mimo_v2_5_pro,MiMo v2.5 Pro,Miethke_2024,R11,relevant,not_fulfilled
+mimo_v2_5_pro,MiMo v2.5 Pro,Miethke_2024,R12,relevant,not_fulfilled
+mimo_v2_5_pro,MiMo v2.5 Pro,Miethke_2024,R14,relevant,not_fulfilled
+mimo_v2_5_pro,MiMo v2.5 Pro,Miethke_2024,R15,relevant,not_fulfilled
+mimo_v2_5_pro,MiMo v2.5 Pro,Miethke_2024,R17,relevant,not_fulfilled
+mimo_v2_5_pro,MiMo v2.5 Pro,Miethke_2024,R19,relevant,not_fulfilled
+mimo_v2_5_pro,MiMo v2.5 Pro,Miethke_2024,R22,relevant,
+mimo_v2_5_pro,MiMo v2.5 Pro,Miethke_2024,R23,not_relevant,
+mimo_v2_5_pro,MiMo v2.5 Pro,Miethke_2024,R24,not_relevant,
+mimo_v2_5_pro,MiMo v2.5 Pro,Pfizer_2024,R02,relevant,not_fulfilled
+mimo_v2_5_pro,MiMo v2.5 Pro,Pfizer_2024,R03,relevant,not_fulfilled
+mimo_v2_5_pro,MiMo v2.5 Pro,Pfizer_2024,R04,relevant,not_fulfilled
+mimo_v2_5_pro,MiMo v2.5 Pro,Pfizer_2024,R10,relevant,not_fulfilled
+mimo_v2_5_pro,MiMo v2.5 Pro,Pfizer_2024,R11,relevant,not_fulfilled
+mimo_v2_5_pro,MiMo v2.5 Pro,Pfizer_2024,R12,relevant,not_fulfilled
+mimo_v2_5_pro,MiMo v2.5 Pro,Pfizer_2024,R14,relevant,fulfilled
+mimo_v2_5_pro,MiMo v2.5 Pro,Pfizer_2024,R15,relevant,not_fulfilled
+mimo_v2_5_pro,MiMo v2.5 Pro,Pfizer_2024,R17,relevant,not_fulfilled
+mimo_v2_5_pro,MiMo v2.5 Pro,Pfizer_2024,R19,relevant,not_fulfilled
+mimo_v2_5_pro,MiMo v2.5 Pro,Pfizer_2024,R22,relevant,fulfilled
+mimo_v2_5_pro,MiMo v2.5 Pro,Pfizer_2024,R23,not_relevant,
+mimo_v2_5_pro,MiMo v2.5 Pro,Pfizer_2024,R24,not_relevant,
+mimo_v2_5_pro,MiMo v2.5 Pro,Schrott_2024,R02,relevant,fulfilled
+mimo_v2_5_pro,MiMo v2.5 Pro,Schrott_2024,R03,relevant,fulfilled
+mimo_v2_5_pro,MiMo v2.5 Pro,Schrott_2024,R04,relevant,not_fulfilled
+mimo_v2_5_pro,MiMo v2.5 Pro,Schrott_2024,R10,relevant,not_fulfilled
+mimo_v2_5_pro,MiMo v2.5 Pro,Schrott_2024,R11,relevant,not_fulfilled
+mimo_v2_5_pro,MiMo v2.5 Pro,Schrott_2024,R12,relevant,
+mimo_v2_5_pro,MiMo v2.5 Pro,Schrott_2024,R14,relevant,not_fulfilled
+mimo_v2_5_pro,MiMo v2.5 Pro,Schrott_2024,R15,relevant,not_fulfilled
+mimo_v2_5_pro,MiMo v2.5 Pro,Schrott_2024,R17,relevant,not_fulfilled
+mimo_v2_5_pro,MiMo v2.5 Pro,Schrott_2024,R19,relevant,fulfilled
+mimo_v2_5_pro,MiMo v2.5 Pro,Schrott_2024,R22,not_relevant,
+mimo_v2_5_pro,MiMo v2.5 Pro,Schrott_2024,R23,not_relevant,
+mimo_v2_5_pro,MiMo v2.5 Pro,Schrott_2024,R24,not_relevant,
+mimo_v2_5_pro,MiMo v2.5 Pro,Tennet_TSO_2024,R02,relevant,fulfilled
+mimo_v2_5_pro,MiMo v2.5 Pro,Tennet_TSO_2024,R03,relevant,not_fulfilled
+mimo_v2_5_pro,MiMo v2.5 Pro,Tennet_TSO_2024,R04,relevant,not_fulfilled
+mimo_v2_5_pro,MiMo v2.5 Pro,Tennet_TSO_2024,R10,relevant,not_fulfilled
+mimo_v2_5_pro,MiMo v2.5 Pro,Tennet_TSO_2024,R11,relevant,not_fulfilled
+mimo_v2_5_pro,MiMo v2.5 Pro,Tennet_TSO_2024,R12,relevant,
+mimo_v2_5_pro,MiMo v2.5 Pro,Tennet_TSO_2024,R14,relevant,not_fulfilled
+mimo_v2_5_pro,MiMo v2.5 Pro,Tennet_TSO_2024,R15,relevant,fulfilled
+mimo_v2_5_pro,MiMo v2.5 Pro,Tennet_TSO_2024,R17,relevant,not_fulfilled
+mimo_v2_5_pro,MiMo v2.5 Pro,Tennet_TSO_2024,R19,relevant,not_fulfilled
+mimo_v2_5_pro,MiMo v2.5 Pro,Tennet_TSO_2024,R22,relevant,fulfilled
+mimo_v2_5_pro,MiMo v2.5 Pro,Tennet_TSO_2024,R23,not_relevant,
+mimo_v2_5_pro,MiMo v2.5 Pro,Tennet_TSO_2024,R24,not_relevant,
+mimo_v2_5_pro,MiMo v2.5 Pro,WN24_2024,R02,relevant,fulfilled
+mimo_v2_5_pro,MiMo v2.5 Pro,WN24_2024,R03,relevant,fulfilled
+mimo_v2_5_pro,MiMo v2.5 Pro,WN24_2024,R04,relevant,not_fulfilled
+mimo_v2_5_pro,MiMo v2.5 Pro,WN24_2024,R10,relevant,fulfilled
+mimo_v2_5_pro,MiMo v2.5 Pro,WN24_2024,R11,relevant,not_fulfilled
+mimo_v2_5_pro,MiMo v2.5 Pro,WN24_2024,R12,not_relevant,
+mimo_v2_5_pro,MiMo v2.5 Pro,WN24_2024,R14,relevant,not_fulfilled
+mimo_v2_5_pro,MiMo v2.5 Pro,WN24_2024,R15,relevant,not_fulfilled
+mimo_v2_5_pro,MiMo v2.5 Pro,WN24_2024,R17,relevant,not_fulfilled
+mimo_v2_5_pro,MiMo v2.5 Pro,WN24_2024,R19,relevant,not_fulfilled
+mimo_v2_5_pro,MiMo v2.5 Pro,WN24_2024,R22,relevant,
+mimo_v2_5_pro,MiMo v2.5 Pro,WN24_2024,R23,relevant,
+mimo_v2_5_pro,MiMo v2.5 Pro,WN24_2024,R24,not_relevant,
+mimo_v2_5_pro,MiMo v2.5 Pro,Wajos_2024,R02,relevant,not_fulfilled
+mimo_v2_5_pro,MiMo v2.5 Pro,Wajos_2024,R03,relevant,not_fulfilled
+mimo_v2_5_pro,MiMo v2.5 Pro,Wajos_2024,R04,relevant,not_fulfilled
+mimo_v2_5_pro,MiMo v2.5 Pro,Wajos_2024,R10,relevant,not_fulfilled
+mimo_v2_5_pro,MiMo v2.5 Pro,Wajos_2024,R11,relevant,not_fulfilled
+mimo_v2_5_pro,MiMo v2.5 Pro,Wajos_2024,R12,relevant,not_fulfilled
+mimo_v2_5_pro,MiMo v2.5 Pro,Wajos_2024,R14,relevant,not_fulfilled
+mimo_v2_5_pro,MiMo v2.5 Pro,Wajos_2024,R15,relevant,not_fulfilled
+mimo_v2_5_pro,MiMo v2.5 Pro,Wajos_2024,R17,relevant,not_fulfilled
+mimo_v2_5_pro,MiMo v2.5 Pro,Wajos_2024,R19,relevant,not_fulfilled
+mimo_v2_5_pro,MiMo v2.5 Pro,Wajos_2024,R22,relevant,
+mimo_v2_5_pro,MiMo v2.5 Pro,Wajos_2024,R23,not_relevant,
+mimo_v2_5_pro,MiMo v2.5 Pro,Wajos_2024,R24,not_relevant,
+mimo_v2_5_pro,MiMo v2.5 Pro,Yaveon_2024,R02,relevant,fulfilled
+mimo_v2_5_pro,MiMo v2.5 Pro,Yaveon_2024,R03,relevant,not_fulfilled
+mimo_v2_5_pro,MiMo v2.5 Pro,Yaveon_2024,R04,relevant,not_fulfilled
+mimo_v2_5_pro,MiMo v2.5 Pro,Yaveon_2024,R10,relevant,not_fulfilled
+mimo_v2_5_pro,MiMo v2.5 Pro,Yaveon_2024,R11,relevant,not_fulfilled
+mimo_v2_5_pro,MiMo v2.5 Pro,Yaveon_2024,R12,relevant,fulfilled
+mimo_v2_5_pro,MiMo v2.5 Pro,Yaveon_2024,R14,relevant,not_fulfilled
+mimo_v2_5_pro,MiMo v2.5 Pro,Yaveon_2024,R15,relevant,not_fulfilled
+mimo_v2_5_pro,MiMo v2.5 Pro,Yaveon_2024,R17,relevant,fulfilled
+mimo_v2_5_pro,MiMo v2.5 Pro,Yaveon_2024,R19,relevant,not_fulfilled
+mimo_v2_5_pro,MiMo v2.5 Pro,Yaveon_2024,R22,relevant,
+mimo_v2_5_pro,MiMo v2.5 Pro,Yaveon_2024,R23,not_relevant,
+mimo_v2_5_pro,MiMo v2.5 Pro,Yaveon_2024,R24,not_relevant,
+mimo_v2_5_pro,MiMo v2.5 Pro,Zollern_2024,R02,unclear,not_fulfilled
+mimo_v2_5_pro,MiMo v2.5 Pro,Zollern_2024,R03,relevant,fulfilled
+mimo_v2_5_pro,MiMo v2.5 Pro,Zollern_2024,R04,relevant,fulfilled
+mimo_v2_5_pro,MiMo v2.5 Pro,Zollern_2024,R10,unclear,not_fulfilled
+mimo_v2_5_pro,MiMo v2.5 Pro,Zollern_2024,R11,not_relevant,not_fulfilled
+mimo_v2_5_pro,MiMo v2.5 Pro,Zollern_2024,R12,not_relevant,
+mimo_v2_5_pro,MiMo v2.5 Pro,Zollern_2024,R14,relevant,not_fulfilled
+mimo_v2_5_pro,MiMo v2.5 Pro,Zollern_2024,R15,relevant,fulfilled
+mimo_v2_5_pro,MiMo v2.5 Pro,Zollern_2024,R17,relevant,not_fulfilled
+mimo_v2_5_pro,MiMo v2.5 Pro,Zollern_2024,R19,relevant,not_fulfilled
+mimo_v2_5_pro,MiMo v2.5 Pro,Zollern_2024,R22,relevant,
+mimo_v2_5_pro,MiMo v2.5 Pro,Zollern_2024,R23,not_relevant,
+mimo_v2_5_pro,MiMo v2.5 Pro,Zollern_2024,R24,relevant,fulfilled
+claude_sonnet_5_5,Claude Sonnet 5.5,Amazon_2024,R02,relevant,fulfilled
+claude_sonnet_5_5,Claude Sonnet 5.5,Amazon_2024,R03,relevant,fulfilled
+claude_sonnet_5_5,Claude Sonnet 5.5,Amazon_2024,R04,relevant,not_fulfilled
+claude_sonnet_5_5,Claude Sonnet 5.5,Amazon_2024,R10,relevant,not_fulfilled
+claude_sonnet_5_5,Claude Sonnet 5.5,Amazon_2024,R11,relevant,fulfilled
+claude_sonnet_5_5,Claude Sonnet 5.5,Amazon_2024,R12,relevant,
+claude_sonnet_5_5,Claude Sonnet 5.5,Amazon_2024,R14,relevant,fulfilled
+claude_sonnet_5_5,Claude Sonnet 5.5,Amazon_2024,R15,relevant,fulfilled
+claude_sonnet_5_5,Claude Sonnet 5.5,Amazon_2024,R17,relevant,not_fulfilled
+claude_sonnet_5_5,Claude Sonnet 5.5,Amazon_2024,R19,relevant,fulfilled
+claude_sonnet_5_5,Claude Sonnet 5.5,Amazon_2024,R22,relevant,
+claude_sonnet_5_5,Claude Sonnet 5.5,Amazon_2024,R23,not_relevant,not_fulfilled
+claude_sonnet_5_5,Claude Sonnet 5.5,Amazon_2024,R24,not_relevant,
+claude_sonnet_5_5,Claude Sonnet 5.5,BoschMS_2024,R02,relevant,fulfilled
+claude_sonnet_5_5,Claude Sonnet 5.5,BoschMS_2024,R03,relevant,fulfilled
+claude_sonnet_5_5,Claude Sonnet 5.5,BoschMS_2024,R04,relevant,fulfilled
+claude_sonnet_5_5,Claude Sonnet 5.5,BoschMS_2024,R10,relevant,not_fulfilled
+claude_sonnet_5_5,Claude Sonnet 5.5,BoschMS_2024,R11,relevant,not_fulfilled
+claude_sonnet_5_5,Claude Sonnet 5.5,BoschMS_2024,R12,unclear,
+claude_sonnet_5_5,Claude Sonnet 5.5,BoschMS_2024,R14,relevant,fulfilled
+claude_sonnet_5_5,Claude Sonnet 5.5,BoschMS_2024,R15,relevant,not_fulfilled
+claude_sonnet_5_5,Claude Sonnet 5.5,BoschMS_2024,R17,relevant,not_fulfilled
+claude_sonnet_5_5,Claude Sonnet 5.5,BoschMS_2024,R19,relevant,fulfilled
+claude_sonnet_5_5,Claude Sonnet 5.5,BoschMS_2024,R22,not_relevant,
+claude_sonnet_5_5,Claude Sonnet 5.5,BoschMS_2024,R23,not_relevant,
+claude_sonnet_5_5,Claude Sonnet 5.5,BoschMS_2024,R24,not_relevant,
+claude_sonnet_5_5,Claude Sonnet 5.5,HTG_2024,R02,relevant,fulfilled
+claude_sonnet_5_5,Claude Sonnet 5.5,HTG_2024,R03,relevant,not_fulfilled
+claude_sonnet_5_5,Claude Sonnet 5.5,HTG_2024,R04,relevant,fulfilled
+claude_sonnet_5_5,Claude Sonnet 5.5,HTG_2024,R10,relevant,not_fulfilled
+claude_sonnet_5_5,Claude Sonnet 5.5,HTG_2024,R11,relevant,fulfilled
+claude_sonnet_5_5,Claude Sonnet 5.5,HTG_2024,R12,relevant,
+claude_sonnet_5_5,Claude Sonnet 5.5,HTG_2024,R14,relevant,fulfilled
+claude_sonnet_5_5,Claude Sonnet 5.5,HTG_2024,R15,relevant,fulfilled
+claude_sonnet_5_5,Claude Sonnet 5.5,HTG_2024,R17,relevant,fulfilled
+claude_sonnet_5_5,Claude Sonnet 5.5,HTG_2024,R19,relevant,fulfilled
+claude_sonnet_5_5,Claude Sonnet 5.5,HTG_2024,R22,relevant,fulfilled
+claude_sonnet_5_5,Claude Sonnet 5.5,HTG_2024,R23,not_relevant,
+claude_sonnet_5_5,Claude Sonnet 5.5,HTG_2024,R24,relevant,
+claude_sonnet_5_5,Claude Sonnet 5.5,Hoberg_2024,R02,relevant,fulfilled
+claude_sonnet_5_5,Claude Sonnet 5.5,Hoberg_2024,R03,relevant,fulfilled
+claude_sonnet_5_5,Claude Sonnet 5.5,Hoberg_2024,R04,relevant,fulfilled
+claude_sonnet_5_5,Claude Sonnet 5.5,Hoberg_2024,R10,relevant,fulfilled
+claude_sonnet_5_5,Claude Sonnet 5.5,Hoberg_2024,R11,relevant,fulfilled
+claude_sonnet_5_5,Claude Sonnet 5.5,Hoberg_2024,R12,relevant,fulfilled
+claude_sonnet_5_5,Claude Sonnet 5.5,Hoberg_2024,R14,relevant,fulfilled
+claude_sonnet_5_5,Claude Sonnet 5.5,Hoberg_2024,R15,relevant,fulfilled
+claude_sonnet_5_5,Claude Sonnet 5.5,Hoberg_2024,R17,relevant,not_fulfilled
+claude_sonnet_5_5,Claude Sonnet 5.5,Hoberg_2024,R19,relevant,fulfilled
+claude_sonnet_5_5,Claude Sonnet 5.5,Hoberg_2024,R22,relevant,not_fulfilled
+claude_sonnet_5_5,Claude Sonnet 5.5,Hoberg_2024,R23,relevant,fulfilled
+claude_sonnet_5_5,Claude Sonnet 5.5,Hoberg_2024,R24,relevant,fulfilled
+claude_sonnet_5_5,Claude Sonnet 5.5,Johnson_2025,R02,relevant,fulfilled
+claude_sonnet_5_5,Claude Sonnet 5.5,Johnson_2025,R03,relevant,fulfilled
+claude_sonnet_5_5,Claude Sonnet 5.5,Johnson_2025,R04,relevant,not_fulfilled
+claude_sonnet_5_5,Claude Sonnet 5.5,Johnson_2025,R10,relevant,not_fulfilled
+claude_sonnet_5_5,Claude Sonnet 5.5,Johnson_2025,R11,relevant,fulfilled
+claude_sonnet_5_5,Claude Sonnet 5.5,Johnson_2025,R12,relevant,
+claude_sonnet_5_5,Claude Sonnet 5.5,Johnson_2025,R14,relevant,fulfilled
+claude_sonnet_5_5,Claude Sonnet 5.5,Johnson_2025,R15,relevant,fulfilled
+claude_sonnet_5_5,Claude Sonnet 5.5,Johnson_2025,R17,relevant,not_fulfilled
+claude_sonnet_5_5,Claude Sonnet 5.5,Johnson_2025,R19,relevant,fulfilled
+claude_sonnet_5_5,Claude Sonnet 5.5,Johnson_2025,R22,relevant,
+claude_sonnet_5_5,Claude Sonnet 5.5,Johnson_2025,R23,not_relevant,
+claude_sonnet_5_5,Claude Sonnet 5.5,Johnson_2025,R24,relevant,
+claude_sonnet_5_5,Claude Sonnet 5.5,Krug_2024,R02,relevant,fulfilled
+claude_sonnet_5_5,Claude Sonnet 5.5,Krug_2024,R03,relevant,not_fulfilled
+claude_sonnet_5_5,Claude Sonnet 5.5,Krug_2024,R04,relevant,fulfilled
+claude_sonnet_5_5,Claude Sonnet 5.5,Krug_2024,R10,relevant,not_fulfilled
+claude_sonnet_5_5,Claude Sonnet 5.5,Krug_2024,R11,relevant,not_fulfilled
+claude_sonnet_5_5,Claude Sonnet 5.5,Krug_2024,R12,relevant,
+claude_sonnet_5_5,Claude Sonnet 5.5,Krug_2024,R14,relevant,fulfilled
+claude_sonnet_5_5,Claude Sonnet 5.5,Krug_2024,R15,relevant,fulfilled
+claude_sonnet_5_5,Claude Sonnet 5.5,Krug_2024,R17,relevant,not_fulfilled
+claude_sonnet_5_5,Claude Sonnet 5.5,Krug_2024,R19,relevant,fulfilled
+claude_sonnet_5_5,Claude Sonnet 5.5,Krug_2024,R22,relevant,
+claude_sonnet_5_5,Claude Sonnet 5.5,Krug_2024,R23,relevant,not_fulfilled
+claude_sonnet_5_5,Claude Sonnet 5.5,Krug_2024,R24,not_relevant,
+claude_sonnet_5_5,Claude Sonnet 5.5,Miethke_2024,R02,relevant,fulfilled
+claude_sonnet_5_5,Claude Sonnet 5.5,Miethke_2024,R03,relevant,fulfilled
+claude_sonnet_5_5,Claude Sonnet 5.5,Miethke_2024,R04,relevant,fulfilled
+claude_sonnet_5_5,Claude Sonnet 5.5,Miethke_2024,R10,relevant,not_fulfilled
+claude_sonnet_5_5,Claude Sonnet 5.5,Miethke_2024,R11,relevant,fulfilled
+claude_sonnet_5_5,Claude Sonnet 5.5,Miethke_2024,R12,relevant,fulfilled
+claude_sonnet_5_5,Claude Sonnet 5.5,Miethke_2024,R14,relevant,fulfilled
+claude_sonnet_5_5,Claude Sonnet 5.5,Miethke_2024,R15,relevant,fulfilled
+claude_sonnet_5_5,Claude Sonnet 5.5,Miethke_2024,R17,relevant,fulfilled
+claude_sonnet_5_5,Claude Sonnet 5.5,Miethke_2024,R19,relevant,not_fulfilled
+claude_sonnet_5_5,Claude Sonnet 5.5,Miethke_2024,R22,relevant,
+claude_sonnet_5_5,Claude Sonnet 5.5,Miethke_2024,R23,not_relevant,
+claude_sonnet_5_5,Claude Sonnet 5.5,Miethke_2024,R24,not_relevant,
+claude_sonnet_5_5,Claude Sonnet 5.5,Pfizer_2024,R02,relevant,fulfilled
+claude_sonnet_5_5,Claude Sonnet 5.5,Pfizer_2024,R03,relevant,fulfilled
+claude_sonnet_5_5,Claude Sonnet 5.5,Pfizer_2024,R04,relevant,not_fulfilled
+claude_sonnet_5_5,Claude Sonnet 5.5,Pfizer_2024,R10,relevant,not_fulfilled
+claude_sonnet_5_5,Claude Sonnet 5.5,Pfizer_2024,R11,relevant,not_fulfilled
+claude_sonnet_5_5,Claude Sonnet 5.5,Pfizer_2024,R12,relevant,fulfilled
+claude_sonnet_5_5,Claude Sonnet 5.5,Pfizer_2024,R14,relevant,fulfilled
+claude_sonnet_5_5,Claude Sonnet 5.5,Pfizer_2024,R15,relevant,fulfilled
+claude_sonnet_5_5,Claude Sonnet 5.5,Pfizer_2024,R17,relevant,not_fulfilled
+claude_sonnet_5_5,Claude Sonnet 5.5,Pfizer_2024,R19,relevant,fulfilled
+claude_sonnet_5_5,Claude Sonnet 5.5,Pfizer_2024,R22,relevant,fulfilled
+claude_sonnet_5_5,Claude Sonnet 5.5,Pfizer_2024,R23,not_relevant,
+claude_sonnet_5_5,Claude Sonnet 5.5,Pfizer_2024,R24,not_relevant,
+claude_sonnet_5_5,Claude Sonnet 5.5,Schrott_2024,R02,relevant,fulfilled
+claude_sonnet_5_5,Claude Sonnet 5.5,Schrott_2024,R03,relevant,fulfilled
+claude_sonnet_5_5,Claude Sonnet 5.5,Schrott_2024,R04,relevant,fulfilled
+claude_sonnet_5_5,Claude Sonnet 5.5,Schrott_2024,R10,relevant,not_fulfilled
+claude_sonnet_5_5,Claude Sonnet 5.5,Schrott_2024,R11,relevant,fulfilled
+claude_sonnet_5_5,Claude Sonnet 5.5,Schrott_2024,R12,relevant,
+claude_sonnet_5_5,Claude Sonnet 5.5,Schrott_2024,R14,relevant,not_fulfilled
+claude_sonnet_5_5,Claude Sonnet 5.5,Schrott_2024,R15,relevant,fulfilled
+claude_sonnet_5_5,Claude Sonnet 5.5,Schrott_2024,R17,relevant,not_fulfilled
+claude_sonnet_5_5,Claude Sonnet 5.5,Schrott_2024,R19,relevant,fulfilled
+claude_sonnet_5_5,Claude Sonnet 5.5,Schrott_2024,R22,not_relevant,
+claude_sonnet_5_5,Claude Sonnet 5.5,Schrott_2024,R23,not_relevant,
+claude_sonnet_5_5,Claude Sonnet 5.5,Schrott_2024,R24,not_relevant,
+claude_sonnet_5_5,Claude Sonnet 5.5,Tennet_TSO_2024,R02,relevant,fulfilled
+claude_sonnet_5_5,Claude Sonnet 5.5,Tennet_TSO_2024,R03,relevant,not_fulfilled
+claude_sonnet_5_5,Claude Sonnet 5.5,Tennet_TSO_2024,R04,relevant,fulfilled
+claude_sonnet_5_5,Claude Sonnet 5.5,Tennet_TSO_2024,R10,relevant,not_fulfilled
+claude_sonnet_5_5,Claude Sonnet 5.5,Tennet_TSO_2024,R11,relevant,fulfilled
+claude_sonnet_5_5,Claude Sonnet 5.5,Tennet_TSO_2024,R12,relevant,
+claude_sonnet_5_5,Claude Sonnet 5.5,Tennet_TSO_2024,R14,relevant,fulfilled
+claude_sonnet_5_5,Claude Sonnet 5.5,Tennet_TSO_2024,R15,relevant,fulfilled
+claude_sonnet_5_5,Claude Sonnet 5.5,Tennet_TSO_2024,R17,relevant,not_fulfilled
+claude_sonnet_5_5,Claude Sonnet 5.5,Tennet_TSO_2024,R19,relevant,fulfilled
+claude_sonnet_5_5,Claude Sonnet 5.5,Tennet_TSO_2024,R22,relevant,fulfilled
+claude_sonnet_5_5,Claude Sonnet 5.5,Tennet_TSO_2024,R23,not_relevant,
+claude_sonnet_5_5,Claude Sonnet 5.5,Tennet_TSO_2024,R24,not_relevant,
+claude_sonnet_5_5,Claude Sonnet 5.5,WN24_2024,R02,relevant,fulfilled
+claude_sonnet_5_5,Claude Sonnet 5.5,WN24_2024,R03,relevant,fulfilled
+claude_sonnet_5_5,Claude Sonnet 5.5,WN24_2024,R04,relevant,fulfilled
+claude_sonnet_5_5,Claude Sonnet 5.5,WN24_2024,R10,relevant,fulfilled
+claude_sonnet_5_5,Claude Sonnet 5.5,WN24_2024,R11,relevant,fulfilled
+claude_sonnet_5_5,Claude Sonnet 5.5,WN24_2024,R12,relevant,
+claude_sonnet_5_5,Claude Sonnet 5.5,WN24_2024,R14,relevant,fulfilled
+claude_sonnet_5_5,Claude Sonnet 5.5,WN24_2024,R15,relevant,fulfilled
+claude_sonnet_5_5,Claude Sonnet 5.5,WN24_2024,R17,relevant,fulfilled
+claude_sonnet_5_5,Claude Sonnet 5.5,WN24_2024,R19,relevant,fulfilled
+claude_sonnet_5_5,Claude Sonnet 5.5,WN24_2024,R22,relevant,
+claude_sonnet_5_5,Claude Sonnet 5.5,WN24_2024,R23,relevant,
+claude_sonnet_5_5,Claude Sonnet 5.5,WN24_2024,R24,not_relevant,
+claude_sonnet_5_5,Claude Sonnet 5.5,Wajos_2024,R02,relevant,not_fulfilled
+claude_sonnet_5_5,Claude Sonnet 5.5,Wajos_2024,R03,relevant,not_fulfilled
+claude_sonnet_5_5,Claude Sonnet 5.5,Wajos_2024,R04,relevant,not_fulfilled
+claude_sonnet_5_5,Claude Sonnet 5.5,Wajos_2024,R10,relevant,not_fulfilled
+claude_sonnet_5_5,Claude Sonnet 5.5,Wajos_2024,R11,relevant,fulfilled
+claude_sonnet_5_5,Claude Sonnet 5.5,Wajos_2024,R12,relevant,fulfilled
+claude_sonnet_5_5,Claude Sonnet 5.5,Wajos_2024,R14,relevant,fulfilled
+claude_sonnet_5_5,Claude Sonnet 5.5,Wajos_2024,R15,relevant,fulfilled
+claude_sonnet_5_5,Claude Sonnet 5.5,Wajos_2024,R17,relevant,not_fulfilled
+claude_sonnet_5_5,Claude Sonnet 5.5,Wajos_2024,R19,relevant,fulfilled
+claude_sonnet_5_5,Claude Sonnet 5.5,Wajos_2024,R22,relevant,
+claude_sonnet_5_5,Claude Sonnet 5.5,Wajos_2024,R23,not_relevant,
+claude_sonnet_5_5,Claude Sonnet 5.5,Wajos_2024,R24,not_relevant,
+claude_sonnet_5_5,Claude Sonnet 5.5,Yaveon_2024,R02,relevant,fulfilled
+claude_sonnet_5_5,Claude Sonnet 5.5,Yaveon_2024,R03,relevant,not_fulfilled
+claude_sonnet_5_5,Claude Sonnet 5.5,Yaveon_2024,R04,relevant,fulfilled
+claude_sonnet_5_5,Claude Sonnet 5.5,Yaveon_2024,R10,relevant,not_fulfilled
+claude_sonnet_5_5,Claude Sonnet 5.5,Yaveon_2024,R11,relevant,not_fulfilled
+claude_sonnet_5_5,Claude Sonnet 5.5,Yaveon_2024,R12,relevant,fulfilled
+claude_sonnet_5_5,Claude Sonnet 5.5,Yaveon_2024,R14,relevant,fulfilled
+claude_sonnet_5_5,Claude Sonnet 5.5,Yaveon_2024,R15,relevant,fulfilled
+claude_sonnet_5_5,Claude Sonnet 5.5,Yaveon_2024,R17,relevant,not_fulfilled
+claude_sonnet_5_5,Claude Sonnet 5.5,Yaveon_2024,R19,relevant,fulfilled
+claude_sonnet_5_5,Claude Sonnet 5.5,Yaveon_2024,R22,not_relevant,
+claude_sonnet_5_5,Claude Sonnet 5.5,Yaveon_2024,R23,not_relevant,
+claude_sonnet_5_5,Claude Sonnet 5.5,Yaveon_2024,R24,not_relevant,
+claude_sonnet_5_5,Claude Sonnet 5.5,Zollern_2024,R02,relevant,fulfilled
+claude_sonnet_5_5,Claude Sonnet 5.5,Zollern_2024,R03,relevant,fulfilled
+claude_sonnet_5_5,Claude Sonnet 5.5,Zollern_2024,R04,relevant,fulfilled
+claude_sonnet_5_5,Claude Sonnet 5.5,Zollern_2024,R10,relevant,not_fulfilled
+claude_sonnet_5_5,Claude Sonnet 5.5,Zollern_2024,R11,relevant,fulfilled
+claude_sonnet_5_5,Claude Sonnet 5.5,Zollern_2024,R12,relevant,
+claude_sonnet_5_5,Claude Sonnet 5.5,Zollern_2024,R14,relevant,fulfilled
+claude_sonnet_5_5,Claude Sonnet 5.5,Zollern_2024,R15,relevant,fulfilled
+claude_sonnet_5_5,Claude Sonnet 5.5,Zollern_2024,R17,relevant,fulfilled
+claude_sonnet_5_5,Claude Sonnet 5.5,Zollern_2024,R19,relevant,fulfilled
+claude_sonnet_5_5,Claude Sonnet 5.5,Zollern_2024,R22,relevant,
+claude_sonnet_5_5,Claude Sonnet 5.5,Zollern_2024,R23,not_relevant,
+claude_sonnet_5_5,Claude Sonnet 5.5,Zollern_2024,R24,relevant,fulfilled
+gemini_4_argon,Gemini 4 Argon,Amazon_2024,R02,relevant,fulfilled
+gemini_4_argon,Gemini 4 Argon,Amazon_2024,R03,relevant,fulfilled
+gemini_4_argon,Gemini 4 Argon,Amazon_2024,R04,relevant,not_fulfilled
+gemini_4_argon,Gemini 4 Argon,Amazon_2024,R10,relevant,not_fulfilled
+gemini_4_argon,Gemini 4 Argon,Amazon_2024,R11,relevant,fulfilled
+gemini_4_argon,Gemini 4 Argon,Amazon_2024,R12,not_relevant,
+gemini_4_argon,Gemini 4 Argon,Amazon_2024,R14,relevant,fulfilled
+gemini_4_argon,Gemini 4 Argon,Amazon_2024,R15,relevant,fulfilled
+gemini_4_argon,Gemini 4 Argon,Amazon_2024,R17,relevant,not_fulfilled
+gemini_4_argon,Gemini 4 Argon,Amazon_2024,R19,relevant,fulfilled
+gemini_4_argon,Gemini 4 Argon,Amazon_2024,R22,not_relevant,
+gemini_4_argon,Gemini 4 Argon,Amazon_2024,R23,not_relevant,not_fulfilled
+gemini_4_argon,Gemini 4 Argon,Amazon_2024,R24,relevant,
+gemini_4_argon,Gemini 4 Argon,BoschMS_2024,R02,relevant,fulfilled
+gemini_4_argon,Gemini 4 Argon,BoschMS_2024,R03,relevant,fulfilled
+gemini_4_argon,Gemini 4 Argon,BoschMS_2024,R04,relevant,fulfilled
+gemini_4_argon,Gemini 4 Argon,BoschMS_2024,R10,relevant,not_fulfilled
+gemini_4_argon,Gemini 4 Argon,BoschMS_2024,R11,relevant,not_fulfilled
+gemini_4_argon,Gemini 4 Argon,BoschMS_2024,R12,not_relevant,
+gemini_4_argon,Gemini 4 Argon,BoschMS_2024,R14,relevant,fulfilled
+gemini_4_argon,Gemini 4 Argon,BoschMS_2024,R15,relevant,fulfilled
+gemini_4_argon,Gemini 4 Argon,BoschMS_2024,R17,relevant,fulfilled
+gemini_4_argon,Gemini 4 Argon,BoschMS_2024,R19,relevant,fulfilled
+gemini_4_argon,Gemini 4 Argon,BoschMS_2024,R22,not_relevant,
+gemini_4_argon,Gemini 4 Argon,BoschMS_2024,R23,not_relevant,
+gemini_4_argon,Gemini 4 Argon,BoschMS_2024,R24,not_relevant,
+gemini_4_argon,Gemini 4 Argon,HTG_2024,R02,relevant,fulfilled
+gemini_4_argon,Gemini 4 Argon,HTG_2024,R03,relevant,not_fulfilled
+gemini_4_argon,Gemini 4 Argon,HTG_2024,R04,relevant,fulfilled
+gemini_4_argon,Gemini 4 Argon,HTG_2024,R10,relevant,not_fulfilled
+gemini_4_argon,Gemini 4 Argon,HTG_2024,R11,relevant,fulfilled
+gemini_4_argon,Gemini 4 Argon,HTG_2024,R12,relevant,
+gemini_4_argon,Gemini 4 Argon,HTG_2024,R14,relevant,fulfilled
+gemini_4_argon,Gemini 4 Argon,HTG_2024,R15,relevant,fulfilled
+gemini_4_argon,Gemini 4 Argon,HTG_2024,R17,relevant,not_fulfilled
+gemini_4_argon,Gemini 4 Argon,HTG_2024,R19,relevant,fulfilled
+gemini_4_argon,Gemini 4 Argon,HTG_2024,R22,relevant,fulfilled
+gemini_4_argon,Gemini 4 Argon,HTG_2024,R23,not_relevant,
+gemini_4_argon,Gemini 4 Argon,HTG_2024,R24,relevant,
+gemini_4_argon,Gemini 4 Argon,Hoberg_2024,R02,relevant,fulfilled
+gemini_4_argon,Gemini 4 Argon,Hoberg_2024,R03,relevant,fulfilled
+gemini_4_argon,Gemini 4 Argon,Hoberg_2024,R04,relevant,fulfilled
+gemini_4_argon,Gemini 4 Argon,Hoberg_2024,R10,relevant,fulfilled
+gemini_4_argon,Gemini 4 Argon,Hoberg_2024,R11,relevant,fulfilled
+gemini_4_argon,Gemini 4 Argon,Hoberg_2024,R12,relevant,fulfilled
+gemini_4_argon,Gemini 4 Argon,Hoberg_2024,R14,relevant,fulfilled
+gemini_4_argon,Gemini 4 Argon,Hoberg_2024,R15,relevant,fulfilled
+gemini_4_argon,Gemini 4 Argon,Hoberg_2024,R17,relevant,fulfilled
+gemini_4_argon,Gemini 4 Argon,Hoberg_2024,R19,relevant,fulfilled
+gemini_4_argon,Gemini 4 Argon,Hoberg_2024,R22,relevant,not_fulfilled
+gemini_4_argon,Gemini 4 Argon,Hoberg_2024,R23,relevant,fulfilled
+gemini_4_argon,Gemini 4 Argon,Hoberg_2024,R24,relevant,fulfilled
+gemini_4_argon,Gemini 4 Argon,Johnson_2025,R02,relevant,fulfilled
+gemini_4_argon,Gemini 4 Argon,Johnson_2025,R03,relevant,fulfilled
+gemini_4_argon,Gemini 4 Argon,Johnson_2025,R04,relevant,fulfilled
+gemini_4_argon,Gemini 4 Argon,Johnson_2025,R10,relevant,fulfilled
+gemini_4_argon,Gemini 4 Argon,Johnson_2025,R11,relevant,fulfilled
+gemini_4_argon,Gemini 4 Argon,Johnson_2025,R12,relevant,
+gemini_4_argon,Gemini 4 Argon,Johnson_2025,R14,relevant,fulfilled
+gemini_4_argon,Gemini 4 Argon,Johnson_2025,R15,relevant,fulfilled
+gemini_4_argon,Gemini 4 Argon,Johnson_2025,R17,relevant,fulfilled
+gemini_4_argon,Gemini 4 Argon,Johnson_2025,R19,relevant,fulfilled
+gemini_4_argon,Gemini 4 Argon,Johnson_2025,R22,not_relevant,
+gemini_4_argon,Gemini 4 Argon,Johnson_2025,R23,not_relevant,
+gemini_4_argon,Gemini 4 Argon,Johnson_2025,R24,not_relevant,
+gemini_4_argon,Gemini 4 Argon,Krug_2024,R02,relevant,fulfilled
+gemini_4_argon,Gemini 4 Argon,Krug_2024,R03,relevant,fulfilled
+gemini_4_argon,Gemini 4 Argon,Krug_2024,R04,relevant,not_fulfilled
+gemini_4_argon,Gemini 4 Argon,Krug_2024,R10,relevant,fulfilled
+gemini_4_argon,Gemini 4 Argon,Krug_2024,R11,relevant,not_fulfilled
+gemini_4_argon,Gemini 4 Argon,Krug_2024,R12,relevant,
+gemini_4_argon,Gemini 4 Argon,Krug_2024,R14,relevant,fulfilled
+gemini_4_argon,Gemini 4 Argon,Krug_2024,R15,relevant,fulfilled
+gemini_4_argon,Gemini 4 Argon,Krug_2024,R17,relevant,fulfilled
+gemini_4_argon,Gemini 4 Argon,Krug_2024,R19,relevant,fulfilled
+gemini_4_argon,Gemini 4 Argon,Krug_2024,R22,not_relevant,
+gemini_4_argon,Gemini 4 Argon,Krug_2024,R23,relevant,not_fulfilled
+gemini_4_argon,Gemini 4 Argon,Krug_2024,R24,relevant,
+gemini_4_argon,Gemini 4 Argon,Miethke_2024,R02,relevant,fulfilled
+gemini_4_argon,Gemini 4 Argon,Miethke_2024,R03,relevant,fulfilled
+gemini_4_argon,Gemini 4 Argon,Miethke_2024,R04,relevant,not_fulfilled
+gemini_4_argon,Gemini 4 Argon,Miethke_2024,R10,relevant,not_fulfilled
+gemini_4_argon,Gemini 4 Argon,Miethke_2024,R11,relevant,fulfilled
+gemini_4_argon,Gemini 4 Argon,Miethke_2024,R12,relevant,fulfilled
+gemini_4_argon,Gemini 4 Argon,Miethke_2024,R14,relevant,fulfilled
+gemini_4_argon,Gemini 4 Argon,Miethke_2024,R15,relevant,fulfilled
+gemini_4_argon,Gemini 4 Argon,Miethke_2024,R17,relevant,fulfilled
+gemini_4_argon,Gemini 4 Argon,Miethke_2024,R19,relevant,not_fulfilled
+gemini_4_argon,Gemini 4 Argon,Miethke_2024,R22,not_relevant,
+gemini_4_argon,Gemini 4 Argon,Miethke_2024,R23,not_relevant,
+gemini_4_argon,Gemini 4 Argon,Miethke_2024,R24,not_relevant,
+gemini_4_argon,Gemini 4 Argon,Pfizer_2024,R02,relevant,fulfilled
+gemini_4_argon,Gemini 4 Argon,Pfizer_2024,R03,relevant,fulfilled
+gemini_4_argon,Gemini 4 Argon,Pfizer_2024,R04,relevant,fulfilled
+gemini_4_argon,Gemini 4 Argon,Pfizer_2024,R10,relevant,fulfilled
+gemini_4_argon,Gemini 4 Argon,Pfizer_2024,R11,relevant,not_fulfilled
+gemini_4_argon,Gemini 4 Argon,Pfizer_2024,R12,relevant,fulfilled
+gemini_4_argon,Gemini 4 Argon,Pfizer_2024,R14,relevant,fulfilled
+gemini_4_argon,Gemini 4 Argon,Pfizer_2024,R15,relevant,fulfilled
+gemini_4_argon,Gemini 4 Argon,Pfizer_2024,R17,relevant,fulfilled
+gemini_4_argon,Gemini 4 Argon,Pfizer_2024,R19,relevant,fulfilled
+gemini_4_argon,Gemini 4 Argon,Pfizer_2024,R22,relevant,fulfilled
+gemini_4_argon,Gemini 4 Argon,Pfizer_2024,R23,not_relevant,
+gemini_4_argon,Gemini 4 Argon,Pfizer_2024,R24,not_relevant,
+gemini_4_argon,Gemini 4 Argon,Schrott_2024,R02,relevant,fulfilled
+gemini_4_argon,Gemini 4 Argon,Schrott_2024,R03,relevant,fulfilled
+gemini_4_argon,Gemini 4 Argon,Schrott_2024,R04,relevant,fulfilled
+gemini_4_argon,Gemini 4 Argon,Schrott_2024,R10,relevant,not_fulfilled
+gemini_4_argon,Gemini 4 Argon,Schrott_2024,R11,relevant,fulfilled
+gemini_4_argon,Gemini 4 Argon,Schrott_2024,R12,not_relevant,
+gemini_4_argon,Gemini 4 Argon,Schrott_2024,R14,relevant,fulfilled
+gemini_4_argon,Gemini 4 Argon,Schrott_2024,R15,relevant,not_fulfilled
+gemini_4_argon,Gemini 4 Argon,Schrott_2024,R17,relevant,not_fulfilled
+gemini_4_argon,Gemini 4 Argon,Schrott_2024,R19,relevant,fulfilled
+gemini_4_argon,Gemini 4 Argon,Schrott_2024,R22,not_relevant,
+gemini_4_argon,Gemini 4 Argon,Schrott_2024,R23,not_relevant,
+gemini_4_argon,Gemini 4 Argon,Schrott_2024,R24,not_relevant,
+gemini_4_argon,Gemini 4 Argon,Tennet_TSO_2024,R02,relevant,fulfilled
+gemini_4_argon,Gemini 4 Argon,Tennet_TSO_2024,R03,relevant,fulfilled
+gemini_4_argon,Gemini 4 Argon,Tennet_TSO_2024,R04,relevant,fulfilled
+gemini_4_argon,Gemini 4 Argon,Tennet_TSO_2024,R10,relevant,not_fulfilled
+gemini_4_argon,Gemini 4 Argon,Tennet_TSO_2024,R11,relevant,fulfilled
+gemini_4_argon,Gemini 4 Argon,Tennet_TSO_2024,R12,relevant,
+gemini_4_argon,Gemini 4 Argon,Tennet_TSO_2024,R14,relevant,fulfilled
+gemini_4_argon,Gemini 4 Argon,Tennet_TSO_2024,R15,relevant,fulfilled
+gemini_4_argon,Gemini 4 Argon,Tennet_TSO_2024,R17,relevant,fulfilled
+gemini_4_argon,Gemini 4 Argon,Tennet_TSO_2024,R19,relevant,fulfilled
+gemini_4_argon,Gemini 4 Argon,Tennet_TSO_2024,R22,relevant,fulfilled
+gemini_4_argon,Gemini 4 Argon,Tennet_TSO_2024,R23,not_relevant,
+gemini_4_argon,Gemini 4 Argon,Tennet_TSO_2024,R24,not_relevant,
+gemini_4_argon,Gemini 4 Argon,WN24_2024,R02,relevant,fulfilled
+gemini_4_argon,Gemini 4 Argon,WN24_2024,R03,relevant,fulfilled
+gemini_4_argon,Gemini 4 Argon,WN24_2024,R04,relevant,fulfilled
+gemini_4_argon,Gemini 4 Argon,WN24_2024,R10,relevant,fulfilled
+gemini_4_argon,Gemini 4 Argon,WN24_2024,R11,relevant,fulfilled
+gemini_4_argon,Gemini 4 Argon,WN24_2024,R12,relevant,
+gemini_4_argon,Gemini 4 Argon,WN24_2024,R14,relevant,fulfilled
+gemini_4_argon,Gemini 4 Argon,WN24_2024,R15,relevant,fulfilled
+gemini_4_argon,Gemini 4 Argon,WN24_2024,R17,relevant,not_fulfilled
+gemini_4_argon,Gemini 4 Argon,WN24_2024,R19,relevant,fulfilled
+gemini_4_argon,Gemini 4 Argon,WN24_2024,R22,not_relevant,
+gemini_4_argon,Gemini 4 Argon,WN24_2024,R23,relevant,
+gemini_4_argon,Gemini 4 Argon,WN24_2024,R24,not_relevant,
+gemini_4_argon,Gemini 4 Argon,Wajos_2024,R02,relevant,not_fulfilled
+gemini_4_argon,Gemini 4 Argon,Wajos_2024,R03,relevant,not_fulfilled
+gemini_4_argon,Gemini 4 Argon,Wajos_2024,R04,relevant,not_fulfilled
+gemini_4_argon,Gemini 4 Argon,Wajos_2024,R10,relevant,fulfilled
+gemini_4_argon,Gemini 4 Argon,Wajos_2024,R11,relevant,not_fulfilled
+gemini_4_argon,Gemini 4 Argon,Wajos_2024,R12,relevant,fulfilled
+gemini_4_argon,Gemini 4 Argon,Wajos_2024,R14,relevant,fulfilled
+gemini_4_argon,Gemini 4 Argon,Wajos_2024,R15,relevant,fulfilled
+gemini_4_argon,Gemini 4 Argon,Wajos_2024,R17,relevant,not_fulfilled
+gemini_4_argon,Gemini 4 Argon,Wajos_2024,R19,relevant,fulfilled
+gemini_4_argon,Gemini 4 Argon,Wajos_2024,R22,not_relevant,
+gemini_4_argon,Gemini 4 Argon,Wajos_2024,R23,not_relevant,
+gemini_4_argon,Gemini 4 Argon,Wajos_2024,R24,not_relevant,
+gemini_4_argon,Gemini 4 Argon,Yaveon_2024,R02,relevant,fulfilled
+gemini_4_argon,Gemini 4 Argon,Yaveon_2024,R03,relevant,fulfilled
+gemini_4_argon,Gemini 4 Argon,Yaveon_2024,R04,relevant,fulfilled
+gemini_4_argon,Gemini 4 Argon,Yaveon_2024,R10,relevant,not_fulfilled
+gemini_4_argon,Gemini 4 Argon,Yaveon_2024,R11,relevant,not_fulfilled
+gemini_4_argon,Gemini 4 Argon,Yaveon_2024,R12,relevant,fulfilled
+gemini_4_argon,Gemini 4 Argon,Yaveon_2024,R14,relevant,fulfilled
+gemini_4_argon,Gemini 4 Argon,Yaveon_2024,R15,relevant,fulfilled
+gemini_4_argon,Gemini 4 Argon,Yaveon_2024,R17,relevant,fulfilled
+gemini_4_argon,Gemini 4 Argon,Yaveon_2024,R19,relevant,fulfilled
+gemini_4_argon,Gemini 4 Argon,Yaveon_2024,R22,not_relevant,
+gemini_4_argon,Gemini 4 Argon,Yaveon_2024,R23,not_relevant,
+gemini_4_argon,Gemini 4 Argon,Yaveon_2024,R24,not_relevant,
+gemini_4_argon,Gemini 4 Argon,Zollern_2024,R02,relevant,fulfilled
+gemini_4_argon,Gemini 4 Argon,Zollern_2024,R03,relevant,fulfilled
+gemini_4_argon,Gemini 4 Argon,Zollern_2024,R04,relevant,fulfilled
+gemini_4_argon,Gemini 4 Argon,Zollern_2024,R10,relevant,fulfilled
+gemini_4_argon,Gemini 4 Argon,Zollern_2024,R11,relevant,fulfilled
+gemini_4_argon,Gemini 4 Argon,Zollern_2024,R12,relevant,
+gemini_4_argon,Gemini 4 Argon,Zollern_2024,R14,relevant,fulfilled
+gemini_4_argon,Gemini 4 Argon,Zollern_2024,R15,relevant,fulfilled
+gemini_4_argon,Gemini 4 Argon,Zollern_2024,R17,relevant,fulfilled
+gemini_4_argon,Gemini 4 Argon,Zollern_2024,R19,relevant,fulfilled
+gemini_4_argon,Gemini 4 Argon,Zollern_2024,R22,relevant,
+gemini_4_argon,Gemini 4 Argon,Zollern_2024,R23,not_relevant,
+gemini_4_argon,Gemini 4 Argon,Zollern_2024,R24,relevant,fulfilled
+kimi_k3,Kimi K3,Amazon_2024,R02,relevant,fulfilled
+kimi_k3,Kimi K3,Amazon_2024,R03,relevant,fulfilled
+kimi_k3,Kimi K3,Amazon_2024,R04,relevant,fulfilled
+kimi_k3,Kimi K3,Amazon_2024,R10,relevant,not_fulfilled
+kimi_k3,Kimi K3,Amazon_2024,R11,relevant,fulfilled
+kimi_k3,Kimi K3,Amazon_2024,R12,relevant,
+kimi_k3,Kimi K3,Amazon_2024,R14,relevant,fulfilled
+kimi_k3,Kimi K3,Amazon_2024,R15,relevant,fulfilled
+kimi_k3,Kimi K3,Amazon_2024,R17,relevant,fulfilled
+kimi_k3,Kimi K3,Amazon_2024,R19,relevant,fulfilled
+kimi_k3,Kimi K3,Amazon_2024,R22,relevant,
+kimi_k3,Kimi K3,Amazon_2024,R23,not_relevant,not_fulfilled
+kimi_k3,Kimi K3,Amazon_2024,R24,not_relevant,
+kimi_k3,Kimi K3,BoschMS_2024,R02,relevant,fulfilled
+kimi_k3,Kimi K3,BoschMS_2024,R03,relevant,fulfilled
+kimi_k3,Kimi K3,BoschMS_2024,R04,relevant,fulfilled
+kimi_k3,Kimi K3,BoschMS_2024,R10,relevant,not_fulfilled
+kimi_k3,Kimi K3,BoschMS_2024,R11,relevant,fulfilled
+kimi_k3,Kimi K3,BoschMS_2024,R12,relevant,
+kimi_k3,Kimi K3,BoschMS_2024,R14,relevant,fulfilled
+kimi_k3,Kimi K3,BoschMS_2024,R15,relevant,not_fulfilled
+kimi_k3,Kimi K3,BoschMS_2024,R17,relevant,fulfilled
+kimi_k3,Kimi K3,BoschMS_2024,R19,relevant,fulfilled
+kimi_k3,Kimi K3,BoschMS_2024,R22,not_relevant,
+kimi_k3,Kimi K3,BoschMS_2024,R23,not_relevant,
+kimi_k3,Kimi K3,BoschMS_2024,R24,not_relevant,
+kimi_k3,Kimi K3,HTG_2024,R02,relevant,fulfilled
+kimi_k3,Kimi K3,HTG_2024,R03,relevant,fulfilled
+kimi_k3,Kimi K3,HTG_2024,R04,relevant,fulfilled
+kimi_k3,Kimi K3,HTG_2024,R10,relevant,fulfilled
+kimi_k3,Kimi K3,HTG_2024,R11,relevant,fulfilled
+kimi_k3,Kimi K3,HTG_2024,R12,relevant,
+kimi_k3,Kimi K3,HTG_2024,R14,relevant,fulfilled
+kimi_k3,Kimi K3,HTG_2024,R15,relevant,fulfilled
+kimi_k3,Kimi K3,HTG_2024,R17,relevant,fulfilled
+kimi_k3,Kimi K3,HTG_2024,R19,relevant,fulfilled
+kimi_k3,Kimi K3,HTG_2024,R22,relevant,fulfilled
+kimi_k3,Kimi K3,HTG_2024,R23,not_relevant,
+kimi_k3,Kimi K3,HTG_2024,R24,not_relevant,
+kimi_k3,Kimi K3,Hoberg_2024,R02,relevant,fulfilled
+kimi_k3,Kimi K3,Hoberg_2024,R03,relevant,fulfilled
+kimi_k3,Kimi K3,Hoberg_2024,R04,relevant,fulfilled
+kimi_k3,Kimi K3,Hoberg_2024,R10,relevant,fulfilled
+kimi_k3,Kimi K3,Hoberg_2024,R11,relevant,fulfilled
+kimi_k3,Kimi K3,Hoberg_2024,R12,relevant,fulfilled
+kimi_k3,Kimi K3,Hoberg_2024,R14,relevant,fulfilled
+kimi_k3,Kimi K3,Hoberg_2024,R15,relevant,fulfilled
+kimi_k3,Kimi K3,Hoberg_2024,R17,relevant,fulfilled
+kimi_k3,Kimi K3,Hoberg_2024,R19,relevant,fulfilled
+kimi_k3,Kimi K3,Hoberg_2024,R22,relevant,not_fulfilled
+kimi_k3,Kimi K3,Hoberg_2024,R23,relevant,fulfilled
+kimi_k3,Kimi K3,Hoberg_2024,R24,relevant,fulfilled
+kimi_k3,Kimi K3,Johnson_2025,R02,relevant,fulfilled
+kimi_k3,Kimi K3,Johnson_2025,R03,relevant,fulfilled
+kimi_k3,Kimi K3,Johnson_2025,R04,relevant,fulfilled
+kimi_k3,Kimi K3,Johnson_2025,R10,relevant,not_fulfilled
+kimi_k3,Kimi K3,Johnson_2025,R11,relevant,fulfilled
+kimi_k3,Kimi K3,Johnson_2025,R12,relevant,
+kimi_k3,Kimi K3,Johnson_2025,R14,relevant,fulfilled
+kimi_k3,Kimi K3,Johnson_2025,R15,relevant,fulfilled
+kimi_k3,Kimi K3,Johnson_2025,R17,relevant,fulfilled
+kimi_k3,Kimi K3,Johnson_2025,R19,relevant,fulfilled
+kimi_k3,Kimi K3,Johnson_2025,R22,relevant,
+kimi_k3,Kimi K3,Johnson_2025,R23,not_relevant,
+kimi_k3,Kimi K3,Johnson_2025,R24,not_relevant,
+kimi_k3,Kimi K3,Krug_2024,R02,relevant,fulfilled
+kimi_k3,Kimi K3,Krug_2024,R03,relevant,fulfilled
+kimi_k3,Kimi K3,Krug_2024,R04,relevant,not_fulfilled
+kimi_k3,Kimi K3,Krug_2024,R10,relevant,fulfilled
+kimi_k3,Kimi K3,Krug_2024,R11,relevant,not_fulfilled
+kimi_k3,Kimi K3,Krug_2024,R12,relevant,
+kimi_k3,Kimi K3,Krug_2024,R14,relevant,fulfilled
+kimi_k3,Kimi K3,Krug_2024,R15,relevant,fulfilled
+kimi_k3,Kimi K3,Krug_2024,R17,relevant,fulfilled
+kimi_k3,Kimi K3,Krug_2024,R19,relevant,fulfilled
+kimi_k3,Kimi K3,Krug_2024,R22,relevant,
+kimi_k3,Kimi K3,Krug_2024,R23,relevant,fulfilled
+kimi_k3,Kimi K3,Krug_2024,R24,not_relevant,
+kimi_k3,Kimi K3,Miethke_2024,R02,relevant,fulfilled
+kimi_k3,Kimi K3,Miethke_2024,R03,relevant,fulfilled
+kimi_k3,Kimi K3,Miethke_2024,R04,relevant,fulfilled
+kimi_k3,Kimi K3,Miethke_2024,R10,relevant,not_fulfilled
+kimi_k3,Kimi K3,Miethke_2024,R11,relevant,fulfilled
+kimi_k3,Kimi K3,Miethke_2024,R12,relevant,fulfilled
+kimi_k3,Kimi K3,Miethke_2024,R14,relevant,fulfilled
+kimi_k3,Kimi K3,Miethke_2024,R15,relevant,fulfilled
+kimi_k3,Kimi K3,Miethke_2024,R17,relevant,fulfilled
+kimi_k3,Kimi K3,Miethke_2024,R19,relevant,not_fulfilled
+kimi_k3,Kimi K3,Miethke_2024,R22,relevant,
+kimi_k3,Kimi K3,Miethke_2024,R23,not_relevant,
+kimi_k3,Kimi K3,Miethke_2024,R24,not_relevant,
+kimi_k3,Kimi K3,Pfizer_2024,R02,relevant,fulfilled
+kimi_k3,Kimi K3,Pfizer_2024,R03,relevant,fulfilled
+kimi_k3,Kimi K3,Pfizer_2024,R04,relevant,fulfilled
+kimi_k3,Kimi K3,Pfizer_2024,R10,relevant,fulfilled
+kimi_k3,Kimi K3,Pfizer_2024,R11,relevant,not_fulfilled
+kimi_k3,Kimi K3,Pfizer_2024,R12,relevant,fulfilled
+kimi_k3,Kimi K3,Pfizer_2024,R14,relevant,fulfilled
+kimi_k3,Kimi K3,Pfizer_2024,R15,relevant,fulfilled
+kimi_k3,Kimi K3,Pfizer_2024,R17,relevant,not_fulfilled
+kimi_k3,Kimi K3,Pfizer_2024,R19,relevant,fulfilled
+kimi_k3,Kimi K3,Pfizer_2024,R22,relevant,fulfilled
+kimi_k3,Kimi K3,Pfizer_2024,R23,not_relevant,
+kimi_k3,Kimi K3,Pfizer_2024,R24,not_relevant,
+kimi_k3,Kimi K3,Schrott_2024,R02,relevant,fulfilled
+kimi_k3,Kimi K3,Schrott_2024,R03,relevant,fulfilled
+kimi_k3,Kimi K3,Schrott_2024,R04,relevant,fulfilled
+kimi_k3,Kimi K3,Schrott_2024,R10,relevant,not_fulfilled
+kimi_k3,Kimi K3,Schrott_2024,R11,relevant,fulfilled
+kimi_k3,Kimi K3,Schrott_2024,R12,relevant,
+kimi_k3,Kimi K3,Schrott_2024,R14,relevant,fulfilled
+kimi_k3,Kimi K3,Schrott_2024,R15,relevant,fulfilled
+kimi_k3,Kimi K3,Schrott_2024,R17,relevant,fulfilled
+kimi_k3,Kimi K3,Schrott_2024,R19,relevant,fulfilled
+kimi_k3,Kimi K3,Schrott_2024,R22,relevant,
+kimi_k3,Kimi K3,Schrott_2024,R23,not_relevant,
+kimi_k3,Kimi K3,Schrott_2024,R24,not_relevant,
+kimi_k3,Kimi K3,Tennet_TSO_2024,R02,relevant,fulfilled
+kimi_k3,Kimi K3,Tennet_TSO_2024,R03,relevant,fulfilled
+kimi_k3,Kimi K3,Tennet_TSO_2024,R04,relevant,fulfilled
+kimi_k3,Kimi K3,Tennet_TSO_2024,R10,relevant,not_fulfilled
+kimi_k3,Kimi K3,Tennet_TSO_2024,R11,relevant,fulfilled
+kimi_k3,Kimi K3,Tennet_TSO_2024,R12,relevant,
+kimi_k3,Kimi K3,Tennet_TSO_2024,R14,relevant,fulfilled
+kimi_k3,Kimi K3,Tennet_TSO_2024,R15,relevant,fulfilled
+kimi_k3,Kimi K3,Tennet_TSO_2024,R17,relevant,fulfilled
+kimi_k3,Kimi K3,Tennet_TSO_2024,R19,relevant,fulfilled
+kimi_k3,Kimi K3,Tennet_TSO_2024,R22,relevant,fulfilled
+kimi_k3,Kimi K3,Tennet_TSO_2024,R23,not_relevant,
+kimi_k3,Kimi K3,Tennet_TSO_2024,R24,not_relevant,
+kimi_k3,Kimi K3,WN24_2024,R02,relevant,fulfilled
+kimi_k3,Kimi K3,WN24_2024,R03,relevant,fulfilled
+kimi_k3,Kimi K3,WN24_2024,R04,relevant,fulfilled
+kimi_k3,Kimi K3,WN24_2024,R10,relevant,fulfilled
+kimi_k3,Kimi K3,WN24_2024,R11,relevant,fulfilled
+kimi_k3,Kimi K3,WN24_2024,R12,relevant,
+kimi_k3,Kimi K3,WN24_2024,R14,relevant,fulfilled
+kimi_k3,Kimi K3,WN24_2024,R15,relevant,fulfilled
+kimi_k3,Kimi K3,WN24_2024,R17,relevant,not_fulfilled
+kimi_k3,Kimi K3,WN24_2024,R19,relevant,not_fulfilled
+kimi_k3,Kimi K3,WN24_2024,R22,not_relevant,
+kimi_k3,Kimi K3,WN24_2024,R23,relevant,
+kimi_k3,Kimi K3,WN24_2024,R24,not_relevant,
+kimi_k3,Kimi K3,Wajos_2024,R02,relevant,not_fulfilled
+kimi_k3,Kimi K3,Wajos_2024,R03,relevant,not_fulfilled
+kimi_k3,Kimi K3,Wajos_2024,R04,relevant,not_fulfilled
+kimi_k3,Kimi K3,Wajos_2024,R10,relevant,fulfilled
+kimi_k3,Kimi K3,Wajos_2024,R11,relevant,fulfilled
+kimi_k3,Kimi K3,Wajos_2024,R12,relevant,fulfilled
+kimi_k3,Kimi K3,Wajos_2024,R14,relevant,fulfilled
+kimi_k3,Kimi K3,Wajos_2024,R15,relevant,fulfilled
+kimi_k3,Kimi K3,Wajos_2024,R17,relevant,fulfilled
+kimi_k3,Kimi K3,Wajos_2024,R19,relevant,fulfilled
+kimi_k3,Kimi K3,Wajos_2024,R22,relevant,
+kimi_k3,Kimi K3,Wajos_2024,R23,not_relevant,
+kimi_k3,Kimi K3,Wajos_2024,R24,not_relevant,
+kimi_k3,Kimi K3,Yaveon_2024,R02,relevant,fulfilled
+kimi_k3,Kimi K3,Yaveon_2024,R03,relevant,not_fulfilled
+kimi_k3,Kimi K3,Yaveon_2024,R04,relevant,fulfilled
+kimi_k3,Kimi K3,Yaveon_2024,R10,relevant,not_fulfilled
+kimi_k3,Kimi K3,Yaveon_2024,R11,relevant,not_fulfilled
+kimi_k3,Kimi K3,Yaveon_2024,R12,relevant,fulfilled
+kimi_k3,Kimi K3,Yaveon_2024,R14,relevant,fulfilled
+kimi_k3,Kimi K3,Yaveon_2024,R15,relevant,fulfilled
+kimi_k3,Kimi K3,Yaveon_2024,R17,relevant,fulfilled
+kimi_k3,Kimi K3,Yaveon_2024,R19,relevant,fulfilled
+kimi_k3,Kimi K3,Yaveon_2024,R22,relevant,
+kimi_k3,Kimi K3,Yaveon_2024,R23,not_relevant,
+kimi_k3,Kimi K3,Yaveon_2024,R24,not_relevant,
+kimi_k3,Kimi K3,Zollern_2024,R02,relevant,fulfilled
+kimi_k3,Kimi K3,Zollern_2024,R03,relevant,fulfilled
+kimi_k3,Kimi K3,Zollern_2024,R04,relevant,fulfilled
+kimi_k3,Kimi K3,Zollern_2024,R10,relevant,fulfilled
+kimi_k3,Kimi K3,Zollern_2024,R11,relevant,fulfilled
+kimi_k3,Kimi K3,Zollern_2024,R12,relevant,
+kimi_k3,Kimi K3,Zollern_2024,R14,relevant,fulfilled
+kimi_k3,Kimi K3,Zollern_2024,R15,relevant,fulfilled
+kimi_k3,Kimi K3,Zollern_2024,R17,relevant,fulfilled
+kimi_k3,Kimi K3,Zollern_2024,R19,relevant,fulfilled
+kimi_k3,Kimi K3,Zollern_2024,R22,not_relevant,
+kimi_k3,Kimi K3,Zollern_2024,R23,not_relevant,
+kimi_k3,Kimi K3,Zollern_2024,R24,relevant,fulfilled

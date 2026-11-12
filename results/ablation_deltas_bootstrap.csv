@@ -1,0 +1,4 @@
+oracle_config,isolates,vs,delta,ci_lo,ci_hi,significant
+oracle_rel,relevance,full,0.0,0.0,0.0,no
+oracle_retr,retrieval,full,0.0214,-0.0571,0.1,no
+oracle_rel_retr,relevance+retrieval,full,0.0214,-0.0571,0.1,no

@@ -1,0 +1,4 @@
+arm,vs,n,delta,ci_lo,ci_hi,significant
+k1_rank,k5_rank,140,-0.1571,-0.2429,-0.0714,yes
+k5_doc,k5_rank,140,0.0214,-0.05,0.0857,no
+k5_relevancelast,k5_rank,140,0.0214,-0.0286,0.0714,no

@@ -1,0 +1,19 @@
+\begin{table}[htbp]
+  \centering
+  \caption{Predicted@5 vs.\ oracle evidence for Stage-3 (3-class GT, pre-relabel).}
+  \label{tab:fulfillment-retrieval}
+  \begin{tabular}{llrrrrc}
+    \toprule
+    Model & Context & Acc. pred. & Acc. oracle & $\Delta$ pred$-$oracle & 95\% CI & Sig. \\
+    \midrule
+    Claude Opus 4.8 & statute\_only & 0.582 & 0.468 & 0.114 & [0.028, 0.199] & yes \\
+    Claude Opus 4.8 & web\_enriched & 0.532 & 0.461 & 0.071 & [-0.028, 0.163] & no \\
+    Gemini 3.1 Pro & statute\_only & 0.645 & 0.596 & 0.050 & [-0.021, 0.121] & no \\
+    Gemini 3.1 Pro & web\_enriched & 0.525 & 0.482 & 0.043 & [-0.043, 0.128] & no \\
+    Qwen 3.7 Max & statute\_only & 0.667 & 0.624 & 0.043 & [-0.050, 0.128] & no \\
+    Qwen 3.7 Max & web\_enriched & 0.610 & 0.532 & 0.078 & [-0.007, 0.170] & no \\
+    MiMo v2.5 Pro & statute\_only & 0.425 & 0.340 & 0.085 & [0.000, 0.177] & no \\
+    MiMo v2.5 Pro & web\_enriched & 0.383 & 0.397 & -0.014 & [-0.099, 0.071] & no \\
+    \bottomrule
+  \end{tabular}
+\end{table}

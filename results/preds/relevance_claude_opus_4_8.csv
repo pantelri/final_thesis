@@ -1,0 +1,183 @@
+company_id,obligation_id,pred_label,gt_label,correct,reason
+Amazon_2024,R02,relevant,relevant,1,Lagebericht enthält Prognosebericht (Ausblick 2025); Prognosezeitraum ist anzugeben.
+Amazon_2024,R03,relevant,relevant,1,Prognosebericht vorhanden; wesentliche Annahmen sind darzustellen.
+Amazon_2024,R04,relevant,relevant,1,Im Wirtschaftsbericht werden Leistungsindikatoren verwendet; Prognoseaussagen dazu sind einschlägig.
+Amazon_2024,R10,relevant,relevant,1,Risiko- und Chancenbericht vorhanden; Bedeutung/Kategorisierung ist darzustellen.
+Amazon_2024,R11,relevant,relevant,1,Risiko- und Chancenbericht vorhanden; Gesamtaussage zur Lage erforderlich.
+Amazon_2024,R12,relevant,unclear,0,"Gesellschaft hält Finanzinstrumente (Forderungen, Verbindlichkeiten, Cash-Pool); Ausfall-/Liquiditäts-/Währungsrisiken werden thematisiert."
+Amazon_2024,R14,relevant,relevant,1,Lagebericht aufzustellen; Analyse der Ertragslage einschlägig.
+Amazon_2024,R15,relevant,relevant,1,Lagebericht aufzustellen; Analyse der Finanzlage einschlägig.
+Amazon_2024,R17,relevant,relevant,1,"Lagebericht aufzustellen; finanzielle Leistungsindikatoren (EK-Quote, EK-Rentabilität) werden dargestellt."
+Amazon_2024,R19,relevant,relevant,1,Anlagevermögen > 0 (Sachanlagen TEUR 114.962); Anlagenspiegel erforderlich und vorhanden.
+Amazon_2024,R22,relevant,unclear,0,"Geschäftsführer vorhanden; Angabe der Gesamtbezüge grundsätzlich einschlägig, Schutzklausel § 286 Abs. 4 HGB ggf. beachten."
+Amazon_2024,R23,not_relevant,relevant,0,Kein Geschäfts- oder Firmenwert in der Bilanz aktiviert.
+Amazon_2024,R24,not_relevant,not_relevant,1,Keine latenten Steuern bilanziert; Aktivierungswahlrecht nach § 274 Abs. 1 S. 2 HGB nicht genutzt.
+BoschMS_2024,R02,relevant,relevant,1,Prognosebericht vorhanden mit Aussagen zu 2025/2026; Angabe des Prognosezeitraums einschlägig.
+BoschMS_2024,R03,relevant,relevant,1,"Prognosebericht vorhanden; Darstellung der zugrunde liegenden Annahmen (Auftragseingang, Bosch-Gruppe-Entwicklung) einschlägig."
+BoschMS_2024,R04,relevant,relevant,1,"Bedeutsamste Leistungsindikatoren (Beratertage, Umsatz, Ergebnis) werden prognostiziert; einschlägig."
+BoschMS_2024,R10,relevant,relevant,1,Chancen- und Risikobericht vorhanden; Darstellung der Bedeutung der Risiken/Chancen einschlägig.
+BoschMS_2024,R11,relevant,relevant,1,Risiko- und Chancenbericht vorhanden; zusammenfassende Gesamtaussage einschlägig.
+BoschMS_2024,R12,relevant,not_relevant,0,"Gesellschaft nutzt Cash-Pool/Inhouse-Bank mit Kreditlimit; Finanzinstrumente und Liquiditätsrisiken vorhanden, daher einschlägig."
+BoschMS_2024,R14,relevant,relevant,1,Lagebericht aufzustellen; Analyse der Ertragslage einschlägig.
+BoschMS_2024,R15,relevant,relevant,1,"Lagebericht aufzustellen; Analyse der Finanzlage (Cash-Pool, Bilanzstruktur) einschlägig."
+BoschMS_2024,R17,relevant,relevant,1,"Lagebericht aufzustellen; finanzielle Leistungsindikatoren (Umsatz, Ergebnis, Strukturkosten) werden verwendet."
+BoschMS_2024,R19,relevant,relevant,1,Anlagevermögen > 0 vorhanden; Anlagenspiegel ist als Anlage zum Anhang enthalten und einschlägig.
+BoschMS_2024,R22,relevant,not_relevant,0,"Geschäftsführer vorhanden; Angabe grundsätzlich einschlägig, auch wenn Schutzklausel § 286 Abs. 4 HGB in Anspruch genommen wird."
+BoschMS_2024,R23,not_relevant,not_relevant,1,Kein entgeltlich erworbener Geschäfts- oder Firmenwert in der Bilanz aktiviert (nur Lizenzen/CRM-Software).
+BoschMS_2024,R24,not_relevant,not_relevant,1,Keine bilanzierten latenten Steuern (aktiv oder passiv) in der Bilanz vorhanden.
+HTG_2024,R02,relevant,relevant,1,Prognosebericht (Abschnitt 4) ist vorhanden; Prognosezeitraum (Geschäftsjahr 2025) muss genannt werden.
+HTG_2024,R03,relevant,relevant,1,Prognosebericht vorhanden; wesentliche Annahmen der Prognose sind anzugeben.
+HTG_2024,R04,relevant,relevant,1,"Bedeutsamste Leistungsindikatoren (Buchungserlöse, Umsatzerlöse) werden intern verwendet; Prognoseaussagen dazu erforderlich."
+HTG_2024,R10,relevant,relevant,1,Risiko- und Chancenbericht vorhanden; Bedeutung/Kategorisierung der Risiken und Chancen darzustellen.
+HTG_2024,R11,relevant,relevant,1,Risiko- und Chancenbericht vorhanden; zusammenfassende Gesamtaussage erforderlich (Bestandsgefährdung verneint).
+HTG_2024,R12,relevant,unclear,0,"Gesellschaft setzt Finanzinstrumente ein (Fremdwährungsrisiken, Forderungsausfall-, Liquiditätsrisiken, Call-/Put-Optionen); Finanzrisikobericht einschlägig."
+HTG_2024,R14,relevant,relevant,1,Lagebericht aufzustellen; Analyse der Ertragslage (Abschnitt 2.3 c) erforderlich.
+HTG_2024,R15,relevant,relevant,1,Lagebericht aufzustellen; Analyse der Finanzlage (Abschnitt 2.3 b mit Kapitalflussrechnung) erforderlich.
+HTG_2024,R17,relevant,relevant,1,"Bedeutsamste finanzielle Leistungsindikatoren (Buchungserlöse, Umsatzerlöse) der internen Steuerung sind einzubeziehen."
+HTG_2024,R19,relevant,relevant,1,Anlagevermögen > 0 vorhanden; Anlagenspiegel ist im Anhang enthalten und erforderlich.
+HTG_2024,R22,relevant,relevant,1,Geschäftsführung vorhanden; Gesamtbezüge (981 Tsd. Euro) sind angegeben/erforderlich.
+HTG_2024,R23,not_relevant,not_relevant,1,"Kein entgeltlich erworbener Geschäfts- oder Firmenwert in der Bilanz aktiviert; Beteiligungen unter Finanzanlagen, kein GoF-Posten."
+HTG_2024,R24,relevant,not_relevant,0,"Latente Steuern (temporäre Differenzen, Verlustvorträge, Steuersatz 30 %) werden im Anhang behandelt; Angabe einschlägig."
+Hoberg_2024,R02,relevant,relevant,1,"Prognosebericht vorhanden (Prognose-, Chancen- und Risikobericht für GJ 2025), Prognosezeitraum einschlägig."
+Hoberg_2024,R03,relevant,relevant,1,"Prognosebericht vorhanden, wesentliche Annahmen (IWF-Prognosen, Zollerhöhungen etc.) sind anzugeben."
+Hoberg_2024,R04,relevant,relevant,1,"Im Wirtschaftsbericht werden Leistungsindikatoren (Umsatz, Absatz, EBIT, Jahresfehlbetrag) verwendet; Prognosen dazu einschlägig."
+Hoberg_2024,R10,relevant,relevant,1,Risiko- und Chancenbericht vorhanden; Darstellung der Bedeutung der Risiken/Chancen einschlägig.
+Hoberg_2024,R11,relevant,relevant,1,Risiko- und Chancenbericht vorhanden; zusammenfassende Gesamtaussage einschlägig.
+Hoberg_2024,R12,relevant,relevant,1,Konzern setzt derivative Finanzinstrumente (Devisentermingeschäfte) ein; Finanzrisikobericht einschlägig.
+Hoberg_2024,R14,relevant,relevant,1,Konzernlagebericht aufzustellen; Analyse der Ertragslage einschlägig.
+Hoberg_2024,R15,relevant,relevant,1,"Konzernlagebericht aufzustellen; Analyse der Finanzlage (Kapitalstruktur, Liquidität, Investitionen) einschlägig."
+Hoberg_2024,R17,relevant,relevant,1,"Lagebericht aufzustellen; finanzielle Leistungsindikatoren (Umsatz, EBIT, Eigenkapitalquote etc.) der internen Steuerung einschlägig."
+Hoberg_2024,R19,relevant,relevant,1,Anlagevermögen > 0 vorhanden; Anlagenspiegel (hier Konzernanlagenspiegel) einschlägig.
+Hoberg_2024,R22,relevant,relevant,1,Geschäftsführung und Gesellschafterausschuss vorhanden; Gesamtbezüge anzugeben (laut Bestätigungsvermerk wurden Angaben sogar pflichtwidrig unterlassen).
+Hoberg_2024,R23,relevant,relevant,1,Entgeltlich erworbene originäre Firmenwerte (TEUR 1.570) in Bilanz aktiviert; Erläuterung der Abschreibungsdauer einschlägig.
+Hoberg_2024,R24,relevant,relevant,1,Aktive latente Steuern (TEUR 759) bilanziert; Angabe zu Differenzen und Steuersätzen einschlägig.
+Johnson_2025,R02,relevant,relevant,1,Prognosebericht (Abschnitt 6) vorhanden; Prognosezeitraum (GJ 2025/26) ist anzugeben.
+Johnson_2025,R03,relevant,relevant,1,"Prognosebericht vorhanden; wesentliche Annahmen (Kundenplanzahlen, Konjunktur) sind darzustellen."
+Johnson_2025,R04,relevant,relevant,1,"Bedeutsamster finanzieller Indikator (Umsatz, Betriebsergebnis) wird im Wirtschaftsbericht verwendet; Prognose erforderlich."
+Johnson_2025,R10,relevant,relevant,1,Risiko- und Chancenbericht (Abschnitt 5) vorhanden; Bedeutung/Kategorisierung erforderlich.
+Johnson_2025,R11,relevant,relevant,1,Risiko- und Chancenbericht vorhanden; zusammenfassende Gesamtaussage erforderlich.
+Johnson_2025,R12,relevant,not_relevant,0,"Gesellschaft nutzt Finanzinstrumente (Forderungen, Darlehen, Cashpooling); Ausfall- und Liquiditätsrisiken werden adressiert (EWB Kundeninsolvenz)."
+Johnson_2025,R14,relevant,relevant,1,Lagebericht aufzustellen (mittelgroße KapG); Analyse der Ertragslage erforderlich.
+Johnson_2025,R15,relevant,relevant,1,Lagebericht aufzustellen; Analyse der Finanzlage erforderlich.
+Johnson_2025,R17,relevant,relevant,1,Bedeutsamster finanzieller Leistungsindikator (Umsatz) wird zur Steuerung genutzt; einzubeziehen.
+Johnson_2025,R19,relevant,relevant,1,Anlagevermögen > 0 vorhanden; Anlagenspiegel ist erstellt und einschlägig.
+Johnson_2025,R22,relevant,not_relevant,0,"Geschäftsführer vorhanden; Angabepflicht grundsätzlich einschlägig, Schutzklausel § 286 Abs. 4 HGB wird in Anspruch genommen."
+Johnson_2025,R23,not_relevant,not_relevant,1,Kein entgeltlich erworbener Geschäfts- oder Firmenwert in der Bilanz aktiviert.
+Johnson_2025,R24,relevant,relevant,1,Passive latente Steuern im Vorjahr vorhanden und im GJ aufgelöst; Grundlagenangabe einschlägig.
+Krug_2024,R02,relevant,relevant,1,Prognosebericht vorhanden; Prognosezeitraum (GJ 2024/2025 sowie folgende) ist anzugeben.
+Krug_2024,R03,relevant,relevant,1,"Prognosebericht vorhanden; wesentliche Annahmen (Materialkosten, Umsatzentwicklung etc.) sind darzustellen."
+Krug_2024,R04,relevant,relevant,1,"Bedeutsamste Leistungsindikatoren (Umsatz, Auftragseingang/-bestand, Jahresergebnis) werden gesteuert, daher Prognoseaussagen hierzu erforderlich."
+Krug_2024,R10,relevant,relevant,1,Risiko- und Chancenbericht vorhanden; Bedeutung/Kategorisierung der Risiken und Chancen einschlägig.
+Krug_2024,R11,relevant,relevant,1,Risiko- und Chancenbericht vorhanden; zusammenfassende Gesamtaussage erforderlich.
+Krug_2024,R12,relevant,not_relevant,0,"Finanzinstrumente (Forderungen, Verbindlichkeiten, Guthaben) vorhanden; Risikomanagement und Risiken werden im Lagebericht thematisiert."
+Krug_2024,R14,relevant,relevant,1,Lagebericht aufzustellen; Analyse der Ertragslage einschlägig.
+Krug_2024,R15,relevant,relevant,1,Lagebericht aufzustellen; Analyse der Finanzlage einschlägig.
+Krug_2024,R17,relevant,relevant,1,"Lagebericht aufzustellen; finanzielle Leistungsindikatoren der internen Steuerung (Umsatz, Jahresergebnis) einschlägig."
+Krug_2024,R19,relevant,relevant,1,Anlagevermögen > 0; Anlagenspiegel ist erforderlich und im Anhang enthalten.
+Krug_2024,R22,relevant,not_relevant,0,"Mitglieder der Geschäftsführung vorhanden; Pflicht grundsätzlich einschlägig, Schutzklausel § 286 Abs. 4 HGB wird angewandt."
+Krug_2024,R23,relevant,relevant,1,"Entgeltlich erworbener Geschäfts- oder Firmenwert in der Bilanz aktiviert (1 EUR), Abschreibung über 15 Jahre angegeben."
+Krug_2024,R24,relevant,not_relevant,0,"Latente Steuern (aktiver Überhang, nicht aktiviert) werden ermittelt und thematisiert; Grundlagen/Steuersatz anzugeben."
+Miethke_2024,R02,relevant,relevant,1,"Prognosebericht vorhanden (Abschnitt III), Prognosezeitraum ist anzugeben."
+Miethke_2024,R03,relevant,relevant,1,Prognosebericht vorhanden; wesentliche Annahmen sind darzustellen.
+Miethke_2024,R04,relevant,relevant,1,"Im Wirtschaftsbericht werden Leistungsindikatoren (Umsatzentwicklung, -rendite) verwendet, Prognoseaussagen dazu erforderlich."
+Miethke_2024,R10,relevant,relevant,1,Chancen- und Risikobericht (Abschnitt IV) vorhanden; Bedeutung der Risiken/Chancen darzustellen.
+Miethke_2024,R11,relevant,relevant,1,Risiko- und Chancenbericht vorhanden; Gesamtaussage (vgl. Gesamtaussage II.5) erforderlich.
+Miethke_2024,R12,relevant,relevant,1,"Unternehmen verwendet Finanzinstrumente (Forderungen, Verbindlichkeiten, Bankguthaben/-kredite); Risikobericht zu Finanzinstrumenten ist einschlägig und auch enthalten."
+Miethke_2024,R14,relevant,relevant,1,Lagebericht aufzustellen (mittelgroße KapCoGes); Analyse der Ertragslage erforderlich.
+Miethke_2024,R15,relevant,relevant,1,"Lagebericht aufzustellen; Analyse der Finanzlage (Kapitalstruktur, Investitionen, Liquidität) erforderlich."
+Miethke_2024,R17,relevant,relevant,1,"Finanzielle Leistungsindikatoren (Cashflow, Umsatzrentabilität) werden verwendet; Einbeziehung erforderlich."
+Miethke_2024,R19,relevant,relevant,1,Anlagevermögen > 0 in der Bilanz; Anlagenspiegel nach § 284 Abs. 3 HGB erforderlich.
+Miethke_2024,R22,relevant,not_relevant,0,"Geschäftsführung vorhanden; Angabepflicht grundsätzlich einschlägig, Schutzklausel § 286 Abs. 4 HGB wird ausweislich Anhang in Anspruch genommen, Pflicht bleibt aber dem Grunde nach anwendbar."
+Miethke_2024,R23,not_relevant,not_relevant,1,Kein entgeltlich erworbener Geschäfts- oder Firmenwert in der Bilanz aktiviert.
+Miethke_2024,R24,not_relevant,not_relevant,1,Keine latenten Steuern bilanziert; als Personenhandelsgesellschaft (KG) zudem keine eigene Ertragsteuerlatenz auf Gesellschaftsebene erkennbar.
+Pfizer_2024,R02,relevant,relevant,1,Prognosebericht (Abschnitt IV) vorhanden; Angabe des Prognosezeitraums (GJ 2024/2025) einschlägig.
+Pfizer_2024,R03,relevant,relevant,1,Prognosebericht vorhanden; Darstellung der wesentlichen Annahmen der Prognose anwendbar.
+Pfizer_2024,R04,relevant,relevant,1,Produktumsatz ist erklärte interne Steuerungsgröße; Prognoseaussage hierzu erforderlich.
+Pfizer_2024,R10,relevant,relevant,1,Risiko- und Chancenbericht (Abschnitt III) vorhanden; Darstellung der Bedeutung der Risiken/Chancen einschlägig.
+Pfizer_2024,R11,relevant,relevant,1,Risiko- und Chancenbericht vorhanden; zusammenfassende Gesamtaussage anwendbar.
+Pfizer_2024,R12,relevant,relevant,1,"Verwendung von Finanzinstrumenten (Devisenterminkontrakte, Cashpool) mit Bedeutung für die Lage; Finanzrisikobericht einschlägig."
+Pfizer_2024,R14,relevant,relevant,1,Lagebericht aufzustellen; Analyse der Ertragslage erforderlich.
+Pfizer_2024,R15,relevant,relevant,1,Lagebericht aufzustellen; Analyse der Finanzlage erforderlich.
+Pfizer_2024,R17,relevant,relevant,1,Produktumsatz als bedeutsamster finanzieller Leistungsindikator der internen Steuerung; Einbeziehung erforderlich.
+Pfizer_2024,R19,relevant,relevant,1,Anlagevermögen vorhanden; Anlagenspiegel beigefügt und einschlägig.
+Pfizer_2024,R22,relevant,relevant,1,Geschäftsführung und Aufsichtsrat vorhanden; Gesamtbezüge angegeben (§ 285 Nr. 9a HGB); Schutzklausel § 286 Abs. 4 HGB für früheres Mitglied genutzt.
+Pfizer_2024,R23,not_relevant,not_relevant,1,"Geschäfts- oder Firmenwert im Anlagenspiegel vollständig abgeschrieben (Buchwert 0,00 EUR); keine aktivierte GoF-Position mehr."
+Pfizer_2024,R24,not_relevant,not_relevant,1,"Keine latenten Steuern bilanziert, da temporäre Differenzen sich aufgrund Organschaft auf Ebene der Pfizer Deutschland GmbH auswirken."
+Schrott_2024,R02,relevant,relevant,1,Prognosebericht für 2025 vorhanden; Prognosezeitraum ist anzugeben.
+Schrott_2024,R03,relevant,relevant,1,Prognosebericht vorhanden; wesentliche Annahmen sind darzulegen.
+Schrott_2024,R04,relevant,relevant,1,Prognosebericht vorhanden; Prognosen zu bedeutsamsten Leistungsindikatoren (z.B. Betriebsergebnis) erforderlich.
+Schrott_2024,R10,relevant,relevant,1,Risiko- und Chancenbericht vorhanden; Bedeutung/Kategorisierung darzustellen.
+Schrott_2024,R11,relevant,relevant,1,Risiko- und Chancenbericht vorhanden; Gesamtaussage erforderlich.
+Schrott_2024,R12,relevant,not_relevant,0,"Unternehmen verwendet Finanzinstrumente (Kreditverbindlichkeiten, Forderungen); Liquiditäts-, Zins- und Preisrisiken im Lagebericht thematisiert."
+Schrott_2024,R14,relevant,relevant,1,Lagebericht aufzustellen; Analyse der Ertragslage erforderlich.
+Schrott_2024,R15,relevant,relevant,1,Lagebericht aufzustellen; Analyse der Finanzlage (inkl. Cashflow) erforderlich.
+Schrott_2024,R17,relevant,relevant,1,Lagebericht aufzustellen; finanzielle Leistungsindikatoren einzubeziehen.
+Schrott_2024,R19,relevant,relevant,1,Anlagevermögen > 0 vorhanden; Anlagenspiegel erforderlich und auch erstellt.
+Schrott_2024,R22,relevant,not_relevant,0,"Geschäftsführer vorhanden; Angabepflicht grundsätzlich einschlägig, Schutzklausel § 286 Abs. 4 HGB greift hier aber."
+Schrott_2024,R23,not_relevant,not_relevant,1,Kein entgeltlich erworbener Geschäfts- oder Firmenwert in der Bilanz aktiviert.
+Schrott_2024,R24,not_relevant,not_relevant,1,Keine latenten Steuern in der Bilanz ausgewiesen.
+Tennet_TSO_2024,R02,relevant,relevant,1,Prognosebericht vorhanden (Abschnitt 4); Prognosezeitraum 2025 ist anzugeben.
+Tennet_TSO_2024,R03,relevant,relevant,1,Prognosebericht vorhanden; wesentliche Annahmen der Prognosen sind darzulegen.
+Tennet_TSO_2024,R04,relevant,relevant,1,"Bedeutsamste Leistungsindikatoren (Betriebsergebnis, ASIDI, Investitionen, TRIR) werden verwendet und prognostiziert."
+Tennet_TSO_2024,R10,relevant,relevant,1,Umfangreicher Risiko-/Chancenbericht vorhanden; Darstellung der Bedeutung einschlägig.
+Tennet_TSO_2024,R11,relevant,relevant,1,Risiko-/Chancenbericht vorhanden; zusammenfassende Gesamtaussage erforderlich.
+Tennet_TSO_2024,R12,relevant,not_relevant,0,"Unternehmen nutzt Finanzinstrumente (Cash-Pooling, Forderungen, Zins-/Liquiditäts-/Ausfallrisiken); Finanzrisikobericht einschlägig."
+Tennet_TSO_2024,R14,relevant,relevant,1,Lagebericht aufzustellen; Analyse der Ertragslage erforderlich und vorhanden.
+Tennet_TSO_2024,R15,relevant,relevant,1,"Lagebericht aufzustellen; Analyse der Finanzlage (Kapitalstruktur, Investitionen, Cashflow) einschlägig."
+Tennet_TSO_2024,R17,relevant,relevant,1,"Bedeutsamste finanzielle Leistungsindikatoren (z.B. Betriebsergebnis, Gesamtkapitalrentabilität) sind einzubeziehen."
+Tennet_TSO_2024,R19,relevant,relevant,1,"Anlagevermögen vorhanden (14.554,1 Mio. €); Anlagenspiegel ist als Anlage zum Anhang gegeben."
+Tennet_TSO_2024,R22,relevant,relevant,1,Aufsichtsrat und Geschäftsführung vorhanden; Gesamtbezüge des Aufsichtsrats angegeben (165 T€); Angabepflicht einschlägig.
+Tennet_TSO_2024,R23,not_relevant,not_relevant,1,Kein entgeltlich erworbener Geschäfts- oder Firmenwert in der Bilanz aktiviert.
+Tennet_TSO_2024,R24,not_relevant,not_relevant,1,Aufgrund des Gewinnabführungsvertrags werden keine latenten Steuern bei der TTG bilanziert.
+WN24_2024,R02,relevant,relevant,1,"Prognosebericht vorhanden, daher ist die Angabe des Prognosezeitraums (Geschäftsjahr 2025) einschlägig."
+WN24_2024,R03,relevant,relevant,1,"Prognosebericht vorhanden; wesentliche Annahmen (moderate Erholung Europa, Konflikte, Zölle) sind darzustellen."
+WN24_2024,R04,relevant,relevant,1,"Bedeutsamste finanzielle Leistungsindikatoren (Umsatz, EBITDA, EBIT) werden zur Steuerung verwendet, Prognosen dazu sind einschlägig."
+WN24_2024,R10,relevant,relevant,1,Risiko- und Chancenbericht vorhanden; Darstellung der Bedeutung/Rangordnung der Risiken ist einschlägig.
+WN24_2024,R11,relevant,relevant,1,Risiko- und Chancenbericht vorhanden; zusammenfassende Gesamtaussage zur Risiko-/Chancenlage ist einschlägig.
+WN24_2024,R12,relevant,not_relevant,0,"Die Gesellschaft verwendet Finanzinstrumente (Forderungen, Cash-Pooling, Ausfallrisiken werden adressiert); Finanzrisikoangaben einschlägig."
+WN24_2024,R14,relevant,relevant,1,Lagebericht aufzustellen; Analyse der Ertragslage ist Pflichtbestandteil.
+WN24_2024,R15,relevant,relevant,1,Lagebericht aufzustellen; Analyse der Finanzlage einschl. Cashflows ist einschlägig.
+WN24_2024,R17,relevant,relevant,1,"Bedeutsamste finanzielle Leistungsindikatoren (Umsatz, EBITDA, EBIT) werden zur internen Steuerung verwendet und sind einzubeziehen."
+WN24_2024,R19,relevant,relevant,1,Anlagevermögen > 0 in der Bilanz vorhanden; Anlagenspiegel ist erforderlich und auch dargestellt.
+WN24_2024,R22,relevant,not_relevant,0,"Geschäftsführer vorhanden; Angabepflicht der Gesamtbezüge besteht grundsätzlich, wobei die Schutzklausel § 286 Abs. 4 HGB in Anspruch genommen wird."
+WN24_2024,R23,relevant,not_relevant,0,Entgeltlich erworbener Geschäfts- oder Firmenwert (Restbuchwert TEUR 559) ist aktiviert; Angabe der Abschreibungsdauer (10 Jahre) ist einschlägig.
+WN24_2024,R24,not_relevant,not_relevant,1,Latente Steuern werden auf Ebene des Organträgers (Axel Springer SE) ermittelt und bilanziert; in dieser Bilanz sind keine latenten Steuern angesetzt.
+Wajos_2024,R02,relevant,relevant,1,Prognosebericht vorhanden; Prognosezeitraum ist anzugeben (DRS 20.119/127).
+Wajos_2024,R03,relevant,relevant,1,Prognosebericht vorhanden; wesentliche Annahmen der Prognose sind darzustellen.
+Wajos_2024,R04,relevant,relevant,1,Prognosebericht vorhanden; Prognoseaussagen zu bedeutsamsten Leistungsindikatoren grundsätzlich anwendbar.
+Wajos_2024,R10,relevant,relevant,1,Risiko- und Chancenbericht vorhanden; Darstellung der Bedeutung der Risiken/Chancen einschlägig.
+Wajos_2024,R11,relevant,relevant,1,Risiko- und Chancenbericht vorhanden; Gesamtbild zur Risiko-/Chancenlage anwendbar.
+Wajos_2024,R12,relevant,relevant,1,"Unternehmen verwendet Finanzinstrumente (Forderungen, Verbindlichkeiten, Bankguthaben); eigener Abschnitt VI zur Risikoberichterstattung vorhanden."
+Wajos_2024,R14,relevant,relevant,1,Lagebericht aufzustellen (mittelgroße KapG); Analyse der Ertragslage einschlägig.
+Wajos_2024,R15,relevant,relevant,1,Lagebericht aufzustellen; Analyse der Finanzlage einschl. Kapitalstruktur/Liquidität einschlägig.
+Wajos_2024,R17,relevant,relevant,1,Lagebericht aufzustellen; finanzielle Leistungsindikatoren grundsätzlich einzubeziehen.
+Wajos_2024,R19,relevant,relevant,1,Anlagevermögen > 0 vorhanden; Anlagenspiegel ist erforderlich und wurde als Anlage A erstellt.
+Wajos_2024,R22,relevant,not_relevant,0,"Geschäftsführer vorhanden; Pflicht zur Angabe der Gesamtbezüge dem Grunde nach einschlägig, Schutzklausel § 286 Abs. 4 HGB greift hier."
+Wajos_2024,R23,not_relevant,not_relevant,1,Kein entgeltlich erworbener Geschäfts- oder Firmenwert in der Bilanz aktiviert (nur Konzessionen/Lizenzen).
+Wajos_2024,R24,not_relevant,not_relevant,1,Keine latenten Steuern in der Bilanz angesetzt; Posten nicht vorhanden.
+Yaveon_2024,R02,relevant,relevant,1,Prognosebericht vorhanden; Angabe des Prognosezeitraums erforderlich.
+Yaveon_2024,R03,relevant,relevant,1,Prognosebericht vorhanden; wesentliche Annahmen darzustellen.
+Yaveon_2024,R04,relevant,relevant,1,"Bedeutsamste Leistungsindikatoren (adj. EBITDA, Umsatz) werden zur internen Steuerung genutzt; Prognose dazu erforderlich."
+Yaveon_2024,R10,relevant,relevant,1,Chancen- und Risikobericht vorhanden; Darstellung der Bedeutung erforderlich.
+Yaveon_2024,R11,relevant,relevant,1,Risiko- und Chancenbericht vorhanden; Gesamtbild erforderlich.
+Yaveon_2024,R12,relevant,relevant,1,"Eigener Abschnitt zur Risikoberichterstattung in Bezug auf Finanzinstrumente (Liquiditäts-, Währungs-, Ausfall-, Preisrisiken) vorhanden."
+Yaveon_2024,R14,relevant,relevant,1,Lagebericht aufzustellen; Analyse der Ertragslage einschlägig.
+Yaveon_2024,R15,relevant,relevant,1,Lagebericht aufzustellen; Analyse der Finanzlage (inkl. Kapitalflussrechnung) einschlägig.
+Yaveon_2024,R17,relevant,relevant,1,Finanzielle Leistungsindikatoren (adj. EBITDA) werden zur Steuerung verwendet.
+Yaveon_2024,R19,relevant,relevant,1,Anlagevermögen > 0 vorhanden; Anlagenspiegel ist im Anhang enthalten.
+Yaveon_2024,R22,relevant,not_relevant,0,"Geschäftsführer vorhanden; Pflicht grundsätzlich einschlägig, auch wenn Schutzklausel § 286 Abs. 4 HGB genutzt wird."
+Yaveon_2024,R23,not_relevant,not_relevant,1,Kein entgeltlich erworbener Geschäfts- oder Firmenwert in der Bilanz aktiviert.
+Yaveon_2024,R24,not_relevant,not_relevant,1,Aufgrund ertragsteuerlicher Organschaft sind latente Steuern bei der Organträgerin auszuweisen; keine latenten Steuern in dieser Bilanz angesetzt.
+Zollern_2024,R02,relevant,relevant,1,Prognosebericht vorhanden; Prognosezeitraum (Geschäftsjahr 2025) ist anzugeben.
+Zollern_2024,R03,relevant,relevant,1,"Prognosebericht vorhanden; wesentliche Annahmen (z.B. keine Eskalation der Konflikte, reguläres Geschäft) sind darzustellen."
+Zollern_2024,R04,relevant,relevant,1,"Bedeutsamste Leistungsindikatoren (Umsatz, EBIT, Konzernjahresergebnis, LTII) werden genannt; Prognosen dazu erforderlich."
+Zollern_2024,R10,relevant,relevant,1,Risiko- und Chancenbericht vorhanden; Darstellung der Bedeutung der Risiken/Chancen einschlägig.
+Zollern_2024,R11,relevant,relevant,1,Risiko- und Chancenbericht vorhanden; Gesamtbild der Risiko- und Chancenlage erforderlich.
+Zollern_2024,R12,relevant,not_relevant,0,"Konzern verwendet Finanzinstrumente (Darlehen, Forderungen, Fremdwährungskonten); Finanzrisiken (Zins-, Ausfall-, Währungsrisiken) werden im Lagebericht behandelt."
+Zollern_2024,R14,relevant,relevant,1,Lagebericht aufzustellen; Analyse der Ertragslage einschlägig.
+Zollern_2024,R15,relevant,relevant,1,"Lagebericht aufzustellen; Analyse der Finanzlage (Cashflow, Kapitalstruktur) einschlägig."
+Zollern_2024,R17,relevant,relevant,1,"Lagebericht aufzustellen; bedeutsamste finanzielle Leistungsindikatoren (Umsatz, EBIT, Konzernjahresergebnis) der internen Steuerung sind einzubeziehen."
+Zollern_2024,R19,relevant,relevant,1,Anlagevermögen > 0 vorhanden; Konzernanlagenspiegel ist erforderlich und auch enthalten.
+Zollern_2024,R22,relevant,unclear,0,"Geschäftsführungsorgan vorhanden; Angabe der Gesamtbezüge dem Grunde nach einschlägig, Schutzklausel § 286 Abs. 4 HGB wird in Anspruch genommen."
+Zollern_2024,R23,not_relevant,not_relevant,1,"Geschäfts- oder Firmenwert ist mit Buchwert 0,00 EUR vollständig abgeschrieben; kein aktivierter Firmenwert in der Bilanz."
+Zollern_2024,R24,relevant,relevant,1,"Bilanzierte aktive latente Steuern vorhanden; Angabe zu Differenzen, Verlustvorträgen und Steuersätzen erforderlich."

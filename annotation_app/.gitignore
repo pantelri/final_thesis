@@ -1,0 +1,10 @@
+.env
+.env.example
+.nicegui_storage/
+__pycache__/
+*.pyc
+*.pyo
+.venv/
+venv/
+*.override.yml
+scripts/seed_real_annotators.py

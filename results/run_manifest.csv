@@ -1,0 +1,53 @@
+section,key,value
+meta,manifest_status,FINAL (Phase 8)
+meta,git_commit,0f8a757a9af913a49a0f5530a8ae730da5e95a52
+meta,recorded_utc,2026-06-30T12:30:20Z
+meta,global_seed,42
+meta,n_bootstrap,1000
+meta,bootstrap,"Efron percentile, N=1000 @ seed 42; significant iff 95% CI excludes 0"
+meta,interpreter,conda env thesis2; run python -m scripts.eval.<module> from repo root
+dataset,grid,182 items = 13 obligations x 14 companies
+dataset,obligations,"R02,R03,R04,R10,R11,R12,R14,R15,R17,R19,R22,R23,R24"
+dataset,relevance_population,182 scored (relevant 141 / not_relevant 37 / unclear 4)
+dataset,retrieval_population,170 pairs (is_relevant=true)
+dataset,fulfillment_population_ternary,"141 scored, 3-class (fulfilled 104 / partially 27 / not_fulfilled 10); majority 0.738"
+dataset,fulfillment_population_binary,"140 scored, 2-class (fulfilled 122 / not_fulfilled 18); majority 0.871"
+dataset,binary_relabel,2026-06-30 admin export Output/Export-ALL-26-06-30; 27 'partially' re-decided; see scripts/eval/_refresh_gt_binary.py
+retrieval,eval_set,170 pairs (is_relevant=true)
+retrieval,factorial,"2 embedding x 2 segmentation x 2 table_rep x 4 query_variant x k{1,3,5,7}"
+retrieval,embeddings,gemini=google/gemini-embedding-001 (3072d); qwen3=qwen/qwen3-embedding-8b (4096d)
+retrieval,segmentations,"baseSeg (sliding-window, 1534 chunks); sentSeg (sentence-aware, 2007 chunks); 701-char budget / 84-char overlap"
+retrieval,table_rep,raw_md (verbatim table markdown); llmdesc (Qwen3.7-Max German table description)
+retrieval,query_variants,enriched (retrieval_text); zeroshot; oneshot (LOO); twoshot (seed 42)
+retrieval,selection_metric,Recall@5 (operating_k aligns with verification k=5)
+retrieval,winner,gemini / baseSeg / llmdesc / enriched @ k=5; collection google001_baseSeg_llmdesc
+retrieval,winner_recall_at5,0.6891
+retrieval,winner_hit_at5,0.8882
+retrieval,winner_mrr_at5,0.6951
+stage1_relevance,task,"is_applicable -> relevant/not_relevant/unclear; one call per company, JSON"
+stage1_relevance,winner,gemini_3_1_pro (accuracy 0.9176)
+stage1_relevance,finding,errors one-directional (over-predict relevant); relevant-recall >= 0.985; H3 unclear-avoidance near-total
+stage3_fulfillment,task,is_fulfilled; verifier judges from retrieved passages
+stage3_fulfillment,design,"4 LLMs x {predicted@5, oracle} x {statute_only, web_enriched}; 3-class GT (pre-relabel)"
+stage3_fulfillment,best_ternary_predicted_statute,qwen_3_7_max (accuracy 0.6667)
+stage3_fulfillment,H2_context,web_enriched does NOT help; significantly hurts gemini
+stage3_fulfillment,predicted_vs_oracle,predicted >= oracle (sig only opus/statute) -> retrieval is not the Stage-3 bottleneck; the verdict is
+final_pipeline,decision,P1 = 2-option binary prompt (fulfilled/not_fulfilled); user choice 2026-06-30
+final_pipeline,model,qwen_3_7_max / predicted@5 (rank order) / statute_only
+final_pipeline,accuracy_binary,0.7571 (majority 0.871)
+final_pipeline,f2_needs_review,0.4630
+final_pipeline,binary_vs_ternary,2 options does NOT beat 3-class collapse or the 0.871 baseline; F2 study in results/F2_pipeline_comparison.md
+rq5_passage_position,arms,top-5 rank / top-1 / top-5 doc-order / top-5 relevance-last (binary GT)
+rq5_passage_position,finding,"order is noise (no U-shape); top-1 << top-5 (delta -0.157, sig)"
+e2e,pipeline,best-of-breed: gemini S1 + retrieval winner + qwen S3 (binary); 140 pairs
+e2e,metric,cumulative correctness (all required stages right; correct verdict on wrong span = error)
+e2e,full_accuracy,0.7286
+e2e,oracle_ceiling_rel_retr,0.7500 (Stage-3 caps the pipeline)
+e2e,bottleneck,"retrieval (delta +0.0214, significant=no)"
+verification,k,5
+verification,context_variants,statute_only (legal_basis + verification_criterion); web_enriched
+gen_models,claude_opus_4_8,anthropic/claude-opus-4-8
+gen_models,gemini_3_1_pro,google/gemini-3.1-pro-preview
+gen_models,qwen_3_7_max,qwen/qwen3.7-max
+gen_models,mimo_v2_5_pro,xiaomi/mimo-v2.5-pro
+gen_models,bert_nli,"MoritzLaurer/mDeBERTa-v3-base-xnli-multilingual-nli-2mil7 (baseline, not run to completion)"

@@ -1,0 +1,5 @@
+model,model_id,n_scored,n_parse_fail,accuracy,acc_ci_lo,acc_ci_hi,macro_f1,macro_f1_ci_lo,macro_f1_ci_hi,precision_relevant,recall_relevant,f1_relevant,support_relevant,precision_not_relevant,recall_not_relevant,f1_not_relevant,support_not_relevant,precision_unclear,recall_unclear,f1_unclear,support_unclear
+claude_opus_4_8,anthropic/claude-opus-4-8,182,0,0.8736,0.824,0.9176,0.5303,0.4759,0.5839,0.8642,0.9929,0.9241,141,0.95,0.5135,0.6667,37,0.0,0.0,0.0,4
+gemini_3_1_pro,google/gemini-3.1-pro-preview,182,0,0.9176,0.8736,0.9505,0.5919,0.5492,0.6259,0.9205,0.9858,0.9521,141,0.9032,0.7568,0.8235,37,0.0,0.0,0.0,4
+qwen_3_7_max,qwen/qwen3.7-max,182,0,0.8956,0.8516,0.9396,0.5681,0.5214,0.6123,0.9026,0.9858,0.9424,141,0.9231,0.6486,0.7619,37,0.0,0.0,0.0,4
+mimo_v2_5_pro,xiaomi/mimo-v2.5-pro,182,0,0.8571,0.8022,0.9121,0.6275,0.4908,0.779,0.8859,0.9362,0.9103,141,0.7667,0.6216,0.6866,37,0.3333,0.25,0.2857,4
